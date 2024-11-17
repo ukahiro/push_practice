@@ -4,3 +4,16 @@
 2024-11-17 14:25:11.409 [info] Found 0 repositories during activation
 2024-11-17 14:25:11.409 [info] Git repository found, initializing review manager and pr tree view.
 2024-11-17 14:25:11.410 [info] Registering git provider
+2024-11-17 14:28:51.231 [info] Repository file:///home/vscode has been opened
+2024-11-17 14:28:51.231 [info] Review+0> Validate state in progress
+2024-11-17 14:28:51.231 [info] Review+0> Validating state...
+2024-11-17 14:28:51.233 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-11-17 14:28:51.233 [info] No GitHub remotes found for folder /home/vscode
+2024-11-17 14:28:51.348 [info] Review+0> Queuing additional validate state
+2024-11-17 14:28:51.348 [info] Repo state for file:///home/vscode changed.
+2024-11-17 14:28:51.348 [info] Repo file:///home/vscode has already been setup.
+2024-11-17 14:28:51.731 [info] Review+0> Validating state...
+2024-11-17 14:28:51.731 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-11-17 14:28:51.731 [info] No GitHub remotes found for folder /home/vscode
+2024-11-17 14:28:51.746 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-11-17 14:28:51.758 [info] Review+0> No matching pull request metadata found on GitHub for current branch main

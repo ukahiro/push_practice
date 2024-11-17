@@ -2,11 +2,11 @@
 [Client I] isRunningInWeb: "true"
 [Client V] Initializing authentication
 [API I] Successfully signed in
-[Client:extension:4203 I] initializing
-[Client:extension:4203:resolver I] created with protocol "codespaces"
+[Client:extension:265c I] initializing
+[Client:extension:265c:resolver I] created with protocol "codespaces"
 [RemoteExplorer I] Updating codespace performance info
 [DevContainerJsonSupport I] Initializing devcontainer.json support package
-[DevContainerJsonSupport V] [2024-11-17T14:25:07.936Z] Internal initialization of dev container support package...
+[DevContainerJsonSupport V] [2024-11-17T14:31:33.421Z] Internal initialization of dev container support package...
 
 [Client I] Connecting to current codespace: psychic-tribble-qj5qxrjpx7q3x6gq
 [Command:Connect I] Decorator starting: ErrorNotification
@@ -14,15 +14,15 @@
 [Client I] Jupyter API registered? false
 [API:retries-left-2 I] making GET request for "https://api.github.com/user/codespaces/psychic-tribble-qj5qxrjpx7q3x6gq"
 [RemoteExplorer I] Updating codespace performance info
-[Client:extension:4203:resolver:resolve:1 I] resolve retry #3
-[Client:extension:4203:resolver:resolve:1 I] resolving "codespaces+psychic-tribble-qj5qxrjpx7q3x6gq"
-[Client:extension:4203:resolver:resolve:1 I] codespace: "psychic-tribble-qj5qxrjpx7q3x6gq", fetching details
-[Client:extension:4203:resolver:resolve:1:fetch-codespace-info I] fetching codespace details for "psychic-tribble-qj5qxrjpx7q3x6gq"
-[Client:extension:4203:resolver:resolve:1:fetch-codespace-info I] signed in, getting the details
-[Client:extension:4203:resolver:resolve:1:fetch-codespace-info I] fetching codespace "psychic-tribble-qj5qxrjpx7q3x6gq" (retries left: 2)
+[Client:extension:265c:resolver:resolve:1 I] resolve retry #3
+[Client:extension:265c:resolver:resolve:1 I] resolving "codespaces+psychic-tribble-qj5qxrjpx7q3x6gq"
+[Client:extension:265c:resolver:resolve:1 I] codespace: "psychic-tribble-qj5qxrjpx7q3x6gq", fetching details
+[Client:extension:265c:resolver:resolve:1:fetch-codespace-info I] fetching codespace details for "psychic-tribble-qj5qxrjpx7q3x6gq"
+[Client:extension:265c:resolver:resolve:1:fetch-codespace-info I] signed in, getting the details
+[Client:extension:265c:resolver:resolve:1:fetch-codespace-info I] fetching codespace "psychic-tribble-qj5qxrjpx7q3x6gq" (retries left: 2)
 [API:retries-left-2 I] making GET request for "https://api.github.com/user/codespaces/psychic-tribble-qj5qxrjpx7q3x6gq"
 [RemoteExplorer I] Updating codespace performance info
-[Client:extension:4203:resolver I] successfully fetched codespace details> object #0: {
+[Client:extension:265c:resolver I] successfully fetched codespace details> object #0: {
   "id": 22014744,
   "name": "<32:<redacted>>",
   "environment_id": "5fd3b7a4-c66d-4604-a428-f9671c133a3e",
@@ -107,7 +107,7 @@
   },
   "prebuild": null,
   "created_at": "2024-11-17T21:15:30+09:00",
-  "updated_at": "2024-11-17T23:25:11+09:00",
+  "updated_at": "2024-11-17T23:31:37+09:00",
   "last_used_at": "2024-11-17T23:23:21+09:00",
   "state": "Available",
   "url": "https://api.github.com/user/codespaces/psychic-tribble-qj5qxrjpx7q3x6gq",
@@ -126,6 +126,7 @@
   "stop_url": "https://api.github.com/user/codespaces/psychic-tribble-qj5qxrjpx7q3x6gq/stop",
   "pulls_url": null,
   "recent_folders": [
+    "/home/vscode/progate_path/self_introduction_branch/self_introduction",
     "/home/vscode/progate_path/self_introduction_commit/self_introduction",
     "/home/vscode"
   ],
@@ -180,14 +181,14 @@
   "publish_url": null
 }
 [RemoteExplorer I] Updating codespace performance info
-[Client:extension:4203:resolver:resolve:1:check-codespace-state I] codespace psychic-tribble-qj5qxrjpx7q3x6gq (id: 5fd3b7a4-c66d-4604-a428-f9671c133a3e) is in the "Default" state
-[Client:extension:4203:resolver:resolve:1:check-codespace-state I] noop
-[Client:extension:4203:resolver I] Initializing RPC client
-[Client:extension:4203:resolver I] Running in web, using unix socket for communication
-[Client:extension:4203:resolver I] Initializing Node-based codespace host service client
-[Client:extension:4203:resolver I] Initializing Node-based VS Code server host service client
-[Client:extension:4203:resolver I] Initializing Node-based Jupyter server host service client
-[Client:extension:4203:resolver:resolve:1:check-codespace-state I] vscode connection options: > object #0: {
+[Client:extension:265c:resolver:resolve:1:check-codespace-state I] codespace psychic-tribble-qj5qxrjpx7q3x6gq (id: 5fd3b7a4-c66d-4604-a428-f9671c133a3e) is in the "Default" state
+[Client:extension:265c:resolver:resolve:1:check-codespace-state I] noop
+[Client:extension:265c:resolver I] Initializing RPC client
+[Client:extension:265c:resolver I] Running in web, using unix socket for communication
+[Client:extension:265c:resolver I] Initializing Node-based codespace host service client
+[Client:extension:265c:resolver I] Initializing Node-based VS Code server host service client
+[Client:extension:265c:resolver I] Initializing Node-based Jupyter server host service client
+[Client:extension:265c:resolver:resolve:1:check-codespace-state I] vscode connection options: > object #0: {
   "environmentId": "5fd3b7a4-c66d-4604-a428-f9671c133a3e",
   "vsCodeCommit": "f1a4fb101478ce6ec82fe9627c43efbf9e98c813",
   "vsCodeQuality": "stable",
@@ -198,16 +199,16 @@
   "telemetry": true
 }
 [RemoteExplorer I] Updating codespace details
-[Client:extension:4203:resolver I] Executed start-remote-server using gRPC
-[Client:extension:4203:resolver:resolve:1 I] vscode server remote port: "45853", local port: "undefined"}
-[Client V] connect duration: 5832 ms
-[Client:extension:4203:resolver:resolve:1 I] Progress: Done
-[Client:extension:4203:resolver I] Subscribed to event stream
-[Client:extension:4203:resolver:resolve:1:background-tasks I] launching background configuration tasks
-[Client:extension:4203:resolver:resolve:1:background-tasks I] Running in web, starting post attach command listener without disposable
-[Client:extension:4203:resolver:resolve:1:background-tasks:post-attach-command-manager I] PostAttachCommandManager: addEnvironmentConfiguredEventCallback()
-[Client:extension:4203:resolver:resolve:1:background-tasks I] no max idle timeout notice
-[Client:extension:4203:resolver:resolve:1:background-tasks V] checking correctness of the codespace session path> object #0: [
+[Client:extension:265c:resolver I] Executed start-remote-server using gRPC
+[Client:extension:265c:resolver:resolve:1 I] vscode server remote port: "45853", local port: "undefined"}
+[Client V] connect duration: 4460 ms
+[Client:extension:265c:resolver:resolve:1 I] Progress: Done
+[Client:extension:265c:resolver I] Subscribed to event stream
+[Client:extension:265c:resolver:resolve:1:background-tasks I] launching background configuration tasks
+[Client:extension:265c:resolver:resolve:1:background-tasks I] Running in web, starting post attach command listener without disposable
+[Client:extension:265c:resolver:resolve:1:background-tasks:post-attach-command-manager I] PostAttachCommandManager: addEnvironmentConfiguredEventCallback()
+[Client:extension:265c:resolver:resolve:1:background-tasks I] no max idle timeout notice
+[Client:extension:265c:resolver:resolve:1:background-tasks V] checking correctness of the codespace session path> object #0: [
   {
     "uri": {
       "$mid": 1,
@@ -220,34 +221,26 @@
     "index": 0
   }
 ]
-[Client:extension:4203:resolver:resolve:1:background-tasks I] session path correction - progressType: "0"
-[Client:extension:4203:resolver:resolve:1:background-tasks I] Running in web, starting dev container change event listener without disposable
-[Client:extension:4203:resolver:resolve:1:background-tasks I] Running in web, starting secrets updated event listener without disposable
-[Client:extension:4203:resolver:resolve:1:background-tasks I] Running in web, starting codespace stopping event listener without disposable
-[Client:extension:4203:resolver:resolve:1:background-tasks I] starting activity monitor, isRunningInWeb: "true"
-[Client:extension:4203:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] isRunningInWeb: true
-[Client:extension:4203:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] starting activity monitor
-[Client:extension:4203:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
-[Client:extension:4203:resolver:resolve:1:background-tasks I] Running in web, starting user notification event listener without disposable
-[Command:Connect I] Command [Connect to Codespace]: Connect to Codespace Success (8393ms)
-[Command:Connect I] Decorator finishing: Telemetry. Duration: 1ms (0 + 1)
-[Command:Connect I] Decorator finishing: ErrorNotification. Duration: 61ms (1 + 60)
-[Client:extension:4203:resolver I] Received event: Subscribed
-[Client:extension:4203:resolver I] Client e5530d22-f1c2-4ac4-86b3-d29cfc78c353 subscribed to event stream
-[Client:extension:4203:resolver I] Received event: EnvironmentConfigured
-[Client:extension:4203:resolver:resolve:1:background-tasks:post-attach-command-manager I] PostAttachCommandManager: handleEnvironmentConfiguredEvent()
-[Client:extension:4203:resolver:resolve:1:background-tasks I] GetRemotePid: Echoing $PPID to /tmp/codespace_pids/.pid-35e4e20b-0b79-4732-8195-1d026f8251b4...
-[Client:extension:4203:resolver:resolve:1:background-tasks I] GetRemotePid: Start polling for existance of PID file at file:///tmp/codespace_pids/.pid-35e4e20b-0b79-4732-8195-1d026f8251b4 took 1 ms...
-[Client:extension:4203:resolver:resolve:1:background-tasks I] Executed is-recovery-container using gRPC
-[Client:extension:4203:resolver:resolve:1:background-tasks V] not in recovery container
-[Client:extension:4203:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
-[Client:extension:4203:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
-[Client:extension:4203:resolver:resolve:1:background-tasks I] Executed configure-environment using gRPC
-[Client:extension:4203:resolver:resolve:1:background-tasks I] Executed get-container-persisted-folder using gRPC
-[Client:extension:4203:resolver:resolve:1:background-tasks V] container folder path: "/workspaces/.codespaces/.persistedshare"
-[Client:extension:4203:resolver:resolve:1:background-tasks V] shared folder path: "/workspaces/.codespaces/shared/postCreateOutput.json"
-[Client:extension:4203:resolver:resolve:1:background-tasks V] shared file path: "/workspaces/.codespaces/shared/postCreateOutput.json"
-[Performance I] Executed get-container-persisted-folder using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks I] session path correction - progressType: "0"
+[Client:extension:265c:resolver:resolve:1:background-tasks I] Running in web, starting dev container change event listener without disposable
+[Client:extension:265c:resolver:resolve:1:background-tasks I] Running in web, starting secrets updated event listener without disposable
+[Client:extension:265c:resolver:resolve:1:background-tasks I] Running in web, starting codespace stopping event listener without disposable
+[Client:extension:265c:resolver:resolve:1:background-tasks I] starting activity monitor, isRunningInWeb: "true"
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] isRunningInWeb: true
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] starting activity monitor
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks I] Running in web, starting user notification event listener without disposable
+[Command:Connect I] Command [Connect to Codespace]: Connect to Codespace Success (7535ms)
+[Command:Connect I] Decorator finishing: Telemetry. Duration: 7ms (0 + 7)
+[Command:Connect I] Decorator finishing: ErrorNotification. Duration: 0ms (0 + 0)
+[Client:extension:265c:resolver I] Received event: Subscribed
+[Client:extension:265c:resolver I] Client 7101b4cb-9a01-40e6-bd1d-e725fe7e8326 subscribed to event stream
+[Client:extension:265c:resolver I] Received event: EnvironmentConfigured
+[Client:extension:265c:resolver:resolve:1:background-tasks:post-attach-command-manager I] PostAttachCommandManager: handleEnvironmentConfiguredEvent()
+[Client:extension:265c:resolver:resolve:1:background-tasks I] GetRemotePid: Echoing $PPID to /tmp/codespace_pids/.pid-e341e4d7-ccfd-4e67-bcbe-7b28bd4b24c5...
+[Client:extension:265c:resolver:resolve:1:background-tasks I] GetRemotePid: Start polling for existance of PID file at file:///tmp/codespace_pids/.pid-e341e4d7-ccfd-4e67-bcbe-7b28bd4b24c5 took 1 ms...
+[Client:extension:265c:resolver:resolve:1:background-tasks I] Executed is-recovery-container using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks V] not in recovery container
 [ResourceUsage I] Executed get-container-persisted-folder using gRPC
 [ResourceUsage V] container folder path: "/workspaces/.codespaces/.persistedshare"
 [ResourceUsage V] shared folder path: "/workspaces/.codespaces/shared/resource-usage.json"
@@ -255,47 +248,34 @@
 [ResourceUsage I] Starting monitor
 [ResourceUsage I] Checking if the codespace connection exists
 [ResourceUsage I] Running in web, starting monitor without disposable
-[Client:extension:4203:resolver:resolve:1:background-tasks:openDefaultFiles I] Skipping openFiles in the web because it is handled by the embedder
+[Client:extension:265c:resolver:resolve:1:background-tasks I] Executed get-container-persisted-folder using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks V] container folder path: "/workspaces/.codespaces/.persistedshare"
+[Client:extension:265c:resolver:resolve:1:background-tasks V] shared folder path: "/workspaces/.codespaces/shared/postCreateOutput.json"
+[Client:extension:265c:resolver:resolve:1:background-tasks V] shared file path: "/workspaces/.codespaces/shared/postCreateOutput.json"
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Client:extension:265c:resolver:resolve:1:background-tasks I] Executed configure-environment using gRPC
+[Performance I] Executed get-container-persisted-folder using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:openDefaultFiles I] Skipping openFiles in the web because it is handled by the embedder
 [Performance I] Starting monitor
 [Performance I] Checking if the codespace connection exists
 [Performance I] Running in web, starting monitor without disposable
-[Client:extension:4203:resolver:resolve:1:background-tasks:post-attach-command-manager I] PostAttachCommandManager: commandsKey: codespaces.483.runningPostAttachCommands
-[Client:extension:4203:resolver:resolve:1:background-tasks:post-attach-command-manager I] PostAttachCommandManager: Running /bin/bash ~/environment/.devcontainer/postAttachCommand.sh in terminal Codespaces: /bin/bash ~/environment/.devcontainer/postAttachCommand.sh
-[Client:extension:4203:resolver:resolve:1:background-tasks:post-attach-command-manager I] PostAttachCommandManager: Added Codespaces: /bin/bash ~/environment/.devcontainer/postAttachCommand.sh to codespaces.483.runningPostAttachCommands
-[RemoteExplorer I] Updating codespace performance info
-[RemoteExplorer I] Updating codespace details
+[Client:extension:265c:resolver:resolve:1:background-tasks:post-attach-command-manager I] PostAttachCommandManager: commandsKey: codespaces.483.runningPostAttachCommands
+[Client:extension:265c:resolver:resolve:1:background-tasks:post-attach-command-manager I] PostAttachCommandManager: Running /bin/bash ~/environment/.devcontainer/postAttachCommand.sh in terminal Codespaces: /bin/bash ~/environment/.devcontainer/postAttachCommand.sh
+[Client:extension:265c:resolver:resolve:1:background-tasks:post-attach-command-manager I] PostAttachCommandManager: Added Codespaces: /bin/bash ~/environment/.devcontainer/postAttachCommand.sh to codespaces.483.runningPostAttachCommands
 [Performance I] Executed get-performance-data using gRPC
 [Performance I] Executed get-performance-data using gRPC
-[Performance I] Executed get-performance-data using gRPC
-[Client:extension:4203:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
-[Client:extension:4203:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
-[Client:extension:4203:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
-[Performance I] Executed get-performance-data using gRPC
-[Performance I] Executed get-performance-data using gRPC
-[Client:extension:4203:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
-[Client:extension:4203:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
-[Client:extension:4203:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
 [Performance I] Executed get-performance-data using gRPC
 [Performance I] Executed get-performance-data using gRPC
-[Client:extension:4203:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
-[Client:extension:4203:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
-[Client:extension:4203:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
 [Performance I] Executed get-performance-data using gRPC
 [Performance I] Executed get-performance-data using gRPC
-[Performance I] Executed get-performance-data using gRPC
-[Client:extension:4203:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
-[Client:extension:4203:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
-[Client:extension:4203:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
-[Performance I] Executed get-performance-data using gRPC
-[Performance I] Executed get-performance-data using gRPC
-[Client:extension:4203:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
-[Client:extension:4203:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
-[Client:extension:4203:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
-[Performance I] Executed get-performance-data using gRPC
-[Performance I] Executed get-performance-data using gRPC
-[Performance I] Executed get-performance-data using gRPC
-[Performance I] Executed get-performance-data using gRPC
-[Performance I] Executed get-performance-data using gRPC
-[Performance I] Executed get-performance-data using gRPC
-[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
 [Performance I] Executed get-performance-data using gRPC

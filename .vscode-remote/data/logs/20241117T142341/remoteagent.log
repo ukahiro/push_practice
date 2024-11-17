@@ -159,3 +159,8 @@
 2024-11-17 14:24:55.945 [info] [127.0.0.1][5e9cb36d][ExtensionHostConnection] New connection established.
 2024-11-17 14:24:55.949 [info] [127.0.0.1][5e9cb36d][ExtensionHostConnection] <3629> Launched Extension Host Process.
 2024-11-17 14:24:56.030 [info] [127.0.0.1][7442e7a9][ManagementConnection] New connection established.
+2024-11-17 14:28:41.697 [info] New EH opened, aborting shutdown
+2024-11-17 14:31:25.692 [info] [127.0.0.1][f34a0475][ManagementConnection] New connection established.
+2024-11-17 14:31:26.623 [info] [127.0.0.1][bfc16553][ExtensionHostConnection] New connection established.
+2024-11-17 14:31:26.627 [info] [127.0.0.1][bfc16553][ExtensionHostConnection] <10856> Launched Extension Host Process.
+2024-11-17 14:31:47.966 [info] [127.0.0.1][7442e7a9][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

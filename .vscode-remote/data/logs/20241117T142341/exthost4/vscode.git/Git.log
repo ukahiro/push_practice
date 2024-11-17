@@ -1,0 +1,13 @@
+2024-11-17 14:31:32.539 [info] [main] ログ レベル: Info
+2024-11-17 14:31:32.539 [info] [main] Git の検証が検出されました: "git"
+2024-11-17 14:31:32.539 [info] [main] "git" から Git "2.46.2" を使用しています
+2024-11-17 14:31:32.539 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-17 14:31:32.539 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-17 14:31:32.540 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-17 14:31:32.546 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-17 14:31:32.552 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-17 14:31:32.555 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (1), unsafe repositories (0)
+2024-11-17 14:31:34.511 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-17 14:33:53.188 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-17 14:33:53.196 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-17 14:33:58.443 [info] > git rev-parse --show-toplevel [2ms]
