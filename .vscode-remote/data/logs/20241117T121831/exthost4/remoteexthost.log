@@ -1,0 +1,36 @@
+2024-11-17 13:04:22.880 [info] Extension host with pid 27198 started
+2024-11-17 13:04:22.880 [error] Error: EEXIST: file already exists, open '/home/vscode/.vscode-remote/data/User/workspaceStorage/-3baca3b5/vscode.lock'
+2024-11-17 13:04:22.895 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/-3baca3b5/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-11-17 13:04:22.903 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/-3baca3b5/vscode.lock': The lock does not look stale, elapsed: 11 ms, giving up.
+2024-11-17 13:04:22.904 [error] Error: EEXIST: file already exists, open '/home/vscode/.vscode-remote/data/User/workspaceStorage/-3baca3b5-1/vscode.lock'
+2024-11-17 13:04:22.904 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/-3baca3b5-1/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-11-17 13:04:22.905 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/-3baca3b5-1/vscode.lock': The lock does not look stale, elapsed: 788 ms, giving up.
+2024-11-17 13:04:22.911 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/-3baca3b5-2/vscode.lock': Lock acquired.
+2024-11-17 13:04:24.085 [info] ExtensionService#_doActivateExtension GitHub.codespaces, startup: false, activationEvent: 'onCommand:github.codespaces.activate'
+2024-11-17 13:04:24.086 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-11-17 13:04:24.087 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: false, activationEvent: '*'
+2024-11-17 13:04:24.087 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+2024-11-17 13:04:24.088 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-11-17 13:04:24.088 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-11-17 13:04:24.089 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-11-17 13:04:24.089 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-11-17 13:04:24.090 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-11-17 13:04:24.090 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-17 13:04:24.384 [warning] Using default string since no string found in i18n bundle that has the key: Keep Defaults
+2024-11-17 13:04:24.384 [warning] Using default string since no string found in i18n bundle that has the key: Configure Options
+2024-11-17 13:04:24.384 [warning] Using default string since no string found in i18n bundle that has the key: Finish
+2024-11-17 13:04:24.389 [warning] Using default string since no string found in i18n bundle that has the key: Learn More
+2024-11-17 13:04:24.389 [warning] Using default string since no string found in i18n bundle that has the key: Documentation on predefined container definitions
+2024-11-17 13:04:25.879 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-11-17 13:04:25.879 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-11-17 13:04:27.440 [info] Eager extensions activated
+2024-11-17 13:04:27.440 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-17 13:04:27.441 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-17 13:04:27.441 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-11-17 13:04:27.442 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-17 13:04:27.442 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-11-17 13:04:27.442 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-11-17 13:04:27.443 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2024-11-17 13:04:32.715 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: GitHub.vscode-pull-request-github
+2024-11-17 13:05:21.860 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-11-17 13:05:28.021 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'

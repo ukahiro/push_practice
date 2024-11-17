@@ -1,0 +1,29 @@
+2024-11-17 12:32:24.250 [warning] /home/vscode/.ssh/config: ENOENT: no such file or directory, open '/home/vscode/.ssh/config'
+2024-11-17 12:32:24.250 [info] Activation> Extension version: 0.100.1
+2024-11-17 12:32:26.936 [info] Looking for git repository
+2024-11-17 12:32:26.936 [info] Found 0 repositories during activation
+2024-11-17 12:32:26.936 [info] Git repository found, initializing review manager and pr tree view.
+2024-11-17 12:32:26.942 [info] Registering git provider
+2024-11-17 12:32:26.942 [info] Review+0> Validate state in progress
+2024-11-17 12:32:26.942 [info] Review+0> Validating state...
+2024-11-17 12:32:26.942 [info] Review+1> Validate state in progress
+2024-11-17 12:32:26.942 [info] Review+1> Validating state...
+2024-11-17 12:32:26.942 [info] Review+2> Validate state in progress
+2024-11-17 12:32:26.942 [info] Review+2> Validating state...
+2024-11-17 12:32:27.224 [info] Found GitHub remote for folder /home/vscode/environment
+2024-11-17 12:32:27.256 [info] Found GitHub remote for folder /home/vscode/.oh-my-zsh
+2024-11-17 12:32:27.257 [info] Found GitHub remote for folder /home/vscode/.nodenv
+2024-11-17 12:32:29.418 [info] Trying to use globalState for assignableUsers.
+2024-11-17 12:32:29.598 [info] Trying to use globalState for assignableUsers.
+2024-11-17 12:32:29.695 [info] Trying to use globalState for assignableUsers.
+2024-11-17 12:32:29.805 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-11-17 12:32:29.834 [info] Review+1> No matching pull request metadata found locally for current branch master
+2024-11-17 12:32:29.872 [info] Review+2> No matching pull request metadata found locally for current branch main
+2024-11-17 12:32:30.012 [info] Using globalState assignableUsers for 1.
+2024-11-17 12:32:30.046 [info] Using globalState assignableUsers for 1.
+2024-11-17 12:32:30.072 [info] Using globalState assignableUsers for 1.
+2024-11-17 12:32:30.314 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-11-17 12:32:30.317 [info] Review+2> No matching pull request metadata found on GitHub for current branch main
+2024-11-17 12:32:30.857 [info] Review+1> No matching pull request metadata found on GitHub for current branch master
+2024-11-17 12:52:22.703 [info] Repo state for file:///home/vscode/.nodenv changed.
+2024-11-17 12:52:22.703 [info] Repo file:///home/vscode/.nodenv has already been setup.

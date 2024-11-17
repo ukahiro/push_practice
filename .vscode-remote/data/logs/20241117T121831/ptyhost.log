@@ -1,0 +1,36 @@
+2024-11-17 12:19:43.321 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args ["-c","$(ls ~/.vscode-remote/bin/*/node | head -n 1) /workspaces/.codespaces/shared/codespaceStatusTool.js"]
+2024-11-17 12:19:46.819 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []
+2024-11-17 12:32:14.681 [info] Expanding terminal instance, old id -3baca3b5-4 -> new id undefined
+2024-11-17 12:32:14.681 [info] Expanding terminal instance, old id -3baca3b5-6 -> new id undefined
+2024-11-17 12:32:21.599 [warning] Persistent process "6": Process had no disconnect runners but was an orphan
+2024-11-17 12:32:21.599 [info] Persistent process reconnection "6"
+2024-11-17 12:32:21.599 [warning] Persistent process "4": Process had no disconnect runners but was an orphan
+2024-11-17 12:32:21.599 [info] Persistent process reconnection "4"
+2024-11-17 12:32:22.128 [info] Persistent process "6": Replaying 2387 chars and 1 size events
+2024-11-17 12:32:22.128 [info] Persistent process "4": Replaying 43 chars and 1 size events
+2024-11-17 12:32:31.654 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []
+2024-11-17 13:00:03.823 [info] Expanding terminal instance, old id -3baca3b5-4 -> new id undefined
+2024-11-17 13:00:03.823 [info] Expanding terminal instance, old id -3baca3b5-8 -> new id undefined
+2024-11-17 13:00:17.794 [warning] Persistent process "4": Process had no disconnect runners but was an orphan
+2024-11-17 13:00:17.794 [info] Persistent process reconnection "4"
+2024-11-17 13:00:19.571 [info] Persistent process "4": Replaying 43 chars and 1 size events
+2024-11-17 13:00:28.552 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []
+2024-11-17 13:04:18.216 [info] Expanding terminal instance, old id -3baca3b5-4 -> new id undefined
+2024-11-17 13:04:18.216 [info] Expanding terminal instance, old id -3baca3b5-8 -> new id undefined
+2024-11-17 13:04:27.705 [warning] Persistent process "8": Process had no disconnect runners but was an orphan
+2024-11-17 13:04:27.705 [warning] Persistent process "4": Process had no disconnect runners but was an orphan
+2024-11-17 13:04:27.705 [info] Persistent process reconnection "8"
+2024-11-17 13:04:27.705 [info] Persistent process reconnection "4"
+2024-11-17 13:04:28.747 [info] Persistent process "8": Replaying 2279 chars and 1 size events
+2024-11-17 13:04:28.747 [info] Persistent process "4": Replaying 43 chars and 1 size events
+2024-11-17 13:04:37.678 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []
+2024-11-17 13:09:30.728 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []
+2024-11-17 13:29:31.391 [info] Expanding terminal instance, old id -334c9dba-15 -> new id undefined
+2024-11-17 13:29:31.391 [info] Expanding terminal instance, old id -334c9dba-14 -> new id undefined
+2024-11-17 13:29:36.993 [warning] Persistent process "14": Process had no disconnect runners but was an orphan
+2024-11-17 13:29:36.993 [warning] Persistent process "15": Process had no disconnect runners but was an orphan
+2024-11-17 13:29:36.993 [info] Persistent process reconnection "14"
+2024-11-17 13:29:36.993 [info] Persistent process reconnection "15"
+2024-11-17 13:29:37.301 [info] Persistent process "14": Replaying 3965 chars and 1 size events
+2024-11-17 13:29:37.302 [info] Persistent process "15": Replaying 156 chars and 1 size events
+2024-11-17 13:29:46.059 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []

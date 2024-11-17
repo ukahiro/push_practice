@@ -1,0 +1,4 @@
+2024-11-17 14:23:54.640 [info] Expanding terminal instance, old id -334c9dba-1 -> new id undefined
+2024-11-17 14:24:21.372 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []
+2024-11-17 14:24:21.378 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []
+2024-11-17 14:25:17.157 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []

@@ -1,0 +1,419 @@
+2024-11-17 12:18:31.492 [trace] Remote configuration data at /home/vscode/.vscode-remote
+2024-11-17 12:18:31.492 [trace] process arguments: {"_":[],"host":"127.0.0.1","port":"0","connection-token-file":"/home/vscode/.vscode-remote/data/Machine/.connection-token-f1a4fb101478ce6ec82fe9627c43efbf9e98c813","without-connection-token":false,"disable-websocket-compression":false,"print-startup-performance":false,"print-ip-address":false,"accept-server-license-terms":true,"server-data-dir":"/home/vscode/.vscode-remote","enable-smoke-test-driver":false,"disable-telemetry":false,"disable-workspace-trust":false,"log":["trace"],"force-disable-user-env":true,"enable-sync":false,"use-test-resolver":false,"extensions-download-dir":"/home/vscode/.vscode-remote/extensionsCache","install-extension":["ms-azuretools.vscode-docker","dbaeumer.vscode-eslint","github.copilot","loiane.ts-extension-pack","mechatroner.rainbow-csv","mhutchie.git-graph","mikestead.dotenv","ms-vsliveshare.vsliveshare","ms-vscode.live-server","prisma.prisma"],"install-builtin-extension":["GitHub.vscode-pull-request-github","github.github-vscode-theme","github.codespaces"],"update-extensions":false,"list-extensions":false,"show-versions":false,"force":false,"do-not-sync":true,"pre-release":false,"start-server":true,"enable-remote-auto-shutdown":true,"remote-auto-shutdown-without-delay":false,"use-host-proxy":false,"without-browser-env-var":false,"help":false,"version":false,"user-data-dir":"/home/vscode/.vscode-remote/data","builtin-extensions-dir":"/vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions","extensions-dir":"/home/vscode/.vscode-remote/extensions","logsPath":"/home/vscode/.vscode-remote/data/logs/20241117T121831"}
+2024-11-17 12:18:31.492 [info] 
+
+
+
+
+2024-11-17 12:18:31.492 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/data/Machine (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-11-17 12:18:31.493 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/data/Machine'
+2024-11-17 12:18:31.500 [trace] Installing builtin extensions passed via args...
+2024-11-17 12:18:31.501 [trace] Started scanning system extensions
+2024-11-17 12:18:31.502 [trace] Started scanning user extensions {"$mid":1,"external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-11-17 12:18:31.502 [trace] Installing extensions passed via args...
+2024-11-17 12:18:31.506 [info] Extension host agent started.
+2024-11-17 12:18:31.536 [trace] [File Watcher (node.js)] ignoring a path for watching who's stat info failed to resolve: /home/vscode/.vscode-remote/data/Machine/settings.json (error: Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/data/Machine/settings.json')
+2024-11-17 12:18:31.537 [trace] [File Watcher (node.js)] starting fs.watchFile() on /home/vscode/.vscode-remote/data/Machine/settings.json (correlationId: undefined)
+2024-11-17 12:18:31.548 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-11-17 12:18:31.548 [trace] [File Watcher (node.js)] Request to stop watching: /home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-11-17 12:18:31.549 [trace] [File Watcher (node.js)] stopping file watcher (/home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>))
+2024-11-17 12:18:31.549 [debug] Error while reading the extension cache file: /home/vscode/.vscode-remote/data/CachedProfilesData/__default__profile__/extensions.builtin.cache Unable to read file '/home/vscode/.vscode-remote/data/CachedProfilesData/__default__profile__/extensions.builtin.cache' (Error: Unable to resolve nonexistent file '/home/vscode/.vscode-remote/data/CachedProfilesData/__default__profile__/extensions.builtin.cache')
+2024-11-17 12:18:31.551 [info] Started initializing default profile extensions in extensions installation folder. file:///home/vscode/.vscode-remote/extensions
+2024-11-17 12:18:31.551 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions","external":"file:///home/vscode/.vscode-remote/extensions","path":"/home/vscode/.vscode-remote/extensions","scheme":"file"}
+2024-11-17 12:18:31.563 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ms-azuretools.vscode-docker-1.29.3
+2024-11-17 12:18:31.563 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/dbaeumer.vscode-eslint-3.0.13
+2024-11-17 12:18:31.563 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/vscjava.vscode-java-debug-0.58.2024090204
+2024-11-17 12:18:31.564 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/esbenp.prettier-vscode-11.0.0
+2024-11-17 12:18:31.568 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions'
+2024-11-17 12:18:31.618 [debug] ComputeTargetPlatform: linux-x64
+2024-11-17 12:18:31.619 [trace] Scanned user extensions: 0
+2024-11-17 12:18:31.638 [trace] [File Watcher (node.js)] [raw] ["rename"] extensions.json
+2024-11-17 12:18:31.638 [trace] [File Watcher (node.js)] [raw] ["change"] extensions.json
+2024-11-17 12:18:31.638 [trace] [File Watcher (node.js)] [ADDED] /home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-17 12:18:31.640 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/vscode/.vscode-remote/extensions
+2024-11-17 12:18:31.642 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions/extensions.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-11-17 12:18:31.644 [trace] Scanned user extensions: 0
+2024-11-17 12:18:31.645 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions","external":"file:///home/vscode/.vscode-remote/extensions","path":"/home/vscode/.vscode-remote/extensions","scheme":"file"}
+2024-11-17 12:18:31.646 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions/extensions.json'
+2024-11-17 12:18:31.647 [trace] Scanned user extensions: 0
+2024-11-17 12:18:31.650 [trace] Scanned system extensions: 31
+2024-11-17 12:18:31.658 [debug] ComputeTargetPlatform: linux-x64
+2024-11-17 12:18:31.660 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-11-17 12:18:31.662 [trace] [network] #1: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - begin POST {"X-Market-Client-Id":"VSCode 1.95.3","User-Agent":"VSCode 1.95.3 (Code)","X-Market-User-Id":"0f3fc0db-fcd7-413c-b740-4e002636a47d","VSCode-SessionId":"60ea2b9d46bac4b691ae2ce3e3f222cff523a58a85dfcf21bf14d5a963373076","Content-Type":"application/json","Accept":"application/json;api-version=3.0-preview.1","Accept-Encoding":"gzip","Content-Length":"357"}
+2024-11-17 12:18:31.714 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-17 12:18:31.738 [trace] [File Watcher (node.js)] [CHANGED] /home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-17 12:18:31.814 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-17 12:18:31.931 [trace] [network] #1: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - end POST 200 {"cache-control":"no-cache, no-store, must-revalidate","pragma":"no-cache","content-length":"2898","content-type":"application/json; charset=utf-8; api-version=3.0-preview.1","content-encoding":"gzip","expires":"-1","vary":"Accept-Encoding","p3p":"CP=\"CAO DSP COR ADMa DEV CONo TELo CUR PSA PSD TAI IVDo OUR SAMi BUS DEM NAV STA UNI COM INT PHY ONL FIN PUR LOC CNT\"","set-cookie":["VstsSession=%7B%22PersistentSessionId%22%3A%22e4f0ae41-1de1-4ccc-a621-0d66a0384095%22%2C%22PendingAuthenticationSessionId%22%3A%2200000000-0000-0000-0000-000000000000%22%2C%22CurrentAuthenticationSessionId%22%3A%2200000000-0000-0000-0000-000000000000%22%2C%22SignInState%22%3A%7B%7D%7D;SameSite=None; domain=.visualstudio.com; expires=Mon, 17-Nov-2025 12:18:31 GMT; path=/; secure; HttpOnly"],"x-tfs-processid":"1b56f8de-f239-4be2-81f0-6114d35ed4e7","strict-transport-security":"max-age=31536000; includeSubDomains","activityid":"3340d49b-fc5c-4db8-9654-a7adc83a805f","x-tfs-session":"3340d49b-fc5c-4db8-9654-a7adc83a805f","x-vss-e2eid":"3340d49b-fc5c-4db8-9654-a7adc83a805f","x-vss-senderdeploymentid":"2663b13f-50e3-a655-a159-22f6f4725fab","request-context":"appId=cid-v1:84715e31-583a-4723-a46d-946169b2f4a8","access-control-expose-headers":"Request-Context","x-content-type-options":"nosniff","x-cache":"CONFIG_NOCACHE","x-msedge-ref":"Ref A: C35E7C92CAC5409C8B33257E32E9DFE0 Ref B: SG2EDGE3313 Ref C: 2024-11-17T12:18:31Z","date":"Sun, 17 Nov 2024 12:18:31 GMT"}
+2024-11-17 12:18:31.937 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-11-17 12:18:31.937 [trace] [network] #2: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - begin POST {"X-Market-Client-Id":"VSCode 1.95.3","User-Agent":"VSCode 1.95.3 (Code)","X-Market-User-Id":"0f3fc0db-fcd7-413c-b740-4e002636a47d","VSCode-SessionId":"60ea2b9d46bac4b691ae2ce3e3f222cff523a58a85dfcf21bf14d5a963373076","Content-Type":"application/json","Accept":"application/json;api-version=3.0-preview.1","Accept-Encoding":"gzip","Content-Length":"261"}
+2024-11-17 12:18:32.236 [trace] [network] #2: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - end POST 200 {"cache-control":"no-cache, no-store, must-revalidate","pragma":"no-cache","transfer-encoding":"chunked","content-type":"application/json; charset=utf-8; api-version=3.0-preview.1","content-encoding":"gzip","expires":"-1","vary":"Accept-Encoding","p3p":"CP=\"CAO DSP COR ADMa DEV CONo TELo CUR PSA PSD TAI IVDo OUR SAMi BUS DEM NAV STA UNI COM INT PHY ONL FIN PUR LOC CNT\"","set-cookie":["VstsSession=%7B%22PersistentSessionId%22%3A%22f9f9e0c0-ce10-410c-978c-733a29f02950%22%2C%22PendingAuthenticationSessionId%22%3A%2200000000-0000-0000-0000-000000000000%22%2C%22CurrentAuthenticationSessionId%22%3A%2200000000-0000-0000-0000-000000000000%22%2C%22SignInState%22%3A%7B%7D%7D;SameSite=None; domain=.visualstudio.com; expires=Mon, 17-Nov-2025 12:18:32 GMT; path=/; secure; HttpOnly"],"x-tfs-processid":"1e44230a-f56e-4419-8e56-6effa77ce113","strict-transport-security":"max-age=31536000; includeSubDomains","activityid":"860ee0b7-fc5a-4213-ab7a-223d6fafb51e","x-tfs-session":"860ee0b7-fc5a-4213-ab7a-223d6fafb51e","x-vss-e2eid":"860ee0b7-fc5a-4213-ab7a-223d6fafb51e","x-vss-senderdeploymentid":"2663b13f-50e3-a655-a159-22f6f4725fab","request-context":"appId=cid-v1:84715e31-583a-4723-a46d-946169b2f4a8","access-control-expose-headers":"Request-Context","x-content-type-options":"nosniff","x-cache":"CONFIG_NOCACHE","x-msedge-ref":"Ref A: 86E49E4D2C184F1F83DF9DA0AC47B33A Ref B: SG2EDGE3313 Ref C: 2024-11-17T12:18:31Z","date":"Sun, 17 Nov 2024 12:18:31 GMT"}
+2024-11-17 12:18:32.240 [info] [127.0.0.1][3a1ba1b6][ManagementConnection] New connection established.
+2024-11-17 12:18:32.270 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-11-17 12:18:32.270 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-11-17 12:18:32.271 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-11-17 12:18:32.272 [trace] [network] #3: https://github.gallerycdn.vsassets.io/extensions/github/vscode-pull-request-github/0.100.1/1731079052420/Microsoft.VisualStudio.Code.Manifest - begin GET {"X-Market-Client-Id":"VSCode 1.95.3","User-Agent":"VSCode 1.95.3 (Code)","X-Market-User-Id":"0f3fc0db-fcd7-413c-b740-4e002636a47d","VSCode-SessionId":"60ea2b9d46bac4b691ae2ce3e3f222cff523a58a85dfcf21bf14d5a963373076"}
+2024-11-17 12:18:32.272 [trace] [network] #4: https://github.gallerycdn.vsassets.io/extensions/github/github-vscode-theme/6.3.5/1727933603062/Microsoft.VisualStudio.Code.Manifest - begin GET {"X-Market-Client-Id":"VSCode 1.95.3","User-Agent":"VSCode 1.95.3 (Code)","X-Market-User-Id":"0f3fc0db-fcd7-413c-b740-4e002636a47d","VSCode-SessionId":"60ea2b9d46bac4b691ae2ce3e3f222cff523a58a85dfcf21bf14d5a963373076"}
+2024-11-17 12:18:32.273 [trace] [network] #5: https://github.gallerycdn.vsassets.io/extensions/github/codespaces/1.17.3/1726066722785/Microsoft.VisualStudio.Code.Manifest - begin GET {"X-Market-Client-Id":"VSCode 1.95.3","User-Agent":"VSCode 1.95.3 (Code)","X-Market-User-Id":"0f3fc0db-fcd7-413c-b740-4e002636a47d","VSCode-SessionId":"60ea2b9d46bac4b691ae2ce3e3f222cff523a58a85dfcf21bf14d5a963373076"}
+2024-11-17 12:18:32.290 [trace] [network] #3: https://github.gallerycdn.vsassets.io/extensions/github/vscode-pull-request-github/0.100.1/1731079052420/Microsoft.VisualStudio.Code.Manifest - end GET 200 {"access-control-allow-origin":"*","access-control-expose-headers":"x-ms-request-id,Server,x-ms-version,Content-Type,Content-Encoding,Cache-Control,Last-Modified,ETag,x-ms-lease-status,x-ms-blob-type,Content-Length,Date,Transfer-Encoding","age":"766642","cache-control":"public, max-age=31536000","content-type":"application/json","date":"Sun, 17 Nov 2024 12:18:32 GMT","etag":"0x8DD000878584F46","last-modified":"Fri, 08 Nov 2024 15:17:33 GMT","server":"ECAcc (sgc/56D8)","vary":"Accept-Encoding","x-cache":"HIT","x-ms-blob-type":"BlockBlob","x-ms-lease-status":"unlocked","x-ms-request-id":"7f4583dd-401e-00aa-6ef1-31c1f3000000","x-ms-version":"2009-09-19","content-length":"91420"}
+2024-11-17 12:18:32.291 [trace] [network] #4: https://github.gallerycdn.vsassets.io/extensions/github/github-vscode-theme/6.3.5/1727933603062/Microsoft.VisualStudio.Code.Manifest - end GET 200 {"access-control-allow-origin":"*","access-control-expose-headers":"x-ms-request-id,Server,x-ms-version,Content-Type,Content-Encoding,Cache-Control,Last-Modified,ETag,x-ms-lease-status,x-ms-blob-type,Content-Length,Date,Transfer-Encoding","age":"3912137","cache-control":"public, max-age=31536000","content-type":"application/json","date":"Sun, 17 Nov 2024 12:18:32 GMT","etag":"0x8DCE36CE6232D34","last-modified":"Thu, 03 Oct 2024 05:33:23 GMT","server":"ECAcc (sgc/56AC)","vary":"Accept-Encoding","x-cache":"HIT","x-ms-blob-type":"BlockBlob","x-ms-lease-status":"unlocked","x-ms-request-id":"391559a2-901e-0086-7a56-152d5c000000","x-ms-version":"2009-09-19","content-length":"2627"}
+2024-11-17 12:18:32.292 [info] Installing builtin extension 'github.github-vscode-theme'...
+2024-11-17 12:18:32.292 [trace] [network] #5: https://github.gallerycdn.vsassets.io/extensions/github/codespaces/1.17.3/1726066722785/Microsoft.VisualStudio.Code.Manifest - end GET 200 {"access-control-allow-origin":"*","access-control-expose-headers":"x-ms-request-id,Server,x-ms-version,Content-Type,Content-Encoding,Cache-Control,Last-Modified,ETag,x-ms-lease-status,x-ms-blob-type,Content-Length,Date,Transfer-Encoding","age":"5778982","cache-control":"public, max-age=31536000","content-type":"application/json","date":"Sun, 17 Nov 2024 12:18:32 GMT","etag":"0x8DCD2723B8CD9F0","last-modified":"Wed, 11 Sep 2024 14:58:44 GMT","server":"ECAcc (sgc/5709)","vary":"Accept-Encoding","x-cache":"HIT","x-ms-blob-type":"BlockBlob","x-ms-lease-status":"unlocked","x-ms-request-id":"5013ba48-701e-00c2-4a5b-045641000000","x-ms-version":"2009-09-19","content-length":"27247"}
+2024-11-17 12:18:32.293 [info] Installing builtin extension 'github.codespaces'...
+2024-11-17 12:18:32.295 [info] Installing builtin extension 'github.vscode-pull-request-github'...
+2024-11-17 12:18:32.296 [trace] ExtensionManagementService.updateControlCache
+2024-11-17 12:18:32.296 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-11-17 12:18:32.297 [trace] [network] #6: https://az764295.vo.msecnd.net/extensions/marketplace.json - begin GET {}
+2024-11-17 12:18:32.310 [trace] [network] #6: https://az764295.vo.msecnd.net/extensions/marketplace.json - end GET 200 {"accept-ranges":"bytes","access-control-allow-origin":"*","access-control-expose-headers":"x-ms-request-id,x-ms-version","age":"146","cache-control":"max-age=3600","content-md5":"IbSt9XmobFI0smnYrcyxCQ==","content-type":"application/json","date":"Sun, 17 Nov 2024 12:18:32 GMT","etag":"\"0x8DD026D94DB3472\"","expires":"Sun, 17 Nov 2024 13:18:32 GMT","last-modified":"Mon, 11 Nov 2024 16:26:22 GMT","server":"ECAcc (sgc/56E7)","x-cache":"HIT","x-ms-blob-type":"BlockBlob","x-ms-lease-state":"available","x-ms-lease-status":"unlocked","x-ms-request-id":"25b4b870-101e-0065-45ea-388b5d000000","x-ms-version":"2013-08-15","content-length":"43671"}
+2024-11-17 12:18:32.312 [info] Getting Manifest... github.github-vscode-theme
+2024-11-17 12:18:32.312 [info] Getting Manifest... github.codespaces
+2024-11-17 12:18:32.313 [info] Getting Manifest... github.vscode-pull-request-github
+2024-11-17 12:18:32.313 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-11-17 12:18:32.313 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-11-17 12:18:32.313 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-11-17 12:18:32.314 [trace] [network] #7: https://github.gallerycdn.vsassets.io/extensions/github/github-vscode-theme/6.3.5/1727933603062/Microsoft.VisualStudio.Code.Manifest - begin GET {"X-Market-Client-Id":"VSCode 1.95.3","User-Agent":"VSCode 1.95.3 (Code)","X-Market-User-Id":"0f3fc0db-fcd7-413c-b740-4e002636a47d","VSCode-SessionId":"60ea2b9d46bac4b691ae2ce3e3f222cff523a58a85dfcf21bf14d5a963373076"}
+2024-11-17 12:18:32.314 [trace] [network] #8: https://github.gallerycdn.vsassets.io/extensions/github/codespaces/1.17.3/1726066722785/Microsoft.VisualStudio.Code.Manifest - begin GET {"X-Market-Client-Id":"VSCode 1.95.3","User-Agent":"VSCode 1.95.3 (Code)","X-Market-User-Id":"0f3fc0db-fcd7-413c-b740-4e002636a47d","VSCode-SessionId":"60ea2b9d46bac4b691ae2ce3e3f222cff523a58a85dfcf21bf14d5a963373076"}
+2024-11-17 12:18:32.315 [trace] [network] #9: https://github.gallerycdn.vsassets.io/extensions/github/vscode-pull-request-github/0.100.1/1731079052420/Microsoft.VisualStudio.Code.Manifest - begin GET {"X-Market-Client-Id":"VSCode 1.95.3","User-Agent":"VSCode 1.95.3 (Code)","X-Market-User-Id":"0f3fc0db-fcd7-413c-b740-4e002636a47d","VSCode-SessionId":"60ea2b9d46bac4b691ae2ce3e3f222cff523a58a85dfcf21bf14d5a963373076"}
+2024-11-17 12:18:32.319 [trace] [network] #9: https://github.gallerycdn.vsassets.io/extensions/github/vscode-pull-request-github/0.100.1/1731079052420/Microsoft.VisualStudio.Code.Manifest - end GET 200 {"access-control-allow-origin":"*","access-control-expose-headers":"x-ms-request-id,Server,x-ms-version,Content-Type,Content-Encoding,Cache-Control,Last-Modified,ETag,x-ms-lease-status,x-ms-blob-type,Content-Length,Date,Transfer-Encoding","age":"766642","cache-control":"public, max-age=31536000","content-type":"application/json","date":"Sun, 17 Nov 2024 12:18:32 GMT","etag":"0x8DD000878584F46","last-modified":"Fri, 08 Nov 2024 15:17:33 GMT","server":"ECAcc (sgc/56D8)","vary":"Accept-Encoding","x-cache":"HIT","x-ms-blob-type":"BlockBlob","x-ms-lease-status":"unlocked","x-ms-request-id":"7f4583dd-401e-00aa-6ef1-31c1f3000000","x-ms-version":"2009-09-19","content-length":"91420"}
+2024-11-17 12:18:32.321 [trace] [network] #8: https://github.gallerycdn.vsassets.io/extensions/github/codespaces/1.17.3/1726066722785/Microsoft.VisualStudio.Code.Manifest - end GET 200 {"access-control-allow-origin":"*","access-control-expose-headers":"x-ms-request-id,Server,x-ms-version,Content-Type,Content-Encoding,Cache-Control,Last-Modified,ETag,x-ms-lease-status,x-ms-blob-type,Content-Length,Date,Transfer-Encoding","age":"5778982","cache-control":"public, max-age=31536000","content-type":"application/json","date":"Sun, 17 Nov 2024 12:18:32 GMT","etag":"0x8DCD2723B8CD9F0","last-modified":"Wed, 11 Sep 2024 14:58:44 GMT","server":"ECAcc (sgc/5709)","vary":"Accept-Encoding","x-cache":"HIT","x-ms-blob-type":"BlockBlob","x-ms-lease-status":"unlocked","x-ms-request-id":"5013ba48-701e-00c2-4a5b-045641000000","x-ms-version":"2009-09-19","content-length":"27247"}
+2024-11-17 12:18:32.322 [trace] [network] #7: https://github.gallerycdn.vsassets.io/extensions/github/github-vscode-theme/6.3.5/1727933603062/Microsoft.VisualStudio.Code.Manifest - end GET 200 {"access-control-allow-origin":"*","access-control-expose-headers":"x-ms-request-id,Server,x-ms-version,Content-Type,Content-Encoding,Cache-Control,Last-Modified,ETag,x-ms-lease-status,x-ms-blob-type,Content-Length,Date,Transfer-Encoding","age":"3912137","cache-control":"public, max-age=31536000","content-type":"application/json","date":"Sun, 17 Nov 2024 12:18:32 GMT","etag":"0x8DCE36CE6232D34","last-modified":"Thu, 03 Oct 2024 05:33:23 GMT","server":"ECAcc (sgc/56AC)","vary":"Accept-Encoding","x-cache":"HIT","x-ms-blob-type":"BlockBlob","x-ms-lease-status":"unlocked","x-ms-request-id":"391559a2-901e-0086-7a56-152d5c000000","x-ms-version":"2009-09-19","content-length":"2627"}
+2024-11-17 12:18:32.324 [info] Installing extension: github.codespaces {"isMachineScoped":true,"installPreReleaseVersion":false,"isBuiltin":true,"installGivenVersion":false,"isApplicationScoped":true,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-17 12:18:32.324 [info] Installing extension: github.vscode-pull-request-github {"isMachineScoped":true,"installPreReleaseVersion":false,"isBuiltin":true,"installGivenVersion":false,"isApplicationScoped":true,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-17 12:18:32.324 [info] Installing extension: github.github-vscode-theme {"isMachineScoped":true,"installPreReleaseVersion":false,"isBuiltin":true,"installGivenVersion":false,"isApplicationScoped":true,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-17 12:18:32.325 [trace] Started scanning system extensions
+2024-11-17 12:18:32.325 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-11-17 12:18:32.332 [debug] Using cached extensions scan result system file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions
+2024-11-17 12:18:32.333 [trace] Scanned system extensions: 31
+2024-11-17 12:18:32.336 [trace] Scanned user extensions: 0
+2024-11-17 12:18:32.349 [trace] Started scanning system extensions
+2024-11-17 12:18:32.349 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-11-17 12:18:32.353 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-11-17 12:18:32.353 [trace] [network] #10: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - begin POST {"X-Market-Client-Id":"VSCode 1.95.3","User-Agent":"VSCode 1.95.3 (Code)","X-Market-User-Id":"0f3fc0db-fcd7-413c-b740-4e002636a47d","VSCode-SessionId":"60ea2b9d46bac4b691ae2ce3e3f222cff523a58a85dfcf21bf14d5a963373076","Content-Type":"application/json","Accept":"application/json;api-version=3.0-preview.1","Accept-Encoding":"gzip","Content-Length":"253"}
+2024-11-17 12:18:32.366 [debug] Using cached extensions scan result system file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions
+2024-11-17 12:18:32.366 [trace] Scanned system extensions: 31
+2024-11-17 12:18:32.367 [trace] Scanned user extensions: 0
+2024-11-17 12:18:32.556 [trace] [network] #10: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - end POST 200 {"cache-control":"no-cache, no-store, must-revalidate","pragma":"no-cache","content-length":"224","content-type":"application/json; charset=utf-8; api-version=3.0-preview.1","content-encoding":"gzip","expires":"-1","vary":"Accept-Encoding","p3p":"CP=\"CAO DSP COR ADMa DEV CONo TELo CUR PSA PSD TAI IVDo OUR SAMi BUS DEM NAV STA UNI COM INT PHY ONL FIN PUR LOC CNT\"","set-cookie":["VstsSession=%7B%22PersistentSessionId%22%3A%22a3fc2ea7-4172-4d2a-b50f-7bdbec728a61%22%2C%22PendingAuthenticationSessionId%22%3A%2200000000-0000-0000-0000-000000000000%22%2C%22CurrentAuthenticationSessionId%22%3A%2200000000-0000-0000-0000-000000000000%22%2C%22SignInState%22%3A%7B%7D%7D;SameSite=None; domain=.visualstudio.com; expires=Mon, 17-Nov-2025 12:18:32 GMT; path=/; secure; HttpOnly"],"x-tfs-processid":"4bd07362-b201-45ef-81be-cc2c5779358b","strict-transport-security":"max-age=31536000; includeSubDomains","activityid":"551b8851-deec-4606-97dc-9ef74ca51e2d","x-tfs-session":"551b8851-deec-4606-97dc-9ef74ca51e2d","x-vss-e2eid":"551b8851-deec-4606-97dc-9ef74ca51e2d","x-vss-senderdeploymentid":"2663b13f-50e3-a655-a159-22f6f4725fab","request-context":"appId=cid-v1:84715e31-583a-4723-a46d-946169b2f4a8","access-control-expose-headers":"Request-Context","x-content-type-options":"nosniff","x-cache":"CONFIG_NOCACHE","x-msedge-ref":"Ref A: 61E29D4CE95246FFA90CA12231CF052A Ref B: SG2EDGE3313 Ref C: 2024-11-17T12:18:32Z","date":"Sun, 17 Nov 2024 12:18:32 GMT"}
+2024-11-17 12:18:32.557 [trace] Started scanning system extensions
+2024-11-17 12:18:32.557 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-11-17 12:18:32.567 [debug] Using cached extensions scan result system file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions
+2024-11-17 12:18:32.568 [trace] Scanned system extensions: 31
+2024-11-17 12:18:32.568 [trace] Scanned user extensions: 0
+2024-11-17 12:18:32.571 [trace] Started scanning system extensions
+2024-11-17 12:18:32.571 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-11-17 12:18:32.578 [info] Log level changed to info
+2024-11-17 12:18:34.346 [info] [127.0.0.1][cb0ac79f][ExtensionHostConnection] New connection established.
+2024-11-17 12:18:34.379 [info] [127.0.0.1][cb0ac79f][ExtensionHostConnection] <1002> Launched Extension Host Process.
+2024-11-17 12:18:38.800 [info] Extension signature verification result for github.github-vscode-theme: Success. Executed: true. Duration: 6086ms.
+2024-11-17 12:18:38.938 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/github.github-vscode-theme-6.3.5: github.github-vscode-theme
+2024-11-17 12:18:39.017 [info] Extension signature verification result for github.codespaces: Success. Executed: true. Duration: 6293ms.
+2024-11-17 12:18:39.579 [info] Renamed to /home/vscode/.vscode-remote/extensions/github.github-vscode-theme-6.3.5
+2024-11-17 12:18:39.688 [info] Extension signature verification result for github.vscode-pull-request-github: Success. Executed: true. Duration: 6466ms.
+2024-11-17 12:18:40.149 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/github.codespaces-1.17.3: github.codespaces
+2024-11-17 12:18:40.288 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.100.1: github.vscode-pull-request-github
+2024-11-17 12:18:42.387 [info] Renamed to /home/vscode/.vscode-remote/extensions/github.codespaces-1.17.3
+2024-11-17 12:18:42.387 [info] Renamed to /home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.100.1
+2024-11-17 12:18:42.437 [info] Extension installed successfully: github.github-vscode-theme file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-17 12:18:42.437 [info] Extension installed successfully: github.codespaces file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-17 12:18:42.437 [info] Extension installed successfully: github.vscode-pull-request-github file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-17 12:18:42.442 [info] Extension 'github.github-vscode-theme' v6.3.5 was successfully installed.
+2024-11-17 12:18:42.442 [info] Extension 'github.codespaces' v1.17.3 was successfully installed.
+2024-11-17 12:18:42.442 [info] Extension 'github.vscode-pull-request-github' v0.100.1 was successfully installed.
+2024-11-17 12:18:42.444 [info] Installing extensions...
+2024-11-17 12:18:42.468 [info] Installing extensions...
+2024-11-17 12:18:42.768 [info] Installing extension 'ms-ceintl.vscode-language-pack-ja'...
+2024-11-17 12:18:42.769 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2024-11-17 12:18:42.776 [info] Installing extension: ms-ceintl.vscode-language-pack-ja {"isMachineScoped":true,"isBuiltin":false,"installGivenVersion":false,"isApplicationScoped":true,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-17 12:18:43.182 [info] Installing extension 'dbaeumer.vscode-eslint'...
+2024-11-17 12:18:43.187 [info] Installing extension 'github.copilot'...
+2024-11-17 12:18:43.203 [info] Installing extension 'ms-vsliveshare.vsliveshare'...
+2024-11-17 12:18:43.205 [info] Installing extension 'ms-vscode.live-server'...
+2024-11-17 12:18:43.207 [info] Installing extension 'mechatroner.rainbow-csv'...
+2024-11-17 12:18:43.220 [info] Installing extension 'loiane.ts-extension-pack'...
+2024-11-17 12:18:43.221 [info] Installing extension 'mikestead.dotenv'...
+2024-11-17 12:18:43.246 [info] Installing extension 'ms-azuretools.vscode-docker'...
+2024-11-17 12:18:43.257 [info] Installing extension 'mhutchie.git-graph'...
+2024-11-17 12:18:43.258 [info] Installing extension 'prisma.prisma'...
+2024-11-17 12:18:43.263 [info] Getting Manifest... dbaeumer.vscode-eslint
+2024-11-17 12:18:43.266 [info] Getting Manifest... github.copilot
+2024-11-17 12:18:43.266 [info] Getting Manifest... ms-vsliveshare.vsliveshare
+2024-11-17 12:18:43.267 [info] Getting Manifest... ms-vscode.live-server
+2024-11-17 12:18:43.268 [info] Getting Manifest... mechatroner.rainbow-csv
+2024-11-17 12:18:43.268 [info] Getting Manifest... loiane.ts-extension-pack
+2024-11-17 12:18:43.269 [info] Getting Manifest... mikestead.dotenv
+2024-11-17 12:18:43.269 [info] Getting Manifest... ms-azuretools.vscode-docker
+2024-11-17 12:18:43.270 [info] Getting Manifest... mhutchie.git-graph
+2024-11-17 12:18:43.270 [info] Getting Manifest... prisma.prisma
+2024-11-17 12:18:43.327 [info] Installing extension: ms-vscode.live-server {"isMachineScoped":true,"installPreReleaseVersion":false,"isApplicationScoped":true,"isBuiltin":false,"installGivenVersion":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-17 12:18:43.327 [info] Installing extension: github.copilot {"isMachineScoped":true,"installPreReleaseVersion":false,"isApplicationScoped":true,"isBuiltin":false,"installGivenVersion":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-17 12:18:43.328 [info] Installing extension: ms-vsliveshare.vsliveshare {"isMachineScoped":true,"installPreReleaseVersion":false,"isApplicationScoped":true,"isBuiltin":false,"installGivenVersion":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-17 12:18:43.329 [info] Installing extension: dbaeumer.vscode-eslint {"isMachineScoped":true,"installPreReleaseVersion":false,"isApplicationScoped":true,"isBuiltin":false,"installGivenVersion":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-17 12:18:43.330 [info] Installing extension: loiane.ts-extension-pack {"isMachineScoped":true,"installPreReleaseVersion":false,"isApplicationScoped":true,"isBuiltin":false,"installGivenVersion":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-17 12:18:43.330 [info] Installing extension: mechatroner.rainbow-csv {"isMachineScoped":true,"installPreReleaseVersion":false,"isApplicationScoped":true,"isBuiltin":false,"installGivenVersion":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-17 12:18:43.331 [info] Installing extension: prisma.prisma {"isMachineScoped":true,"installPreReleaseVersion":false,"isApplicationScoped":true,"isBuiltin":false,"installGivenVersion":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-17 12:18:43.331 [info] Installing extension: mhutchie.git-graph {"isMachineScoped":true,"installPreReleaseVersion":false,"isApplicationScoped":true,"isBuiltin":false,"installGivenVersion":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-17 12:18:43.332 [info] Installing extension: mikestead.dotenv {"isMachineScoped":true,"installPreReleaseVersion":false,"isApplicationScoped":true,"isBuiltin":false,"installGivenVersion":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-17 12:18:43.333 [info] Installing extension: ms-azuretools.vscode-docker {"isMachineScoped":true,"installPreReleaseVersion":false,"isApplicationScoped":true,"isBuiltin":false,"installGivenVersion":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-17 12:18:43.704 [info] Getting Manifest... esbenp.prettier-vscode
+2024-11-17 12:18:43.725 [info] Getting Manifest... christian-kohler.path-intellisense
+2024-11-17 12:18:43.744 [info] Getting Manifest... rbbit.typescript-hero
+2024-11-17 12:18:43.762 [info] Getting Manifest... pmneo.tsimporter
+2024-11-17 12:18:43.778 [info] Getting Manifest... stringham.move-ts
+2024-11-17 12:18:43.812 [info] Getting Manifest... gregorbiswanger.json2ts
+2024-11-17 12:18:43.877 [info] Installing extension: esbenp.prettier-vscode {"isMachineScoped":true,"installPreReleaseVersion":false,"isApplicationScoped":true,"isBuiltin":false,"installGivenVersion":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-11-17 12:18:43.882 [info] Installing extension: christian-kohler.path-intellisense {"isMachineScoped":true,"installPreReleaseVersion":false,"isApplicationScoped":true,"isBuiltin":false,"installGivenVersion":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-11-17 12:18:43.883 [info] Installing extension: rbbit.typescript-hero {"isMachineScoped":true,"installPreReleaseVersion":false,"isApplicationScoped":true,"isBuiltin":false,"installGivenVersion":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-11-17 12:18:43.884 [info] Installing extension: pmneo.tsimporter {"isMachineScoped":true,"installPreReleaseVersion":false,"isApplicationScoped":true,"isBuiltin":false,"installGivenVersion":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-11-17 12:18:43.885 [info] Installing extension: stringham.move-ts {"isMachineScoped":true,"installPreReleaseVersion":false,"isApplicationScoped":true,"isBuiltin":false,"installGivenVersion":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-11-17 12:18:43.886 [info] Installing extension: gregorbiswanger.json2ts {"isMachineScoped":true,"installPreReleaseVersion":false,"isApplicationScoped":true,"isBuiltin":false,"installGivenVersion":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-11-17 12:18:43.982 [info] Getting Manifest... github.copilot-chat
+2024-11-17 12:18:44.076 [info] Installing extension: github.copilot-chat {"isMachineScoped":true,"installPreReleaseVersion":false,"isApplicationScoped":true,"isBuiltin":false,"installGivenVersion":false,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-11-17 12:18:49.857 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-ja: Success. Executed: true. Duration: 6176ms.
+2024-11-17 12:18:51.358 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.95.2024103009: ms-ceintl.vscode-language-pack-ja
+2024-11-17 12:18:51.394 [info] Renamed to /home/vscode/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.95.2024103009
+2024-11-17 12:18:51.563 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+2024-11-17 12:18:51.897 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-17 12:18:51.925 [info] Extension 'ms-ceintl.vscode-language-pack-ja' v1.95.2024103009 was successfully installed.
+2024-11-17 12:19:06.325 [info] Extension signature verification result for loiane.ts-extension-pack: Success. Executed: true. Duration: 21028ms.
+2024-11-17 12:19:08.281 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/loiane.ts-extension-pack-0.3.0: loiane.ts-extension-pack
+2024-11-17 12:19:08.633 [info] Extension signature verification result for mikestead.dotenv: Success. Executed: true. Duration: 23127ms.
+2024-11-17 12:19:08.734 [info] Renamed to /home/vscode/.vscode-remote/extensions/loiane.ts-extension-pack-0.3.0
+2024-11-17 12:19:08.817 [info] Extension signature verification result for dbaeumer.vscode-eslint: Success. Executed: true. Duration: 23217ms.
+2024-11-17 12:19:08.921 [info] Extension signature verification result for ms-azuretools.vscode-docker: Success. Executed: true. Duration: 22993ms.
+2024-11-17 12:19:09.435 [info] Extension signature verification result for esbenp.prettier-vscode: Success. Executed: true. Duration: 23376ms.
+2024-11-17 12:19:09.785 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/mikestead.dotenv-1.0.1: mikestead.dotenv
+2024-11-17 12:19:10.103 [info] Renamed to /home/vscode/.vscode-remote/extensions/mikestead.dotenv-1.0.1
+2024-11-17 12:19:11.159 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/dbaeumer.vscode-eslint-3.0.10: dbaeumer.vscode-eslint
+2024-11-17 12:19:12.116 [info] Renamed to /home/vscode/.vscode-remote/extensions/dbaeumer.vscode-eslint-3.0.10
+2024-11-17 12:19:12.122 [info] Extension signature verification result for mhutchie.git-graph: Success. Executed: true. Duration: 25248ms.
+2024-11-17 12:19:12.986 [info] Extension signature verification result for christian-kohler.path-intellisense: Success. Executed: true. Duration: 26146ms.
+2024-11-17 12:19:13.458 [info] Extension signature verification result for mechatroner.rainbow-csv: Success. Executed: true. Duration: 26957ms.
+2024-11-17 12:19:13.731 [info] Extension signature verification result for github.copilot: Success. Executed: true. Duration: 26802ms.
+2024-11-17 12:19:14.120 [info] Extension signature verification result for pmneo.tsimporter: Success. Executed: true. Duration: 27225ms.
+2024-11-17 12:19:14.126 [info] Extension signature verification result for ms-vscode.live-server: Success. Executed: true. Duration: 27673ms.
+2024-11-17 12:19:14.163 [info] Extension signature verification result for gregorbiswanger.json2ts: Success. Executed: true. Duration: 27202ms.
+2024-11-17 12:19:14.165 [info] Extension signature verification result for stringham.move-ts: Success. Executed: true. Duration: 27154ms.
+2024-11-17 12:19:14.506 [info] Extension signature verification result for github.copilot-chat: Success. Executed: true. Duration: 25865ms.
+2024-11-17 12:19:15.086 [info] Extension signature verification result for prisma.prisma: Success. Executed: true. Duration: 26562ms.
+2024-11-17 12:19:15.250 [info] Extension signature verification result for rbbit.typescript-hero: Success. Executed: true. Duration: 26514ms.
+2024-11-17 12:19:15.373 [info] Extension signature verification result for ms-vsliveshare.vsliveshare: Success. Executed: true. Duration: 26480ms.
+2024-11-17 12:19:16.248 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/ms-azuretools.vscode-docker-1.29.3: ms-azuretools.vscode-docker
+2024-11-17 12:19:16.250 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/pmneo.tsimporter-2.0.1: pmneo.tsimporter
+2024-11-17 12:19:16.690 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/mhutchie.git-graph-1.30.0: mhutchie.git-graph
+2024-11-17 12:19:16.931 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/christian-kohler.path-intellisense-2.9.0: christian-kohler.path-intellisense
+2024-11-17 12:19:17.856 [info] Renamed to /home/vscode/.vscode-remote/extensions/ms-azuretools.vscode-docker-1.29.3
+2024-11-17 12:19:17.945 [info] Renamed to /home/vscode/.vscode-remote/extensions/christian-kohler.path-intellisense-2.9.0
+2024-11-17 12:19:17.947 [info] Renamed to /home/vscode/.vscode-remote/extensions/pmneo.tsimporter-2.0.1
+2024-11-17 12:19:17.948 [info] Renamed to /home/vscode/.vscode-remote/extensions/mhutchie.git-graph-1.30.0
+2024-11-17 12:19:18.211 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/ms-vscode.live-server-0.4.15: ms-vscode.live-server
+2024-11-17 12:19:18.293 [info] Renamed to /home/vscode/.vscode-remote/extensions/ms-vscode.live-server-0.4.15
+2024-11-17 12:19:18.544 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/esbenp.prettier-vscode-11.0.0: esbenp.prettier-vscode
+2024-11-17 12:19:18.691 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/mechatroner.rainbow-csv-3.12.0: mechatroner.rainbow-csv
+2024-11-17 12:19:18.694 [info] Renamed to /home/vscode/.vscode-remote/extensions/esbenp.prettier-vscode-11.0.0
+2024-11-17 12:19:18.777 [info] Renamed to /home/vscode/.vscode-remote/extensions/mechatroner.rainbow-csv-3.12.0
+2024-11-17 12:19:26.780 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/github.copilot-chat-0.22.2: github.copilot-chat
+2024-11-17 12:19:28.479 [info] Renamed to /home/vscode/.vscode-remote/extensions/github.copilot-chat-0.22.2
+2024-11-17 12:19:29.376 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/github.copilot-1.245.0: github.copilot
+2024-11-17 12:19:29.479 [info] Renamed to /home/vscode/.vscode-remote/extensions/github.copilot-1.245.0
+2024-11-17 12:19:34.793 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/gregorbiswanger.json2ts-0.0.6: gregorbiswanger.json2ts
+2024-11-17 12:19:34.915 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/ms-vsliveshare.vsliveshare-1.0.5941: ms-vsliveshare.vsliveshare
+2024-11-17 12:19:35.424 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/stringham.move-ts-1.12.0: stringham.move-ts
+2024-11-17 12:19:37.575 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/prisma.prisma-5.22.0: prisma.prisma
+2024-11-17 12:19:41.523 [info] Renamed to /home/vscode/.vscode-remote/extensions/gregorbiswanger.json2ts-0.0.6
+2024-11-17 12:19:41.525 [info] Renamed to /home/vscode/.vscode-remote/extensions/stringham.move-ts-1.12.0
+2024-11-17 12:19:41.525 [info] Renamed to /home/vscode/.vscode-remote/extensions/prisma.prisma-5.22.0
+2024-11-17 12:19:41.526 [info] Renamed to /home/vscode/.vscode-remote/extensions/ms-vsliveshare.vsliveshare-1.0.5941
+2024-11-17 12:19:44.488 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/rbbit.typescript-hero-3.0.0: rbbit.typescript-hero
+2024-11-17 12:19:44.614 [info] Renamed to /home/vscode/.vscode-remote/extensions/rbbit.typescript-hero-3.0.0
+2024-11-17 12:19:44.865 [info] Extension installed successfully: loiane.ts-extension-pack file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-17 12:19:44.865 [info] Extension installed successfully: mikestead.dotenv file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-17 12:19:44.865 [info] Extension installed successfully: dbaeumer.vscode-eslint file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-17 12:19:44.865 [info] Extension installed successfully: ms-azuretools.vscode-docker file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-17 12:19:44.865 [info] Extension installed successfully: christian-kohler.path-intellisense file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-17 12:19:44.865 [info] Extension installed successfully: pmneo.tsimporter file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-17 12:19:44.866 [info] Extension installed successfully: mhutchie.git-graph file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-17 12:19:44.866 [info] Extension installed successfully: ms-vscode.live-server file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-17 12:19:44.866 [info] Extension installed successfully: esbenp.prettier-vscode file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-17 12:19:44.866 [info] Extension installed successfully: mechatroner.rainbow-csv file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-17 12:19:44.866 [info] Extension installed successfully: github.copilot-chat file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-17 12:19:44.866 [info] Extension installed successfully: github.copilot file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-17 12:19:44.866 [info] Extension installed successfully: stringham.move-ts file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-17 12:19:44.866 [info] Extension installed successfully: gregorbiswanger.json2ts file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-17 12:19:44.866 [info] Extension installed successfully: prisma.prisma file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-17 12:19:44.866 [info] Extension installed successfully: ms-vsliveshare.vsliveshare file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-17 12:19:44.866 [info] Extension installed successfully: rbbit.typescript-hero file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-17 12:19:44.889 [info] Extension 'loiane.ts-extension-pack' v0.3.0 was successfully installed.
+2024-11-17 12:19:44.889 [info] Extension 'mikestead.dotenv' v1.0.1 was successfully installed.
+2024-11-17 12:19:44.890 [info] Extension 'dbaeumer.vscode-eslint' v3.0.10 was successfully installed.
+2024-11-17 12:19:44.890 [info] Extension 'ms-azuretools.vscode-docker' v1.29.3 was successfully installed.
+2024-11-17 12:19:44.890 [info] Extension 'christian-kohler.path-intellisense' v2.9.0 was successfully installed.
+2024-11-17 12:19:44.892 [info] Extension 'pmneo.tsimporter' v2.0.1 was successfully installed.
+2024-11-17 12:19:44.892 [info] Extension 'mhutchie.git-graph' v1.30.0 was successfully installed.
+2024-11-17 12:19:44.892 [info] Extension 'ms-vscode.live-server' v0.4.15 was successfully installed.
+2024-11-17 12:19:44.892 [info] Extension 'esbenp.prettier-vscode' v11.0.0 was successfully installed.
+2024-11-17 12:19:44.892 [info] Extension 'mechatroner.rainbow-csv' v3.12.0 was successfully installed.
+2024-11-17 12:19:44.892 [info] Extension 'github.copilot-chat' v0.22.2 was successfully installed.
+2024-11-17 12:19:44.893 [info] Extension 'github.copilot' v1.245.0 was successfully installed.
+2024-11-17 12:19:44.893 [info] Extension 'stringham.move-ts' v1.12.0 was successfully installed.
+2024-11-17 12:19:44.893 [info] Extension 'gregorbiswanger.json2ts' v0.0.6 was successfully installed.
+2024-11-17 12:19:44.894 [info] Extension 'prisma.prisma' v5.22.0 was successfully installed.
+2024-11-17 12:19:44.894 [info] Extension 'ms-vsliveshare.vsliveshare' v1.0.5941 was successfully installed.
+2024-11-17 12:19:44.894 [info] Extension 'rbbit.typescript-hero' v3.0.0 was successfully installed.
+2024-11-17 12:23:31.507 [info] New EH opened, aborting shutdown
+2024-11-17 12:32:14.219 [info] [127.0.0.1][69a2b3a3][ManagementConnection] New connection established.
+2024-11-17 12:32:14.220 [info] [127.0.0.1][90db6858][ExtensionHostConnection] New connection established.
+2024-11-17 12:32:14.225 [info] [127.0.0.1][90db6858][ExtensionHostConnection] <8420> Launched Extension Host Process.
+2024-11-17 12:32:35.969 [info] [127.0.0.1][3a1ba1b6][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-11-17 12:37:14.616 [info] [127.0.0.1][cb0ac79f][ExtensionHostConnection] <1002> Extension Host Process exited with code: 0, signal: null.
+2024-11-17 13:00:03.543 [info] [127.0.0.1][3a1ba1b6][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-11-17 13:00:03.544 [info] [127.0.0.1][94e98c40][ExtensionHostConnection] New connection established.
+2024-11-17 13:00:03.545 [info] [127.0.0.1][ea9661d0][ManagementConnection] New connection established.
+2024-11-17 13:00:03.549 [info] [127.0.0.1][94e98c40][ExtensionHostConnection] <23287> Launched Extension Host Process.
+2024-11-17 13:00:05.521 [warning] RequestStore#acceptReply was called without receiving a matching request 235
+2024-11-17 13:00:05.522 [warning] RequestStore#acceptReply was called without receiving a matching request 236
+2024-11-17 13:00:05.522 [warning] RequestStore#acceptReply was called without receiving a matching request 237
+2024-11-17 13:00:05.523 [warning] RequestStore#acceptReply was called without receiving a matching request 238
+2024-11-17 13:00:05.523 [warning] RequestStore#acceptReply was called without receiving a matching request 239
+2024-11-17 13:00:05.523 [warning] RequestStore#acceptReply was called without receiving a matching request 240
+2024-11-17 13:00:05.524 [warning] RequestStore#acceptReply was called without receiving a matching request 241
+2024-11-17 13:00:05.524 [warning] RequestStore#acceptReply was called without receiving a matching request 242
+2024-11-17 13:00:05.526 [warning] RequestStore#acceptReply was called without receiving a matching request 243
+2024-11-17 13:00:05.526 [warning] RequestStore#acceptReply was called without receiving a matching request 244
+2024-11-17 13:00:05.529 [warning] RequestStore#acceptReply was called without receiving a matching request 245
+2024-11-17 13:00:05.530 [warning] RequestStore#acceptReply was called without receiving a matching request 246
+2024-11-17 13:00:05.531 [warning] RequestStore#acceptReply was called without receiving a matching request 247
+2024-11-17 13:00:05.532 [warning] RequestStore#acceptReply was called without receiving a matching request 248
+2024-11-17 13:00:05.534 [warning] RequestStore#acceptReply was called without receiving a matching request 249
+2024-11-17 13:00:05.535 [warning] RequestStore#acceptReply was called without receiving a matching request 250
+2024-11-17 13:00:05.536 [warning] RequestStore#acceptReply was called without receiving a matching request 251
+2024-11-17 13:00:05.537 [warning] RequestStore#acceptReply was called without receiving a matching request 252
+2024-11-17 13:00:05.538 [warning] RequestStore#acceptReply was called without receiving a matching request 253
+2024-11-17 13:00:05.539 [warning] RequestStore#acceptReply was called without receiving a matching request 254
+2024-11-17 13:00:05.539 [warning] RequestStore#acceptReply was called without receiving a matching request 255
+2024-11-17 13:00:05.540 [warning] RequestStore#acceptReply was called without receiving a matching request 256
+2024-11-17 13:00:05.541 [warning] RequestStore#acceptReply was called without receiving a matching request 257
+2024-11-17 13:00:05.542 [warning] RequestStore#acceptReply was called without receiving a matching request 258
+2024-11-17 13:00:05.542 [warning] RequestStore#acceptReply was called without receiving a matching request 259
+2024-11-17 13:00:05.543 [warning] RequestStore#acceptReply was called without receiving a matching request 260
+2024-11-17 13:00:05.544 [warning] RequestStore#acceptReply was called without receiving a matching request 261
+2024-11-17 13:00:05.544 [warning] RequestStore#acceptReply was called without receiving a matching request 262
+2024-11-17 13:00:05.545 [warning] RequestStore#acceptReply was called without receiving a matching request 263
+2024-11-17 13:00:05.546 [warning] RequestStore#acceptReply was called without receiving a matching request 264
+2024-11-17 13:00:05.547 [warning] RequestStore#acceptReply was called without receiving a matching request 265
+2024-11-17 13:00:05.547 [warning] RequestStore#acceptReply was called without receiving a matching request 266
+2024-11-17 13:00:05.548 [warning] RequestStore#acceptReply was called without receiving a matching request 267
+2024-11-17 13:00:05.549 [warning] RequestStore#acceptReply was called without receiving a matching request 268
+2024-11-17 13:00:05.550 [warning] RequestStore#acceptReply was called without receiving a matching request 269
+2024-11-17 13:00:05.550 [warning] RequestStore#acceptReply was called without receiving a matching request 270
+2024-11-17 13:00:05.551 [warning] RequestStore#acceptReply was called without receiving a matching request 271
+2024-11-17 13:00:05.552 [warning] RequestStore#acceptReply was called without receiving a matching request 272
+2024-11-17 13:00:05.552 [warning] RequestStore#acceptReply was called without receiving a matching request 273
+2024-11-17 13:00:05.553 [warning] RequestStore#acceptReply was called without receiving a matching request 274
+2024-11-17 13:00:05.554 [warning] RequestStore#acceptReply was called without receiving a matching request 275
+2024-11-17 13:00:05.555 [warning] RequestStore#acceptReply was called without receiving a matching request 276
+2024-11-17 13:00:05.555 [warning] RequestStore#acceptReply was called without receiving a matching request 277
+2024-11-17 13:00:05.556 [warning] RequestStore#acceptReply was called without receiving a matching request 278
+2024-11-17 13:00:05.557 [warning] RequestStore#acceptReply was called without receiving a matching request 279
+2024-11-17 13:00:05.557 [warning] RequestStore#acceptReply was called without receiving a matching request 280
+2024-11-17 13:00:05.558 [warning] RequestStore#acceptReply was called without receiving a matching request 281
+2024-11-17 13:00:05.559 [warning] RequestStore#acceptReply was called without receiving a matching request 282
+2024-11-17 13:00:05.559 [warning] RequestStore#acceptReply was called without receiving a matching request 283
+2024-11-17 13:00:05.560 [warning] RequestStore#acceptReply was called without receiving a matching request 284
+2024-11-17 13:00:05.561 [warning] RequestStore#acceptReply was called without receiving a matching request 285
+2024-11-17 13:00:05.561 [warning] RequestStore#acceptReply was called without receiving a matching request 286
+2024-11-17 13:00:12.816 [warning] RequestStore#acceptReply was called without receiving a matching request 287
+2024-11-17 13:00:12.816 [warning] RequestStore#acceptReply was called without receiving a matching request 288
+2024-11-17 13:00:12.816 [warning] RequestStore#acceptReply was called without receiving a matching request 289
+2024-11-17 13:00:12.816 [warning] RequestStore#acceptReply was called without receiving a matching request 290
+2024-11-17 13:00:12.816 [warning] RequestStore#acceptReply was called without receiving a matching request 291
+2024-11-17 13:00:12.816 [warning] RequestStore#acceptReply was called without receiving a matching request 292
+2024-11-17 13:00:12.816 [warning] RequestStore#acceptReply was called without receiving a matching request 293
+2024-11-17 13:00:12.816 [warning] RequestStore#acceptReply was called without receiving a matching request 294
+2024-11-17 13:00:12.816 [warning] RequestStore#acceptReply was called without receiving a matching request 295
+2024-11-17 13:00:12.816 [warning] RequestStore#acceptReply was called without receiving a matching request 296
+2024-11-17 13:00:12.817 [warning] RequestStore#acceptReply was called without receiving a matching request 297
+2024-11-17 13:00:12.817 [warning] RequestStore#acceptReply was called without receiving a matching request 298
+2024-11-17 13:00:12.817 [warning] RequestStore#acceptReply was called without receiving a matching request 299
+2024-11-17 13:00:13.996 [warning] RequestStore#acceptReply was called without receiving a matching request 300
+2024-11-17 13:00:13.997 [warning] RequestStore#acceptReply was called without receiving a matching request 301
+2024-11-17 13:00:13.997 [warning] RequestStore#acceptReply was called without receiving a matching request 302
+2024-11-17 13:00:13.997 [warning] RequestStore#acceptReply was called without receiving a matching request 303
+2024-11-17 13:00:13.997 [warning] RequestStore#acceptReply was called without receiving a matching request 304
+2024-11-17 13:00:13.997 [warning] RequestStore#acceptReply was called without receiving a matching request 305
+2024-11-17 13:00:13.997 [warning] RequestStore#acceptReply was called without receiving a matching request 306
+2024-11-17 13:00:13.997 [warning] RequestStore#acceptReply was called without receiving a matching request 307
+2024-11-17 13:00:13.997 [warning] RequestStore#acceptReply was called without receiving a matching request 308
+2024-11-17 13:00:13.997 [warning] RequestStore#acceptReply was called without receiving a matching request 309
+2024-11-17 13:00:14.031 [warning] RequestStore#acceptReply was called without receiving a matching request 310
+2024-11-17 13:00:14.032 [warning] RequestStore#acceptReply was called without receiving a matching request 311
+2024-11-17 13:00:14.033 [warning] RequestStore#acceptReply was called without receiving a matching request 312
+2024-11-17 13:00:14.033 [warning] RequestStore#acceptReply was called without receiving a matching request 313
+2024-11-17 13:00:14.033 [warning] RequestStore#acceptReply was called without receiving a matching request 314
+2024-11-17 13:00:14.033 [warning] RequestStore#acceptReply was called without receiving a matching request 315
+2024-11-17 13:00:14.034 [warning] RequestStore#acceptReply was called without receiving a matching request 316
+2024-11-17 13:00:14.039 [warning] RequestStore#acceptReply was called without receiving a matching request 317
+2024-11-17 13:00:14.040 [warning] RequestStore#acceptReply was called without receiving a matching request 318
+2024-11-17 13:00:14.040 [warning] RequestStore#acceptReply was called without receiving a matching request 319
+2024-11-17 13:00:14.040 [warning] RequestStore#acceptReply was called without receiving a matching request 320
+2024-11-17 13:00:14.041 [warning] RequestStore#acceptReply was called without receiving a matching request 321
+2024-11-17 13:00:14.041 [warning] RequestStore#acceptReply was called without receiving a matching request 322
+2024-11-17 13:00:14.041 [warning] RequestStore#acceptReply was called without receiving a matching request 323
+2024-11-17 13:00:14.041 [warning] RequestStore#acceptReply was called without receiving a matching request 324
+2024-11-17 13:00:14.041 [warning] RequestStore#acceptReply was called without receiving a matching request 325
+2024-11-17 13:00:15.825 [warning] RequestStore#acceptReply was called without receiving a matching request 326
+2024-11-17 13:00:15.825 [warning] RequestStore#acceptReply was called without receiving a matching request 327
+2024-11-17 13:00:15.826 [warning] RequestStore#acceptReply was called without receiving a matching request 328
+2024-11-17 13:00:15.826 [warning] RequestStore#acceptReply was called without receiving a matching request 329
+2024-11-17 13:00:15.826 [warning] RequestStore#acceptReply was called without receiving a matching request 330
+2024-11-17 13:00:15.827 [warning] RequestStore#acceptReply was called without receiving a matching request 331
+2024-11-17 13:00:15.827 [warning] RequestStore#acceptReply was called without receiving a matching request 332
+2024-11-17 13:00:15.827 [warning] RequestStore#acceptReply was called without receiving a matching request 333
+2024-11-17 13:00:15.828 [warning] RequestStore#acceptReply was called without receiving a matching request 334
+2024-11-17 13:00:15.828 [warning] RequestStore#acceptReply was called without receiving a matching request 335
+2024-11-17 13:00:15.828 [warning] RequestStore#acceptReply was called without receiving a matching request 336
+2024-11-17 13:00:15.829 [warning] RequestStore#acceptReply was called without receiving a matching request 337
+2024-11-17 13:00:15.829 [warning] RequestStore#acceptReply was called without receiving a matching request 338
+2024-11-17 13:00:28.191 [warning] RequestStore#acceptReply was called without receiving a matching request 339
+2024-11-17 13:00:28.192 [warning] RequestStore#acceptReply was called without receiving a matching request 340
+2024-11-17 13:00:28.193 [warning] RequestStore#acceptReply was called without receiving a matching request 341
+2024-11-17 13:00:28.193 [warning] RequestStore#acceptReply was called without receiving a matching request 342
+2024-11-17 13:00:28.194 [warning] RequestStore#acceptReply was called without receiving a matching request 343
+2024-11-17 13:00:28.195 [warning] RequestStore#acceptReply was called without receiving a matching request 344
+2024-11-17 13:00:28.196 [warning] RequestStore#acceptReply was called without receiving a matching request 345
+2024-11-17 13:00:28.197 [warning] RequestStore#acceptReply was called without receiving a matching request 346
+2024-11-17 13:00:28.198 [warning] RequestStore#acceptReply was called without receiving a matching request 347
+2024-11-17 13:00:28.198 [warning] RequestStore#acceptReply was called without receiving a matching request 348
+2024-11-17 13:00:28.199 [warning] RequestStore#acceptReply was called without receiving a matching request 349
+2024-11-17 13:00:28.200 [warning] RequestStore#acceptReply was called without receiving a matching request 350
+2024-11-17 13:00:28.201 [warning] RequestStore#acceptReply was called without receiving a matching request 351
+2024-11-17 13:00:30.194 [warning] RequestStore#acceptReply was called without receiving a matching request 352
+2024-11-17 13:00:30.194 [warning] RequestStore#acceptReply was called without receiving a matching request 353
+2024-11-17 13:00:30.194 [warning] RequestStore#acceptReply was called without receiving a matching request 354
+2024-11-17 13:00:30.194 [warning] RequestStore#acceptReply was called without receiving a matching request 355
+2024-11-17 13:00:30.194 [warning] RequestStore#acceptReply was called without receiving a matching request 356
+2024-11-17 13:00:30.194 [warning] RequestStore#acceptReply was called without receiving a matching request 357
+2024-11-17 13:00:30.194 [warning] RequestStore#acceptReply was called without receiving a matching request 358
+2024-11-17 13:00:30.194 [warning] RequestStore#acceptReply was called without receiving a matching request 359
+2024-11-17 13:00:30.194 [warning] RequestStore#acceptReply was called without receiving a matching request 360
+2024-11-17 13:00:30.195 [warning] RequestStore#acceptReply was called without receiving a matching request 361
+2024-11-17 13:00:30.195 [warning] RequestStore#acceptReply was called without receiving a matching request 362
+2024-11-17 13:00:30.195 [warning] RequestStore#acceptReply was called without receiving a matching request 363
+2024-11-17 13:00:30.195 [warning] RequestStore#acceptReply was called without receiving a matching request 364
+2024-11-17 13:04:16.764 [info] [127.0.0.1][e7f7e844][ExtensionHostConnection] New connection established.
+2024-11-17 13:04:16.767 [info] [127.0.0.1][e7f7e844][ExtensionHostConnection] <27198> Launched Extension Host Process.
+2024-11-17 13:04:17.941 [info] [127.0.0.1][7c083f76][ManagementConnection] New connection established.
+2024-11-17 13:04:23.703 [info] [127.0.0.1][ea9661d0][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-11-17 13:04:42.653 [info] [127.0.0.1][69a2b3a3][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-11-17 13:05:03.661 [info] [127.0.0.1][3a1ba1b6][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+2024-11-17 13:09:09.670 [info] [127.0.0.1][69a2b3a3][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-11-17 13:09:09.670 [info] [127.0.0.1][ea9661d0][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-11-17 13:09:09.671 [info] [127.0.0.1][f4b142a9][ManagementConnection] New connection established.
+2024-11-17 13:09:10.648 [info] [127.0.0.1][f7f851fe][ExtensionHostConnection] New connection established.
+2024-11-17 13:09:10.653 [info] [127.0.0.1][f7f851fe][ExtensionHostConnection] <32361> Launched Extension Host Process.
+2024-11-17 13:09:16.997 [info] [127.0.0.1][90db6858][ExtensionHostConnection] <8420> Extension Host Process exited with code: 0, signal: null.
+2024-11-17 13:09:17.087 [info] [127.0.0.1][94e98c40][ExtensionHostConnection] <23287> Extension Host Process exited with code: 0, signal: null.
+2024-11-17 13:14:09.744 [info] [127.0.0.1][69a2b3a3][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+2024-11-17 13:14:09.745 [info] [127.0.0.1][ea9661d0][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+2024-11-17 13:29:30.999 [info] [127.0.0.1][cdb97aa6][ExtensionHostConnection] New connection established.
+2024-11-17 13:29:31.005 [info] [127.0.0.1][cdb97aa6][ExtensionHostConnection] <49264> Launched Extension Host Process.
+2024-11-17 13:29:31.123 [info] [127.0.0.1][8401bfa7][ManagementConnection] New connection established.
+2024-11-17 13:29:36.431 [info] [127.0.0.1][f4b142a9][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-11-17 13:34:31.208 [info] [127.0.0.1][f7f851fe][ExtensionHostConnection] <32361> Extension Host Process exited with code: 0, signal: null.

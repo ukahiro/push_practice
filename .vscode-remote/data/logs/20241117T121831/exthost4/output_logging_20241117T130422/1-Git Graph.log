@@ -1,0 +1,53 @@
+[2024-11-17 13:04:25.336] Starting Git Graph ...
+[2024-11-17 13:04:25.379] Using git (version: 2.46.2)
+[2024-11-17 13:04:25.387] Started Git Graph - Ready to use!
+[2024-11-17 13:04:25.389] Searching workspace for new repos ...
+[2024-11-17 13:04:25.393] > git rev-parse --show-toplevel
+[2024-11-17 13:04:25.402] Completed searching workspace for new repos
+[2024-11-17 13:04:25.769] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2024-11-17 13:04:28.168] > git rev-parse --show-toplevel
+[2024-11-17 13:04:28.190] > git rev-parse --show-toplevel
+[2024-11-17 13:04:28.211] > git rev-parse --show-toplevel
+[2024-11-17 13:04:28.231] > git rev-parse --show-toplevel
+[2024-11-17 13:04:28.243] > git rev-parse --show-toplevel
+[2024-11-17 13:04:28.254] > git rev-parse --show-toplevel
+[2024-11-17 13:04:32.405] > git rev-parse --show-toplevel
+[2024-11-17 13:04:32.418] > git rev-parse --show-toplevel
+[2024-11-17 13:04:32.460] > git rev-parse --show-toplevel
+[2024-11-17 13:04:32.473] > git rev-parse --show-toplevel
+[2024-11-17 13:04:32.483] > git rev-parse --show-toplevel
+[2024-11-17 13:04:32.489] > git rev-parse --show-toplevel
+[2024-11-17 13:08:52.840] > git rev-parse --show-toplevel
+[2024-11-17 13:08:52.845] > git rev-parse --show-toplevel
+[2024-11-17 13:08:52.849] > git rev-parse --show-toplevel
+[2024-11-17 13:08:52.851] Added new repo: /home/vscode/.progate/origins/8bD7b83bnNigx1-MPlVyv/self_introduction
+[2024-11-17 13:08:52.856] > git rev-parse --show-toplevel
+[2024-11-17 13:08:52.860] > git rev-parse --show-toplevel
+[2024-11-17 13:08:52.865] > git rev-parse --show-toplevel
+[2024-11-17 13:08:52.867] Showing "Git Graph" Status Bar Item
+[2024-11-17 13:09:14.399] > git rev-parse --show-toplevel
+[2024-11-17 13:09:14.406] > git rev-parse --show-toplevel
+[2024-11-17 13:09:17.717] > git rev-parse --show-toplevel
+[2024-11-17 13:09:18.976] > git rev-parse --show-toplevel
+[2024-11-17 13:09:21.994] > git rev-parse --show-toplevel
+[2024-11-17 13:09:22.000] > git rev-parse --show-toplevel
+[2024-11-17 13:09:22.007] > git rev-parse --show-toplevel
+[2024-11-17 13:09:24.864] > git rev-parse --show-toplevel
+[2024-11-17 13:09:24.874] > git rev-parse --show-toplevel
+[2024-11-17 13:09:27.115] > git rev-parse --show-toplevel
+[2024-11-17 13:17:12.990] > git rev-parse --show-toplevel
+[2024-11-17 13:17:12.991] Added new repo: /home/vscode/progate_path/self_introduction_commit/self_introduction
+[2024-11-17 13:21:12.977] > git rev-parse --show-toplevel
+[2024-11-17 13:21:12.982] > git rev-parse --show-toplevel
+[2024-11-17 13:21:12.986] > git rev-parse --show-toplevel
+[2024-11-17 13:21:12.990] > git rev-parse --show-toplevel
+[2024-11-17 13:30:13.101] > git rev-parse --show-toplevel
+[2024-11-17 13:30:13.105] > git rev-parse --show-toplevel
+[2024-11-17 13:30:13.110] > git rev-parse --show-toplevel
+[2024-11-17 13:30:13.115] > git rev-parse --show-toplevel
+[2024-11-17 13:30:13.119] > git rev-parse --show-toplevel
+[2024-11-17 13:30:13.124] > git rev-parse --show-toplevel
+[2024-11-17 13:30:13.128] > git rev-parse --show-toplevel
+[2024-11-17 13:30:13.133] > git rev-parse --show-toplevel
+[2024-11-17 13:30:13.137] > git rev-parse --show-toplevel
+[2024-11-17 13:30:13.141] > git rev-parse --show-toplevel
