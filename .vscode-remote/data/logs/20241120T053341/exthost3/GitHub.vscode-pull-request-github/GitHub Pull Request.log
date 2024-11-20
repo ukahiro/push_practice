@@ -17,3 +17,9 @@
 2024-11-20 05:44:12.808 [info] No GitHub remotes found for folder /home/vscode
 2024-11-20 05:44:12.845 [info] Review+0> No matching pull request metadata found locally for current branch main
 2024-11-20 05:44:13.139 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-11-20 05:47:27.166 [info] Review+0> Validate state in progress
+2024-11-20 05:47:27.166 [info] Review+0> Validating state...
+2024-11-20 05:47:27.167 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-11-20 05:47:27.167 [info] No GitHub remotes found for folder /home/vscode
+2024-11-20 05:47:27.182 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-11-20 05:47:27.190 [info] Review+0> No matching pull request metadata found on GitHub for current branch main

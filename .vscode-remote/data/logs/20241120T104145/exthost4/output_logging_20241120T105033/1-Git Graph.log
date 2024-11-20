@@ -1,0 +1,8 @@
+[2024-11-20 10:50:35.298] Starting Git Graph ...
+[2024-11-20 10:50:35.353] Using git (version: 2.46.2)
+[2024-11-20 10:50:35.363] > git rev-parse --show-toplevel
+[2024-11-20 10:50:35.364] Showing "Git Graph" Status Bar Item
+[2024-11-20 10:50:35.365] Started Git Graph - Ready to use!
+[2024-11-20 10:50:35.373] Searching workspace for new repos ...
+[2024-11-20 10:50:35.373] Completed searching workspace for new repos
+[2024-11-20 10:50:35.714] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"

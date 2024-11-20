@@ -302,3 +302,32 @@
 [Performance I] Executed get-performance-data using gRPC
 [Performance I] Executed get-performance-data using gRPC
 [Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:12ea:resolver V] disposing reason: 'vscode disposed the resolver', disposing 1 objects
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.e (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:9853)
+  at Object.readFile (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:7581)
+  at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.e (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:9853)
+  at Object.readFile (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:7581)
+  at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.e (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:9853)
+  at Object.readFile (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:7581)
+  at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.e (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:9853)
+  at Object.readFile (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:7581)
+  at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.e (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:9853)
+  at Object.readFile (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:7581)
+  at processTicksAndRejections (node:internal/process/task_queues:95:5)

@@ -1,0 +1,94 @@
+2024-11-20 10:41:46.040 [trace] Remote configuration data at /home/vscode/.vscode-remote
+2024-11-20 10:41:46.040 [trace] process arguments: {"_":[],"host":"127.0.0.1","port":"0","connection-token-file":"/home/vscode/.vscode-remote/data/Machine/.connection-token-f1a4fb101478ce6ec82fe9627c43efbf9e98c813","without-connection-token":false,"disable-websocket-compression":false,"print-startup-performance":false,"print-ip-address":false,"accept-server-license-terms":true,"server-data-dir":"/home/vscode/.vscode-remote","enable-smoke-test-driver":false,"disable-telemetry":false,"disable-workspace-trust":false,"log":["trace"],"force-disable-user-env":true,"enable-sync":false,"use-test-resolver":false,"extensions-download-dir":"/home/vscode/.vscode-remote/extensionsCache","update-extensions":false,"list-extensions":false,"show-versions":false,"force":false,"do-not-sync":false,"pre-release":false,"start-server":true,"enable-remote-auto-shutdown":true,"remote-auto-shutdown-without-delay":false,"use-host-proxy":false,"without-browser-env-var":false,"help":false,"version":false,"user-data-dir":"/home/vscode/.vscode-remote/data","builtin-extensions-dir":"/vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions","extensions-dir":"/home/vscode/.vscode-remote/extensions","logsPath":"/home/vscode/.vscode-remote/data/logs/20241120T104145"}
+2024-11-20 10:41:46.040 [info] 
+
+
+
+
+2024-11-20 10:41:46.040 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/data/Machine (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-11-20 10:41:46.051 [trace] ExtensionManagementService#cleanUp
+2024-11-20 10:41:46.051 [trace] ExtensionManagementService#removeTempDeleteFolders
+2024-11-20 10:41:46.053 [info] Extension host agent started.
+2024-11-20 10:41:46.102 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/data/Machine'
+2024-11-20 10:41:46.102 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-11-20 10:41:46.105 [trace] [File Watcher (node.js)] ignoring a path for watching who's stat info failed to resolve: /home/vscode/.vscode-remote/data/Machine/settings.json (error: Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/data/Machine/settings.json')
+2024-11-20 10:41:46.105 [trace] [File Watcher (node.js)] starting fs.watchFile() on /home/vscode/.vscode-remote/data/Machine/settings.json (correlationId: undefined)
+2024-11-20 10:41:46.111 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/esbenp.prettier-vscode-11.0.0
+2024-11-20 10:41:46.112 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ms-azuretools.vscode-docker-1.29.3
+2024-11-20 10:41:46.112 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ritwickdey.liveserver-5.7.9
+2024-11-20 10:41:46.112 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ms-toolsai.jupyter-2024.11.2024111901
+2024-11-20 10:41:46.112 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions/extensions.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-11-20 10:41:46.113 [trace] [File Watcher (node.js)] Request to stop watching: /home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-11-20 10:41:46.113 [trace] [File Watcher (node.js)] stopping file watcher (/home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>))
+2024-11-20 10:41:46.114 [debug] Removing uninstalled extensions: ["github.vscode-pull-request-github-0.100.1","github.copilot-chat-0.22.3"]
+2024-11-20 10:41:46.114 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions","external":"file:///home/vscode/.vscode-remote/extensions","path":"/home/vscode/.vscode-remote/extensions","scheme":"file"}
+2024-11-20 10:41:46.118 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions","external":"file:///home/vscode/.vscode-remote/extensions","path":"/home/vscode/.vscode-remote/extensions","scheme":"file"}
+2024-11-20 10:41:46.118 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions'
+2024-11-20 10:41:46.495 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions/extensions.json'
+2024-11-20 10:41:47.529 [trace] Scanned user extensions: 23
+2024-11-20 10:41:47.531 [trace] Deleting uninstalled extension from disk github.copilot-chat /home/vscode/.vscode-remote/extensions/github.copilot-chat-0.22.3
+2024-11-20 10:41:47.531 [trace] Deleting uninstalled extension from disk github.vscode-pull-request-github /home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.100.1
+2024-11-20 10:41:47.533 [trace] [File Watcher (node.js)] [raw] ["rename"] github.copilot-chat-0.22.3
+2024-11-20 10:41:47.534 [trace] [File Watcher (node.js)] [raw] ["rename"] github.copilot-chat-0.22.3.-54cbf03f.vsctmp
+2024-11-20 10:41:47.534 [trace] [File Watcher (node.js)] [raw] ["rename"] github.vscode-pull-request-github-0.100.1
+2024-11-20 10:41:47.535 [trace] [File Watcher (node.js)] [raw] ["rename"] github.vscode-pull-request-github-0.100.1.-493f4ae2.vsctmp
+2024-11-20 10:41:47.537 [trace] Scanned user extensions: 21
+2024-11-20 10:41:47.554 [trace] [127.0.0.1][40dd8836][ExtensionHostConnection] - startParams language: ja
+2024-11-20 10:41:47.554 [trace] [127.0.0.1][40dd8836][ExtensionHostConnection] - startParams env: {}
+2024-11-20 10:41:47.555 [info] [127.0.0.1][40dd8836][ExtensionHostConnection] New connection established.
+2024-11-20 10:41:47.556 [info] [127.0.0.1][a2baee6a][ManagementConnection] New connection established.
+2024-11-20 10:41:47.576 [info] Deleted uninstalled extension from disk github.copilot-chat /home/vscode/.vscode-remote/extensions/github.copilot-chat-0.22.3
+2024-11-20 10:41:47.577 [trace] [File Watcher (node.js)] [raw] ["rename"] github.copilot-chat-0.22.3.-54cbf03f.vsctmp
+2024-11-20 10:41:47.577 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-11-20 10:41:47.583 [info] [127.0.0.1][40dd8836][ExtensionHostConnection] <873> Launched Extension Host Process.
+2024-11-20 10:41:47.584 [info] Deleted uninstalled extension from disk github.vscode-pull-request-github /home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.100.1
+2024-11-20 10:41:47.585 [trace] [File Watcher (node.js)] [raw] ["rename"] github.vscode-pull-request-github-0.100.1.-493f4ae2.vsctmp
+2024-11-20 10:41:47.587 [trace] [File Watcher (node.js)] [raw] ["change"] .obsolete
+2024-11-20 10:41:47.588 [trace] [File Watcher (node.js)] [CHANGED] /home/vscode/.vscode-remote/extensions/.obsolete
+2024-11-20 10:41:47.593 [trace] [File Watcher (node.js)] [raw] ["rename"] .obsolete
+2024-11-20 10:41:47.620 [info] [127.0.0.1][40dd8836][ExtensionHostConnection] <873><stderr> Error reading NLS messages file /home/vscode/.vscode-remote/data/clp/07dad9aebde73376c3d6313bc48d7ec6.ja/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/vscode/.vscode-remote/data/clp/07dad9aebde73376c3d6313bc48d7ec6.ja/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json'
+
+2024-11-20 10:41:47.634 [trace] [File Watcher (node.js)] [DELETED] /home/vscode/.vscode-remote/extensions/github.copilot-chat-0.22.3
+2024-11-20 10:41:47.634 [trace] [File Watcher (node.js)] [DELETED] /home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.100.1
+2024-11-20 10:41:47.664 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/vscode/.vscode-remote/extensions/github.copilot-chat-0.22.3
+2024-11-20 10:41:47.664 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.100.1
+2024-11-20 10:41:47.664 [trace] [File Watcher (node.js)]  >> normalized [CHANGED] /home/vscode/.vscode-remote/extensions/.obsolete
+2024-11-20 10:41:47.677 [trace] [File Watcher (node.js)] [DELETED] /home/vscode/.vscode-remote/extensions/github.copilot-chat-0.22.3.-54cbf03f.vsctmp
+2024-11-20 10:41:47.685 [trace] [File Watcher (node.js)] [DELETED] /home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.100.1.-493f4ae2.vsctmp
+2024-11-20 10:41:47.694 [trace] [File Watcher (node.js)] [DELETED] /home/vscode/.vscode-remote/extensions/.obsolete
+2024-11-20 10:41:47.752 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/vscode/.vscode-remote/extensions/.obsolete
+2024-11-20 10:41:47.753 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/vscode/.vscode-remote/extensions/github.copilot-chat-0.22.3.-54cbf03f.vsctmp
+2024-11-20 10:41:47.754 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.100.1.-493f4ae2.vsctmp
+2024-11-20 10:41:47.847 [trace] Started scanning system extensions
+2024-11-20 10:41:47.848 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-11-20 10:41:47.848 [trace] ExtensionManagementService.updateControlCache
+2024-11-20 10:41:47.849 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-11-20 10:41:47.851 [trace] Scanning extensions using UI language: ja
+2024-11-20 10:41:47.854 [trace] [network] #1: https://az764295.vo.msecnd.net/extensions/marketplace.json - begin GET {}
+2024-11-20 10:41:47.892 [info] Log level changed to info
+2024-11-20 10:42:13.514 [info] [127.0.0.1][1088ce08][ExtensionHostConnection] New connection established.
+2024-11-20 10:42:13.515 [info] [127.0.0.1][97b0ee15][ManagementConnection] New connection established.
+2024-11-20 10:42:13.519 [info] [127.0.0.1][1088ce08][ExtensionHostConnection] <1566> Launched Extension Host Process.
+2024-11-20 10:42:13.570 [info] [127.0.0.1][1088ce08][ExtensionHostConnection] <1566><stderr> Error reading NLS messages file /home/vscode/.vscode-remote/data/clp/07dad9aebde73376c3d6313bc48d7ec6.ja/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/vscode/.vscode-remote/data/clp/07dad9aebde73376c3d6313bc48d7ec6.ja/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json'
+
+2024-11-20 10:46:33.590 [info] [127.0.0.1][a2d5d2ec][ManagementConnection] New connection established.
+2024-11-20 10:46:35.286 [info] [127.0.0.1][1b3d73a6][ExtensionHostConnection] New connection established.
+2024-11-20 10:46:35.291 [info] [127.0.0.1][1b3d73a6][ExtensionHostConnection] <6370> Launched Extension Host Process.
+2024-11-20 10:46:35.340 [info] [127.0.0.1][1b3d73a6][ExtensionHostConnection] <6370><stderr> Error reading NLS messages file /home/vscode/.vscode-remote/data/clp/07dad9aebde73376c3d6313bc48d7ec6.ja/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/vscode/.vscode-remote/data/clp/07dad9aebde73376c3d6313bc48d7ec6.ja/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json'
+
+2024-11-20 10:46:43.712 [info] [127.0.0.1][97b0ee15][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-11-20 10:46:46.056 [info] New EH opened, aborting shutdown
+2024-11-20 10:46:56.231 [info] [127.0.0.1][a2baee6a][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-11-20 10:50:29.879 [info] [127.0.0.1][a2baee6a][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-11-20 10:50:29.879 [info] [127.0.0.1][97b0ee15][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-11-20 10:50:29.880 [info] [127.0.0.1][a8b46c07][ManagementConnection] New connection established.
+2024-11-20 10:50:30.464 [info] [127.0.0.1][0991a9c6][ExtensionHostConnection] New connection established.
+2024-11-20 10:50:30.479 [info] [127.0.0.1][0991a9c6][ExtensionHostConnection] <10964> Launched Extension Host Process.
+2024-11-20 10:50:30.546 [info] [127.0.0.1][0991a9c6][ExtensionHostConnection] <10964><stderr> Error reading NLS messages file /home/vscode/.vscode-remote/data/clp/07dad9aebde73376c3d6313bc48d7ec6.ja/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/vscode/.vscode-remote/data/clp/07dad9aebde73376c3d6313bc48d7ec6.ja/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json'
+
+2024-11-20 10:50:51.968 [info] [127.0.0.1][a2d5d2ec][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-11-20 10:51:33.977 [info] [127.0.0.1][40dd8836][ExtensionHostConnection] <873> Extension Host Process exited with code: 0, signal: null.
+2024-11-20 10:51:34.013 [info] [127.0.0.1][1088ce08][ExtensionHostConnection] <1566> Extension Host Process exited with code: 0, signal: null.
+2024-11-20 10:55:29.924 [info] [127.0.0.1][a2baee6a][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+2024-11-20 10:55:29.927 [info] [127.0.0.1][97b0ee15][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+2024-11-20 10:55:31.083 [info] [127.0.0.1][1b3d73a6][ExtensionHostConnection] <6370> Extension Host Process exited with code: 0, signal: null.

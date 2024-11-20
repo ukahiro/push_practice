@@ -26,3 +26,4 @@
 2024-11-20 05:44:10.505 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
 2024-11-20 05:44:12.792 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
 2024-11-20 05:44:13.177 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461
+2024-11-20 05:47:27.165 [warning] [Decorations] CAPPING events from decorations provider vscode.git 461

@@ -45,3 +45,14 @@
 2024-11-20 05:44:13.130 [info] > git config --local branch.main.merge [260ms]
 2024-11-20 05:44:13.130 [warning] [Git][config] git config failed: Failed to execute git
 2024-11-20 05:44:13.166 [info] > git status -z -uall [285ms]
+2024-11-20 05:47:27.043 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-20 05:47:27.044 [info] > git config --get commit.template [6ms]
+2024-11-20 05:47:27.045 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-11-20 05:47:27.088 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+2024-11-20 05:47:27.161 [info] > git status -z -uall [110ms]
+2024-11-20 05:47:27.176 [info] > git config --local branch.main.github-pr-owner-number [3ms]
+2024-11-20 05:47:27.176 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-20 05:47:27.183 [info] > git config --local branch.main.remote [2ms]
+2024-11-20 05:47:27.183 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-20 05:47:27.190 [info] > git config --local branch.main.merge [2ms]
+2024-11-20 05:47:27.190 [warning] [Git][config] git config failed: Failed to execute git

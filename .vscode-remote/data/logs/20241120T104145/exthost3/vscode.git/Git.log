@@ -1,0 +1,56 @@
+2024-11-20 10:46:42.253 [info] [main] ログ レベル: Info
+2024-11-20 10:46:42.253 [info] [main] Git の検証が検出されました: "git"
+2024-11-20 10:46:42.253 [info] [main] "git" から Git "2.46.2" を使用しています
+2024-11-20 10:46:42.253 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-20 10:46:42.253 [info] > git rev-parse --show-toplevel [30ms]
+2024-11-20 10:46:42.253 [info] > git rev-parse --git-dir --git-common-dir [64ms]
+2024-11-20 10:46:42.253 [info] [Model][openRepository] Opened repository: /home/vscode
+2024-11-20 10:46:42.253 [info] > git config --get commit.template [7ms]
+2024-11-20 10:46:42.253 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-20 10:46:42.273 [info] > git rev-parse --show-toplevel [10ms]
+2024-11-20 10:46:42.273 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [15ms]
+2024-11-20 10:46:42.317 [info] > git rev-parse --show-toplevel [10ms]
+2024-11-20 10:46:42.340 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [55ms]
+2024-11-20 10:46:42.360 [info] > git rev-parse --show-toplevel [22ms]
+2024-11-20 10:46:42.364 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-20 10:46:42.603 [info] > git status -z -uall [324ms]
+2024-11-20 10:46:42.660 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [20ms]
+2024-11-20 10:46:42.671 [info] > git config --get commit.template [16ms]
+2024-11-20 10:46:42.691 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2024-11-20 10:46:42.702 [info] > git config --local branch.main.vscode-merge-base [34ms]
+2024-11-20 10:46:42.703 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-20 10:46:42.817 [info] > git reflog main --grep-reflog=branch: Created from *. [95ms]
+2024-11-20 10:46:42.833 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [131ms]
+2024-11-20 10:46:42.870 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [37ms]
+2024-11-20 10:46:42.870 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-11-20 10:46:42.870 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2024-11-20 10:46:42.909 [info] > git status -z -uall [213ms]
+2024-11-20 10:46:42.927 [info] > git check-ignore -v -z --stdin [21ms]
+2024-11-20 10:46:43.578 [info] > git show --textconv :progate_path/self_introduction_push/self_introduction/src/favorite_food.md [555ms]
+2024-11-20 10:46:43.578 [info] > git ls-files --stage -- /home/vscode/progate_path/self_introduction_push/self_introduction/src/favorite_food.md [544ms]
+2024-11-20 10:46:44.297 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n163 --follow -- /home/vscode/progate_path/self_introduction_push/self_introduction/src/favorite_food.md [1294ms]
+2024-11-20 10:46:44.324 [info] > git cat-file -s f5033617eeed106b96d7206b522114e8323b4198 [718ms]
+2024-11-20 10:46:48.378 [info] > git config --local branch.main.github-pr-owner-number [152ms]
+2024-11-20 10:46:48.378 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-20 10:46:48.434 [info] > git config --local branch.main.remote [49ms]
+2024-11-20 10:46:48.434 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-20 10:46:48.608 [info] > git config --local branch.main.merge [170ms]
+2024-11-20 10:46:48.609 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-20 10:46:51.546 [info] > git config --get commit.template [9ms]
+2024-11-20 10:46:51.556 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2024-11-20 10:46:51.625 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [13ms]
+2024-11-20 10:46:51.846 [info] > git status -z -uall [284ms]
+2024-11-20 10:47:09.821 [info] > git config --get commit.template [4ms]
+2024-11-20 10:47:09.822 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-11-20 10:47:09.833 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2024-11-20 10:47:09.912 [info] > git status -z -uall [86ms]
+2024-11-20 10:47:36.588 [info] > git config --get commit.template [7ms]
+2024-11-20 10:47:36.588 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-11-20 10:47:36.613 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [16ms]
+2024-11-20 10:47:36.678 [info] > git status -z -uall [86ms]
+2024-11-20 10:49:35.420 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n163 --follow -- /home/vscode/progate_path/self_introduction_push/self_introduction/src/favorite_food.md [153ms]
+2024-11-20 10:49:49.380 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n163 --follow -- /home/vscode/progate_path/self_introduction_push/self_introduction/src/favorite_food.md [169ms]
+2024-11-20 10:50:22.611 [info] > git config --get commit.template [5ms]
+2024-11-20 10:50:22.612 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-11-20 10:50:22.637 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [16ms]
+2024-11-20 10:50:22.698 [info] > git status -z -uall [82ms]

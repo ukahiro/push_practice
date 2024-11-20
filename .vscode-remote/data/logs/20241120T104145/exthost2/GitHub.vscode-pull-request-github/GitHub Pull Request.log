@@ -1,0 +1,20 @@
+2024-11-20 10:42:27.552 [warning] /home/vscode/.ssh/config: ENOENT: no such file or directory, open '/home/vscode/.ssh/config'
+2024-11-20 10:42:27.555 [info] Activation> Extension version: 0.100.3
+2024-11-20 10:42:29.048 [info] Looking for git repository
+2024-11-20 10:42:29.048 [info] Found 0 repositories during activation
+2024-11-20 10:42:29.048 [info] Git repository found, initializing review manager and pr tree view.
+2024-11-20 10:42:29.049 [info] Registering git provider
+2024-11-20 10:45:14.829 [info] Repository file:///home/vscode has been opened
+2024-11-20 10:45:14.829 [info] Review+0> Validate state in progress
+2024-11-20 10:45:14.829 [info] Review+0> Validating state...
+2024-11-20 10:45:14.830 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-11-20 10:45:14.830 [info] No GitHub remotes found for folder /home/vscode
+2024-11-20 10:45:14.967 [info] Review+0> Queuing additional validate state
+2024-11-20 10:45:14.967 [info] Repo state for file:///home/vscode changed.
+2024-11-20 10:45:14.967 [info] Repo file:///home/vscode has already been setup.
+2024-11-20 10:45:15.388 [info] Review+0> Validating state...
+2024-11-20 10:45:15.491 [info] Found GitHub remote for folder /home/vscode
+2024-11-20 10:45:15.959 [info] Trying to use globalState for assignableUsers.
+2024-11-20 10:45:16.199 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-11-20 10:45:16.226 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-11-20 10:45:16.375 [info] Using globalState assignableUsers for 1.

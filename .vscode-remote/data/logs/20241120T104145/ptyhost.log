@@ -1,0 +1,20 @@
+2024-11-20 10:42:18.821 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []
+2024-11-20 10:42:38.951 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []
+2024-11-20 10:46:33.952 [info] Expanding terminal instance, old id -2d82a257-1 -> new id undefined
+2024-11-20 10:46:33.953 [info] Expanding terminal instance, old id -2d82a257-3 -> new id undefined
+2024-11-20 10:46:41.533 [warning] Persistent process "3": Process had no disconnect runners but was an orphan
+2024-11-20 10:46:41.533 [info] Persistent process reconnection "3"
+2024-11-20 10:46:41.550 [warning] Persistent process "1": Process had no disconnect runners but was an orphan
+2024-11-20 10:46:41.550 [info] Persistent process reconnection "1"
+2024-11-20 10:46:41.701 [info] Persistent process "3": Replaying 2817 chars and 1 size events
+2024-11-20 10:46:41.711 [info] Persistent process "1": Replaying 127 chars and 1 size events
+2024-11-20 10:46:51.872 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []
+2024-11-20 10:50:30.226 [info] Expanding terminal instance, old id -2d82a257-1 -> new id undefined
+2024-11-20 10:50:30.226 [info] Expanding terminal instance, old id -2d82a257-3 -> new id undefined
+2024-11-20 10:50:36.246 [warning] Persistent process "3": Process had no disconnect runners but was an orphan
+2024-11-20 10:50:36.246 [info] Persistent process reconnection "3"
+2024-11-20 10:50:36.246 [warning] Persistent process "1": Process had no disconnect runners but was an orphan
+2024-11-20 10:50:36.246 [info] Persistent process reconnection "1"
+2024-11-20 10:50:36.673 [info] Persistent process "3": Replaying 6355 chars and 1 size events
+2024-11-20 10:50:36.686 [info] Persistent process "1": Replaying 127 chars and 1 size events
+2024-11-20 10:50:47.478 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []
