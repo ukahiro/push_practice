@@ -13,3 +13,9 @@
 2024-11-20 10:50:43.930 [info] Review+0> No matching pull request metadata found locally for current branch main
 2024-11-20 10:50:43.956 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
 2024-11-20 10:50:44.073 [info] Using globalState assignableUsers for 1.
+2024-11-20 11:11:53.328 [info] Review+0> Validate state in progress
+2024-11-20 11:11:53.328 [info] Review+0> Validating state...
+2024-11-20 11:11:53.543 [info] Found GitHub remote for folder /home/vscode
+2024-11-20 11:11:53.544 [info] Using in-memory cached assignable users.
+2024-11-20 11:11:53.562 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-11-20 11:11:53.578 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
