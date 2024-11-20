@@ -1,0 +1,40 @@
+2024-11-18 12:16:00.623 [info] [main] ログ レベル: Info
+2024-11-18 12:16:00.623 [info] [main] Git の検証が検出されました: "git"
+2024-11-18 12:16:00.623 [info] [main] "git" から Git "2.46.2" を使用しています
+2024-11-18 12:16:00.623 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-18 12:16:00.623 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-18 12:16:00.623 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-11-18 12:16:00.623 [info] [Model][openRepository] Opened repository: /home/vscode/progate_path/self_introduction_branch/self_introduction
+2024-11-18 12:16:00.631 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-18 12:16:00.632 [info] > git rev-parse --show-toplevel [10ms]
+2024-11-18 12:16:00.637 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-11-18 12:16:00.655 [info] > git rev-parse --show-toplevel [17ms]
+2024-11-18 12:16:00.663 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-18 12:16:00.667 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-18 12:16:00.718 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [69ms]
+2024-11-18 12:16:00.741 [info] > git status -z -uall [98ms]
+2024-11-18 12:16:00.766 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-11-18 12:16:00.856 [info] > git config --local branch.main.vscode-merge-base [84ms]
+2024-11-18 12:16:00.856 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-18 12:16:00.871 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-18 12:16:00.920 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [48ms]
+2024-11-18 12:16:00.933 [info] > git reflog main --grep-reflog=branch: Created from *. [72ms]
+2024-11-18 12:16:00.939 [info] > git status -z -uall [11ms]
+2024-11-18 12:16:00.939 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2024-11-18 12:16:01.467 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [530ms]
+2024-11-18 12:16:01.467 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-11-18 12:16:01.467 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2024-11-18 12:16:01.850 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [904ms]
+2024-11-18 12:16:01.879 [info] > git check-ignore -v -z --stdin [400ms]
+2024-11-18 12:16:01.886 [info] > git config --local branch.main.vscode-merge-base [29ms]
+2024-11-18 12:16:01.886 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-18 12:16:01.929 [info] > git reflog main --grep-reflog=branch: Created from *. [38ms]
+2024-11-18 12:16:02.080 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [147ms]
+2024-11-18 12:16:02.080 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-11-18 12:16:02.080 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2024-11-18 12:16:08.363 [info] > git config --local branch.main.github-pr-owner-number [31ms]
+2024-11-18 12:16:08.363 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-18 12:16:08.379 [info] > git config --local branch.main.remote [10ms]
+2024-11-18 12:16:08.379 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-18 12:16:08.390 [info] > git config --local branch.main.merge [4ms]
+2024-11-18 12:16:08.390 [warning] [Git][config] git config failed: Failed to execute git

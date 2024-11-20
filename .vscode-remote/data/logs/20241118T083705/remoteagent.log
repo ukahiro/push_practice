@@ -1,0 +1,39 @@
+2024-11-18 08:37:05.280 [trace] Remote configuration data at /home/vscode/.vscode-remote
+2024-11-18 08:37:05.280 [trace] process arguments: {"_":[],"host":"127.0.0.1","port":"0","connection-token-file":"/home/vscode/.vscode-remote/data/Machine/.connection-token-f1a4fb101478ce6ec82fe9627c43efbf9e98c813","without-connection-token":false,"disable-websocket-compression":false,"print-startup-performance":false,"print-ip-address":false,"accept-server-license-terms":true,"server-data-dir":"/home/vscode/.vscode-remote","enable-smoke-test-driver":false,"disable-telemetry":false,"disable-workspace-trust":false,"log":["trace"],"force-disable-user-env":true,"enable-sync":false,"use-test-resolver":false,"extensions-download-dir":"/home/vscode/.vscode-remote/extensionsCache","update-extensions":false,"list-extensions":false,"show-versions":false,"force":false,"do-not-sync":false,"pre-release":false,"start-server":true,"enable-remote-auto-shutdown":true,"remote-auto-shutdown-without-delay":false,"use-host-proxy":false,"without-browser-env-var":false,"help":false,"version":false,"user-data-dir":"/home/vscode/.vscode-remote/data","builtin-extensions-dir":"/vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions","extensions-dir":"/home/vscode/.vscode-remote/extensions","logsPath":"/home/vscode/.vscode-remote/data/logs/20241118T083705"}
+2024-11-18 08:37:05.280 [info] 
+
+
+
+
+2024-11-18 08:37:05.280 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/data/Machine (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-11-18 08:37:05.294 [trace] ExtensionManagementService#cleanUp
+2024-11-18 08:37:05.296 [trace] ExtensionManagementService#removeTempDeleteFolders
+2024-11-18 08:37:05.298 [info] Extension host agent started.
+2024-11-18 08:37:05.402 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/data/Machine'
+2024-11-18 08:37:05.403 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-11-18 08:37:05.405 [debug] No uninstalled extensions found.
+2024-11-18 08:37:05.405 [trace] [File Watcher (node.js)] ignoring a path for watching who's stat info failed to resolve: /home/vscode/.vscode-remote/data/Machine/settings.json (error: Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/data/Machine/settings.json')
+2024-11-18 08:37:05.406 [trace] [File Watcher (node.js)] starting fs.watchFile() on /home/vscode/.vscode-remote/data/Machine/settings.json (correlationId: undefined)
+2024-11-18 08:37:05.426 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ritwickdey.liveserver-5.7.9
+2024-11-18 08:37:05.430 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/esbenp.prettier-vscode-11.0.0
+2024-11-18 08:37:05.431 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ms-python.python-2024.21.2024111501
+2024-11-18 08:37:05.431 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ms-toolsai.jupyter-2024.11.2024110701
+2024-11-18 08:37:05.439 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions/extensions.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-11-18 08:37:05.439 [trace] [File Watcher (node.js)] Request to stop watching: /home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-11-18 08:37:05.439 [trace] [File Watcher (node.js)] stopping file watcher (/home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>))
+2024-11-18 08:37:05.440 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions'
+2024-11-18 08:37:05.444 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions","external":"file:///home/vscode/.vscode-remote/extensions","path":"/home/vscode/.vscode-remote/extensions","scheme":"file"}
+2024-11-18 08:37:05.446 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions/extensions.json'
+2024-11-18 08:37:05.814 [trace] Scanned user extensions: 21
+2024-11-18 08:37:06.343 [info] [127.0.0.1][a0033eac][ManagementConnection] New connection established.
+2024-11-18 08:37:06.624 [trace] Started scanning system extensions
+2024-11-18 08:37:06.624 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-11-18 08:37:06.625 [trace] ExtensionManagementService.updateControlCache
+2024-11-18 08:37:06.626 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-11-18 08:37:06.627 [trace] Scanning extensions using UI language: ja
+2024-11-18 08:37:06.632 [info] Log level changed to info
+2024-11-18 08:37:07.103 [info] [127.0.0.1][ccf5eff1][ExtensionHostConnection] New connection established.
+2024-11-18 08:37:07.124 [info] [127.0.0.1][ccf5eff1][ExtensionHostConnection] <775> Launched Extension Host Process.
+2024-11-18 08:37:07.158 [info] [127.0.0.1][ccf5eff1][ExtensionHostConnection] <775><stderr> Error reading NLS messages file /home/vscode/.vscode-remote/data/clp/07dad9aebde73376c3d6313bc48d7ec6.ja/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/vscode/.vscode-remote/data/clp/07dad9aebde73376c3d6313bc48d7ec6.ja/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json'
+
+2024-11-18 08:42:05.300 [info] New EH opened, aborting shutdown

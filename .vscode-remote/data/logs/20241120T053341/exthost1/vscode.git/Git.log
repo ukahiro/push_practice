@@ -1,0 +1,33 @@
+2024-11-20 05:33:56.273 [info] [main] ログ レベル: Info
+2024-11-20 05:33:56.273 [info] [main] Git の検証が検出されました: "git"
+2024-11-20 05:33:56.273 [info] [main] "git" から Git "2.46.2" を使用しています
+2024-11-20 05:33:56.273 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-20 05:33:56.273 [info] > git rev-parse --show-toplevel [9ms]
+2024-11-20 05:33:56.274 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2024-11-20 05:33:56.282 [info] [Model][openRepository] Opened repository: /home/vscode/progate_path/self_introduction_branch/self_introduction
+2024-11-20 05:33:56.295 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-20 05:33:56.315 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-20 05:33:56.316 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-20 05:33:56.322 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2024-11-20 05:33:56.335 [info] > git rev-parse --show-toplevel [14ms]
+2024-11-20 05:33:56.338 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-20 05:33:56.352 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [17ms]
+2024-11-20 05:33:56.354 [info] > git status -z -uall [26ms]
+2024-11-20 05:33:56.374 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2024-11-20 05:33:56.384 [info] > git config --local branch.main.vscode-merge-base [4ms]
+2024-11-20 05:33:56.384 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-20 05:33:56.397 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-20 05:33:56.397 [info] > git reflog main --grep-reflog=branch: Created from *. [7ms]
+2024-11-20 05:33:56.403 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-11-20 05:33:56.414 [info] > git status -z -uall [7ms]
+2024-11-20 05:33:56.415 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [13ms]
+2024-11-20 05:33:56.415 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-11-20 05:33:56.415 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2024-11-20 05:33:56.729 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [316ms]
+2024-11-20 05:33:57.544 [info] > git check-ignore -v -z --stdin [6ms]
+2024-11-20 05:34:02.361 [info] > git config --local branch.main.github-pr-owner-number [256ms]
+2024-11-20 05:34:02.361 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-20 05:34:02.384 [info] > git config --local branch.main.remote [11ms]
+2024-11-20 05:34:02.384 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-20 05:34:02.426 [info] > git config --local branch.main.merge [2ms]
+2024-11-20 05:34:02.426 [warning] [Git][config] git config failed: Failed to execute git

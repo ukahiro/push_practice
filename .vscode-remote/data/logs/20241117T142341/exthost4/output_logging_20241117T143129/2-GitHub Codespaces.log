@@ -279,3 +279,199 @@
 [Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
 [Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
 [Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:post-attach-command-manager I] PostAttachCommandManager: Removed Codespaces: /bin/bash ~/environment/.devcontainer/postAttachCommand.sh from codespaces.483.runningPostAttachCommands
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:post-attach-command-manager I] PostAttachCommandManager: Attempt to remove Codespaces: /bin/bash ~/environment/.devcontainer/postAttachCommand.sh from codespaces.483.runningPostAttachCommands failed as it was not present in the list
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider V] sending activity heartbeat
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Executed notify-codespace-of-client-activity using gRPC
+[Client:extension:265c:resolver:resolve:1:background-tasks:activity-monitor:vscode-activity-provider I] Activity signal sent with result true
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Performance I] Executed get-performance-data using gRPC
+[Client:extension:265c:resolver V] disposing reason: 'vscode disposed the resolver', disposing 1 objects
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.e (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:9853)
+  at Object.readFile (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:7581)
+  at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.e (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:9853)
+  at Object.readFile (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:7581)
+  at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.e (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:9853)
+  at Object.readFile (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:7581)
+  at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.e (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:9853)
+  at Object.readFile (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:7581)
+  at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[ResourceUsage I] Failed to read resource usage file.> object #0: Canceled code:Unknown
+  at Function.e (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:9853)
+  at Object.readFile (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:7581)
+  at processTicksAndRejections (node:internal/process/task_queues:95:5)

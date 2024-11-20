@@ -1,0 +1,87 @@
+2024-11-20 05:33:41.891 [trace] Remote configuration data at /home/vscode/.vscode-remote
+2024-11-20 05:33:41.891 [trace] process arguments: {"_":[],"host":"127.0.0.1","port":"0","connection-token-file":"/home/vscode/.vscode-remote/data/Machine/.connection-token-f1a4fb101478ce6ec82fe9627c43efbf9e98c813","without-connection-token":false,"disable-websocket-compression":false,"print-startup-performance":false,"print-ip-address":false,"accept-server-license-terms":true,"server-data-dir":"/home/vscode/.vscode-remote","enable-smoke-test-driver":false,"disable-telemetry":false,"disable-workspace-trust":false,"log":["trace"],"force-disable-user-env":true,"enable-sync":false,"use-test-resolver":false,"extensions-download-dir":"/home/vscode/.vscode-remote/extensionsCache","update-extensions":false,"list-extensions":false,"show-versions":false,"force":false,"do-not-sync":false,"pre-release":false,"start-server":true,"enable-remote-auto-shutdown":true,"remote-auto-shutdown-without-delay":false,"use-host-proxy":false,"without-browser-env-var":false,"help":false,"version":false,"user-data-dir":"/home/vscode/.vscode-remote/data","builtin-extensions-dir":"/vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions","extensions-dir":"/home/vscode/.vscode-remote/extensions","logsPath":"/home/vscode/.vscode-remote/data/logs/20241120T053341"}
+2024-11-20 05:33:41.891 [info] 
+
+
+
+
+2024-11-20 05:33:41.891 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/data/Machine (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-11-20 05:33:41.909 [trace] ExtensionManagementService#cleanUp
+2024-11-20 05:33:41.909 [trace] ExtensionManagementService#removeTempDeleteFolders
+2024-11-20 05:33:41.911 [info] Extension host agent started.
+2024-11-20 05:33:41.960 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/data/Machine'
+2024-11-20 05:33:41.966 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-11-20 05:33:41.969 [trace] [File Watcher (node.js)] ignoring a path for watching who's stat info failed to resolve: /home/vscode/.vscode-remote/data/Machine/settings.json (error: Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/data/Machine/settings.json')
+2024-11-20 05:33:41.970 [trace] [File Watcher (node.js)] starting fs.watchFile() on /home/vscode/.vscode-remote/data/Machine/settings.json (correlationId: undefined)
+2024-11-20 05:33:41.980 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ms-toolsai.jupyter-2024.11.2024111901
+2024-11-20 05:33:41.981 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ritwickdey.liveserver-5.7.9
+2024-11-20 05:33:41.982 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ms-python.python-2024.21.2024111901
+2024-11-20 05:33:41.983 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/dbaeumer.vscode-eslint-3.0.13
+2024-11-20 05:33:41.984 [debug] Removing uninstalled extensions: ["github.copilot-chat-0.22.2"]
+2024-11-20 05:33:41.985 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions","external":"file:///home/vscode/.vscode-remote/extensions","path":"/home/vscode/.vscode-remote/extensions","scheme":"file"}
+2024-11-20 05:33:41.987 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions/extensions.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-11-20 05:33:41.988 [trace] [File Watcher (node.js)] Request to stop watching: /home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-11-20 05:33:41.989 [trace] [File Watcher (node.js)] stopping file watcher (/home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>))
+2024-11-20 05:33:41.994 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions'
+2024-11-20 05:33:41.996 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions","external":"file:///home/vscode/.vscode-remote/extensions","path":"/home/vscode/.vscode-remote/extensions","scheme":"file"}
+2024-11-20 05:33:42.222 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions/extensions.json'
+2024-11-20 05:33:42.814 [trace] [127.0.0.1][e33caeac][ExtensionHostConnection] - startParams language: ja
+2024-11-20 05:33:42.814 [trace] [127.0.0.1][e33caeac][ExtensionHostConnection] - startParams env: {}
+2024-11-20 05:33:42.815 [info] [127.0.0.1][e33caeac][ExtensionHostConnection] New connection established.
+2024-11-20 05:33:43.118 [trace] Scanned user extensions: 22
+2024-11-20 05:33:43.121 [trace] Deleting uninstalled extension from disk github.copilot-chat /home/vscode/.vscode-remote/extensions/github.copilot-chat-0.22.2
+2024-11-20 05:33:43.124 [trace] [File Watcher (node.js)] [raw] ["rename"] github.copilot-chat-0.22.2
+2024-11-20 05:33:43.125 [trace] [File Watcher (node.js)] [raw] ["rename"] github.copilot-chat-0.22.2.-3a4911e.vsctmp
+2024-11-20 05:33:43.135 [trace] Scanned user extensions: 21
+2024-11-20 05:33:43.160 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-11-20 05:33:43.168 [info] [127.0.0.1][e33caeac][ExtensionHostConnection] <854> Launched Extension Host Process.
+2024-11-20 05:33:43.242 [trace] [File Watcher (node.js)] [DELETED] /home/vscode/.vscode-remote/extensions/github.copilot-chat-0.22.2
+2024-11-20 05:33:43.243 [trace] [File Watcher (node.js)] [ADDED] /home/vscode/.vscode-remote/extensions/github.copilot-chat-0.22.2.-3a4911e.vsctmp
+2024-11-20 05:33:43.245 [trace] [File Watcher (node.js)] [raw] ["rename"] github.copilot-chat-0.22.2.-3a4911e.vsctmp
+2024-11-20 05:33:43.248 [info] Deleted uninstalled extension from disk github.copilot-chat /home/vscode/.vscode-remote/extensions/github.copilot-chat-0.22.2
+2024-11-20 05:33:43.249 [trace] [File Watcher (node.js)] [raw] ["rename"] .obsolete
+2024-11-20 05:33:43.318 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/vscode/.vscode-remote/extensions/github.copilot-chat-0.22.2
+2024-11-20 05:33:43.319 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/vscode/.vscode-remote/extensions/github.copilot-chat-0.22.2.-3a4911e.vsctmp
+2024-11-20 05:33:43.348 [trace] [File Watcher (node.js)] [DELETED] /home/vscode/.vscode-remote/extensions/github.copilot-chat-0.22.2.-3a4911e.vsctmp
+2024-11-20 05:33:43.349 [trace] [File Watcher (node.js)] [DELETED] /home/vscode/.vscode-remote/extensions/.obsolete
+2024-11-20 05:33:43.424 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/vscode/.vscode-remote/extensions/.obsolete
+2024-11-20 05:33:43.425 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/vscode/.vscode-remote/extensions/github.copilot-chat-0.22.2.-3a4911e.vsctmp
+2024-11-20 05:33:43.769 [info] [127.0.0.1][fb282f89][ManagementConnection] New connection established.
+2024-11-20 05:33:43.955 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-11-20 05:33:43.956 [trace] [network] #1: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - begin POST {"Client-Id":"NO_AUTH","client-version":"1DS-Web-JS-3.2.13","apikey":"5bbf946d11a54f6783919c455abaddaf-fd62977b-c92d-4714-a45d-649d06980372-7168","upload-time":"1732080823954","time-delta-to-apply-millis":"use-collector-delta","cache-control":"no-cache, no-store","content-type":"application/x-json-stream","Content-Type":"application/json","Content-Length":"2265"}
+2024-11-20 05:33:44.052 [trace] Started scanning system extensions
+2024-11-20 05:33:44.053 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-11-20 05:33:44.053 [trace] ExtensionManagementService.updateControlCache
+2024-11-20 05:33:44.054 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-11-20 05:33:44.055 [trace] Scanning extensions using UI language: ja
+2024-11-20 05:33:44.063 [trace] [network] #2: https://az764295.vo.msecnd.net/extensions/marketplace.json - begin GET {}
+2024-11-20 05:33:44.067 [info] Log level changed to info
+2024-11-20 05:33:44.372 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.22.2.-3a4911e.vsctmp'
+    at hI.create (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/server-main.js:48:81778)
+    at ln (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/server-main.js:48:79103)
+    at Bl.ib (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/server-main.js:63:22686)
+    at Bl.stat (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/server-main.js:63:16017)
+    at async jc.stat (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/server-main.js:60:48457)
+    at async Oc.yb (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/server-main.js:51:18897)
+2024-11-20 05:33:49.694 [info] Getting Manifest... github.copilot-chat
+2024-11-20 05:33:49.695 [info] Getting Manifest... github.vscode-pull-request-github
+2024-11-20 05:33:49.735 [info] Installing extension: github.copilot-chat {"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}}
+2024-11-20 05:33:49.742 [info] Installing extension: github.vscode-pull-request-github {"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}}
+2024-11-20 05:33:53.267 [info] Extension signature verification result for github.vscode-pull-request-github: Success. Executed: true. Duration: 2698ms.
+2024-11-20 05:33:53.306 [info] Extension signature verification result for github.copilot-chat: Success. Executed: true. Duration: 3096ms.
+2024-11-20 05:33:53.566 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.100.3: github.vscode-pull-request-github
+2024-11-20 05:33:53.576 [info] Renamed to /home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.100.3
+2024-11-20 05:33:53.648 [info] Marked extension as uninstalled github.vscode-pull-request-github-0.100.1
+2024-11-20 05:33:53.664 [info] Extension installed successfully: github.vscode-pull-request-github file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-20 05:33:53.872 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/github.copilot-chat-0.22.4: github.copilot-chat
+2024-11-20 05:33:53.877 [info] Renamed to /home/vscode/.vscode-remote/extensions/github.copilot-chat-0.22.4
+2024-11-20 05:33:53.933 [info] Marked extension as uninstalled github.copilot-chat-0.22.3
+2024-11-20 05:33:53.938 [info] Extension installed successfully: github.copilot-chat file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-20 05:35:03.409 [info] [127.0.0.1][3f1e7d93][ManagementConnection] New connection established.
+2024-11-20 05:35:05.328 [info] [127.0.0.1][06f54cd2][ExtensionHostConnection] New connection established.
+2024-11-20 05:35:05.333 [info] [127.0.0.1][06f54cd2][ExtensionHostConnection] <2795> Launched Extension Host Process.
+2024-11-20 05:38:41.912 [info] New EH opened, aborting shutdown
+2024-11-20 05:43:26.111 [info] [127.0.0.1][8ee3a892][ManagementConnection] New connection established.
+2024-11-20 05:43:26.152 [info] [127.0.0.1][75c2fba9][ExtensionHostConnection] New connection established.
+2024-11-20 05:43:26.157 [info] [127.0.0.1][75c2fba9][ExtensionHostConnection] <9740> Launched Extension Host Process.
+2024-11-20 05:43:52.940 [info] [127.0.0.1][fb282f89][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

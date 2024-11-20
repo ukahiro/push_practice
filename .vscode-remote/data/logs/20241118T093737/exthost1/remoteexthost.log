@@ -1,0 +1,29 @@
+2024-11-18 09:37:45.079 [info] Extension host with pid 886 started
+2024-11-18 09:37:45.094 [error] Error: EEXIST: file already exists, open '/home/vscode/.vscode-remote/data/User/workspaceStorage/5bd339f1/vscode.lock'
+2024-11-18 09:37:45.095 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/5bd339f1/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-11-18 09:37:45.101 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/5bd339f1/vscode.lock': The pid 775 appears to be gone.
+2024-11-18 09:37:45.101 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/5bd339f1/vscode.lock': Deleting a stale lock.
+2024-11-18 09:37:45.116 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/5bd339f1/vscode.lock': Lock acquired.
+2024-11-18 09:37:45.413 [info] ExtensionService#_doActivateExtension GitHub.codespaces, startup: false, activationEvent: 'onCommand:github.codespaces.activate'
+2024-11-18 09:37:45.414 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-11-18 09:37:45.415 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: false, activationEvent: '*'
+2024-11-18 09:37:45.415 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+2024-11-18 09:37:45.415 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-11-18 09:37:45.416 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-11-18 09:37:46.417 [warning] Using default string since no string found in i18n bundle that has the key: Keep Defaults
+2024-11-18 09:37:46.417 [warning] Using default string since no string found in i18n bundle that has the key: Configure Options
+2024-11-18 09:37:46.417 [warning] Using default string since no string found in i18n bundle that has the key: Finish
+2024-11-18 09:37:46.420 [warning] Using default string since no string found in i18n bundle that has the key: Learn More
+2024-11-18 09:37:46.420 [warning] Using default string since no string found in i18n bundle that has the key: Documentation on predefined container definitions
+2024-11-18 09:37:48.783 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-11-18 09:37:48.783 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-11-18 09:37:49.796 [info] Eager extensions activated
+2024-11-18 09:37:49.796 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-18 09:37:49.797 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-18 09:37:49.797 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-11-18 09:37:49.798 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-18 09:37:49.798 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-11-18 09:37:49.798 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-11-18 09:37:49.798 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2024-11-18 09:37:52.229 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-18 09:37:56.851 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: GitHub.vscode-pull-request-github

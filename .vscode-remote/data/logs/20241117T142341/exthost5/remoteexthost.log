@@ -1,0 +1,30 @@
+2024-11-17 15:10:35.777 [info] Extension host with pid 55403 started
+2024-11-17 15:10:35.785 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/5bd339f1/vscode.lock': Lock acquired.
+2024-11-17 15:10:36.184 [info] ExtensionService#_doActivateExtension GitHub.codespaces, startup: false, activationEvent: 'onCommand:github.codespaces.activate'
+2024-11-17 15:10:36.185 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-11-17 15:10:36.185 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: false, activationEvent: '*'
+2024-11-17 15:10:36.185 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+2024-11-17 15:10:36.186 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-11-17 15:10:36.186 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-11-17 15:10:36.543 [warning] Using default string since no string found in i18n bundle that has the key: Keep Defaults
+2024-11-17 15:10:36.543 [warning] Using default string since no string found in i18n bundle that has the key: Configure Options
+2024-11-17 15:10:36.543 [warning] Using default string since no string found in i18n bundle that has the key: Finish
+2024-11-17 15:10:36.548 [warning] Using default string since no string found in i18n bundle that has the key: Learn More
+2024-11-17 15:10:36.548 [warning] Using default string since no string found in i18n bundle that has the key: Documentation on predefined container definitions
+2024-11-17 15:10:37.912 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-11-17 15:10:37.912 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-11-17 15:10:38.672 [info] Eager extensions activated
+2024-11-17 15:10:38.673 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-17 15:10:38.673 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-17 15:10:38.674 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-11-17 15:10:38.674 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-17 15:10:38.675 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-11-17 15:10:38.675 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-11-17 15:10:38.676 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2024-11-17 15:10:39.954 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-17 15:10:43.436 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: GitHub.vscode-pull-request-github
+2024-11-17 15:11:05.841 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2024-11-17 15:11:05.842 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2024-11-17 15:11:06.209 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-11-17 15:11:06.916 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2024-11-17 15:11:32.264 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'

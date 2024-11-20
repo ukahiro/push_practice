@@ -1,0 +1,19 @@
+2024-11-20 05:43:34.535 [warning] /home/vscode/.ssh/config: ENOENT: no such file or directory, open '/home/vscode/.ssh/config'
+2024-11-20 05:43:34.535 [info] Activation> Extension version: 0.100.3
+2024-11-20 05:43:37.033 [info] Looking for git repository
+2024-11-20 05:43:37.033 [info] Found 0 repositories during activation
+2024-11-20 05:43:37.033 [info] Git repository found, initializing review manager and pr tree view.
+2024-11-20 05:43:37.034 [info] Registering git provider
+2024-11-20 05:44:10.383 [info] Repository file:///home/vscode has been opened
+2024-11-20 05:44:10.383 [info] Review+0> Validate state in progress
+2024-11-20 05:44:10.383 [info] Review+0> Validating state...
+2024-11-20 05:44:10.385 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-11-20 05:44:10.385 [info] No GitHub remotes found for folder /home/vscode
+2024-11-20 05:44:12.798 [info] Review+0> Validate state in progress
+2024-11-20 05:44:12.798 [info] Review+0> Validating state...
+2024-11-20 05:44:12.798 [info] Repo state for file:///home/vscode changed.
+2024-11-20 05:44:12.798 [info] Repo file:///home/vscode has already been setup.
+2024-11-20 05:44:12.807 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-11-20 05:44:12.808 [info] No GitHub remotes found for folder /home/vscode
+2024-11-20 05:44:12.845 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-11-20 05:44:13.139 [info] Review+0> No matching pull request metadata found on GitHub for current branch main

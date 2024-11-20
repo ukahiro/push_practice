@@ -51,3 +51,13 @@
     at B0.m (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:4410)
     at B0.l (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:3866)
 2024-11-17 14:24:18.093 [info] activationBlocker from 'languageModelAccess' took for 13047ms
+2024-11-17 14:39:19.113 [info] Logged in as ukahiro
+2024-11-17 14:39:19.458 [warning] Invalid copilot token: missing token: 403 
+2024-11-17 14:39:19.458 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2024-11-17 14:39:19.458 [error] Error: No access to GitHub Copilot found. You are currently logged in as ukahiro.
+    at iE._authShowWarnings (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.22.2/dist/extension.js:613:3084)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at iE.getCopilotToken (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.22.2/dist/extension.js:613:2135)
+    at jk.getCopilotToken (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.22.2/dist/extension.js:282:37843)
+    at fE._getAuthSession (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.22.2/dist/extension.js:628:2597)
+    at Timeout.t [as _onTimeout] (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.22.2/dist/extension.js:628:631)

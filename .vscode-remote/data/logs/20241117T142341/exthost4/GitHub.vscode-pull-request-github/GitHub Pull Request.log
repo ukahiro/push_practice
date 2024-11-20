@@ -4,3 +4,94 @@
 2024-11-17 14:31:37.259 [info] Found 0 repositories during activation
 2024-11-17 14:31:37.259 [info] Git repository found, initializing review manager and pr tree view.
 2024-11-17 14:31:37.260 [info] Registering git provider
+2024-11-17 14:39:57.956 [info] Repository file:///home/vscode/progate_path/self_introduction_branch/self_introduction has been opened
+2024-11-17 14:39:57.956 [info] Review+0> Validate state in progress
+2024-11-17 14:39:57.956 [info] Review+0> Validating state...
+2024-11-17 14:39:57.958 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-11-17 14:39:57.958 [info] No GitHub remotes found for folder /home/vscode/progate_path/self_introduction_branch/self_introduction
+2024-11-17 14:39:57.988 [info] Review+0> Queuing additional validate state
+2024-11-17 14:39:57.988 [info] Repo state for file:///home/vscode/progate_path/self_introduction_branch/self_introduction changed.
+2024-11-17 14:39:57.988 [info] Repo file:///home/vscode/progate_path/self_introduction_branch/self_introduction has already been setup.
+2024-11-17 14:39:58.343 [info] Review+0> Validating state...
+2024-11-17 14:39:58.343 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-11-17 14:39:58.343 [info] No GitHub remotes found for folder /home/vscode/progate_path/self_introduction_branch/self_introduction
+2024-11-17 14:39:58.354 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-11-17 14:39:58.361 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-11-17 14:40:08.752 [info] Review+0> Validate state in progress
+2024-11-17 14:40:08.752 [info] Review+0> Validating state...
+2024-11-17 14:40:08.753 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-11-17 14:40:08.753 [info] No GitHub remotes found for folder /home/vscode/progate_path/self_introduction_branch/self_introduction
+2024-11-17 14:40:08.762 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-11-17 14:40:08.770 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-11-17 14:41:08.713 [info] Review+0> Validate state in progress
+2024-11-17 14:41:08.713 [info] Review+0> Validating state...
+2024-11-17 14:41:08.717 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-11-17 14:41:08.717 [info] No GitHub remotes found for folder /home/vscode/progate_path/self_introduction_branch/self_introduction
+2024-11-17 14:41:08.731 [info] Review+0> No matching pull request metadata found locally for current branch branch-a
+2024-11-17 14:41:08.749 [info] Review+0> No matching pull request metadata found on GitHub for current branch branch-a
+2024-11-17 14:42:01.697 [info] Review+0> Validate state in progress
+2024-11-17 14:42:01.697 [info] Review+0> Validating state...
+2024-11-17 14:42:01.701 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-11-17 14:42:01.702 [info] No GitHub remotes found for folder /home/vscode/progate_path/self_introduction_branch/self_introduction
+2024-11-17 14:42:01.716 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-11-17 14:42:01.737 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-11-17 14:48:32.857 [info] Review+0> Validate state in progress
+2024-11-17 14:48:32.857 [info] Review+0> Validating state...
+2024-11-17 14:48:32.857 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-11-17 14:48:32.857 [info] No GitHub remotes found for folder /home/vscode/progate_path/self_introduction_branch/self_introduction
+2024-11-17 14:48:32.866 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-11-17 14:48:32.874 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-11-17 14:49:53.145 [info] Review+0> Validate state in progress
+2024-11-17 14:49:53.145 [info] Review+0> Validating state...
+2024-11-17 14:49:53.149 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-11-17 14:49:53.149 [info] No GitHub remotes found for folder /home/vscode/progate_path/self_introduction_branch/self_introduction
+2024-11-17 14:49:53.163 [info] Review+0> No matching pull request metadata found locally for current branch branch-a
+2024-11-17 14:49:53.191 [info] Review+0> No matching pull request metadata found on GitHub for current branch branch-a
+2024-11-17 14:52:25.199 [info] Review+0> Validate state in progress
+2024-11-17 14:52:25.199 [info] Review+0> Validating state...
+2024-11-17 14:52:25.200 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-11-17 14:52:25.200 [info] No GitHub remotes found for folder /home/vscode/progate_path/self_introduction_branch/self_introduction
+2024-11-17 14:52:25.210 [info] Review+0> No matching pull request metadata found locally for current branch branch-a
+2024-11-17 14:52:25.217 [info] Review+0> No matching pull request metadata found on GitHub for current branch branch-a
+2024-11-17 14:54:10.427 [info] Review+0> Validate state in progress
+2024-11-17 14:54:10.427 [info] Review+0> Validating state...
+2024-11-17 14:54:10.440 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-11-17 14:54:10.443 [info] No GitHub remotes found for folder /home/vscode/progate_path/self_introduction_branch/self_introduction
+2024-11-17 14:54:10.473 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-11-17 14:54:10.484 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-11-17 14:54:43.824 [info] Review+0> Validate state in progress
+2024-11-17 14:54:43.824 [info] Review+0> Validating state...
+2024-11-17 14:54:43.825 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-11-17 14:54:43.825 [info] No GitHub remotes found for folder /home/vscode/progate_path/self_introduction_branch/self_introduction
+2024-11-17 14:54:43.834 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-11-17 14:54:43.841 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-11-17 14:59:23.864 [info] Review+0> Validate state in progress
+2024-11-17 14:59:23.864 [info] Review+0> Validating state...
+2024-11-17 14:59:23.865 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-11-17 14:59:23.865 [info] No GitHub remotes found for folder /home/vscode/progate_path/self_introduction_branch/self_introduction
+2024-11-17 14:59:23.877 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-11-17 14:59:23.885 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-11-17 15:00:43.842 [info] Review+0> Validate state in progress
+2024-11-17 15:00:43.842 [info] Review+0> Validating state...
+2024-11-17 15:00:43.847 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-11-17 15:00:43.847 [info] No GitHub remotes found for folder /home/vscode/progate_path/self_introduction_branch/self_introduction
+2024-11-17 15:00:43.860 [info] Review+0> No matching pull request metadata found locally for current branch branch-a
+2024-11-17 15:00:43.876 [info] Review+0> No matching pull request metadata found on GitHub for current branch branch-a
+2024-11-17 15:02:16.418 [info] Review+0> Validate state in progress
+2024-11-17 15:02:16.418 [info] Review+0> Validating state...
+2024-11-17 15:02:16.418 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-11-17 15:02:16.419 [info] No GitHub remotes found for folder /home/vscode/progate_path/self_introduction_branch/self_introduction
+2024-11-17 15:02:16.427 [info] Review+0> No matching pull request metadata found locally for current branch branch-a
+2024-11-17 15:02:16.434 [info] Review+0> No matching pull request metadata found on GitHub for current branch branch-a
+2024-11-17 15:02:48.192 [info] Review+0> Validate state in progress
+2024-11-17 15:02:48.192 [info] Review+0> Validating state...
+2024-11-17 15:02:48.199 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-11-17 15:02:48.199 [info] No GitHub remotes found for folder /home/vscode/progate_path/self_introduction_branch/self_introduction
+2024-11-17 15:02:48.213 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-11-17 15:02:48.236 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-11-17 15:04:58.623 [info] Review+0> Validate state in progress
+2024-11-17 15:04:58.623 [info] Review+0> Validating state...
+2024-11-17 15:04:58.627 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-11-17 15:04:58.627 [info] No GitHub remotes found for folder /home/vscode/progate_path/self_introduction_branch/self_introduction
+2024-11-17 15:04:58.638 [info] Review+0> No matching pull request metadata found locally for current branch branch-a
+2024-11-17 15:04:58.655 [info] Review+0> No matching pull request metadata found on GitHub for current branch branch-a
