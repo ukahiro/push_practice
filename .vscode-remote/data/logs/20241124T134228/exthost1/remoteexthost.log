@@ -1,0 +1,61 @@
+2024-11-24 13:42:36.458 [info] Extension host with pid 877 started
+2024-11-24 13:42:36.482 [error] Error: EEXIST: file already exists, open '/home/vscode/.vscode-remote/data/User/workspaceStorage/-5dc66775/vscode.lock'
+2024-11-24 13:42:36.483 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/-5dc66775/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-11-24 13:42:36.485 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/-5dc66775/vscode.lock': The pid 3271 appears to be gone.
+2024-11-24 13:42:36.485 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/-5dc66775/vscode.lock': Deleting a stale lock.
+2024-11-24 13:42:36.490 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/-5dc66775/vscode.lock': Lock acquired.
+2024-11-24 13:42:37.065 [info] ExtensionService#_doActivateExtension GitHub.codespaces, startup: false, activationEvent: 'onCommand:github.codespaces.activate'
+2024-11-24 13:42:37.066 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-11-24 13:42:37.066 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: false, activationEvent: '*'
+2024-11-24 13:42:37.066 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+2024-11-24 13:42:37.066 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-11-24 13:42:37.067 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-11-24 13:42:37.067 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-24 13:42:37.067 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2024-11-24 13:42:37.068 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2024-11-24 13:42:37.068 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-11-24 13:42:37.875 [warning] Using default string since no string found in i18n bundle that has the key: Keep Defaults
+2024-11-24 13:42:37.875 [warning] Using default string since no string found in i18n bundle that has the key: Configure Options
+2024-11-24 13:42:37.875 [warning] Using default string since no string found in i18n bundle that has the key: Finish
+2024-11-24 13:42:37.878 [warning] Using default string since no string found in i18n bundle that has the key: Learn More
+2024-11-24 13:42:37.878 [warning] Using default string since no string found in i18n bundle that has the key: Documentation on predefined container definitions
+2024-11-24 13:42:39.999 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-11-24 13:42:40.000 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-11-24 13:42:40.997 [info] Eager extensions activated
+2024-11-24 13:42:40.997 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-24 13:42:40.997 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-24 13:42:40.997 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-11-24 13:42:40.998 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-24 13:42:40.998 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-11-24 13:42:40.998 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-11-24 13:42:40.998 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2024-11-24 13:42:42.955 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2024-11-24 13:42:50.136 [warning] [Decorations] CAPPING events from decorations provider vscode.git 262
+2024-11-24 13:42:50.763 [warning] [Decorations] CAPPING events from decorations provider vscode.git 263
+2024-11-24 13:42:51.067 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: GitHub.vscode-pull-request-github
+2024-11-24 14:07:58.129 [warning] [Decorations] CAPPING events from decorations provider vscode.git 264
+2024-11-24 14:08:03.257 [warning] [Decorations] CAPPING events from decorations provider vscode.git 264
+2024-11-24 14:08:11.354 [warning] [Decorations] CAPPING events from decorations provider vscode.git 264
+2024-11-24 14:08:16.478 [warning] [Decorations] CAPPING events from decorations provider vscode.git 264
+2024-11-24 14:08:21.594 [warning] [Decorations] CAPPING events from decorations provider vscode.git 264
+2024-11-24 14:08:26.709 [warning] [Decorations] CAPPING events from decorations provider vscode.git 264
+2024-11-24 14:08:31.824 [warning] [Decorations] CAPPING events from decorations provider vscode.git 264
+2024-11-24 14:08:32.621 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-11-24 14:09:09.611 [warning] [Decorations] CAPPING events from decorations provider vscode.git 264
+2024-11-24 14:09:14.732 [warning] [Decorations] CAPPING events from decorations provider vscode.git 264
+2024-11-24 14:09:19.867 [warning] [Decorations] CAPPING events from decorations provider vscode.git 264
+2024-11-24 14:09:24.981 [warning] [Decorations] CAPPING events from decorations provider vscode.git 264
+2024-11-24 14:10:05.962 [warning] [Decorations] CAPPING events from decorations provider vscode.git 264
+2024-11-24 14:10:15.504 [warning] [Decorations] CAPPING events from decorations provider vscode.git 264
+2024-11-24 14:10:20.618 [warning] [Decorations] CAPPING events from decorations provider vscode.git 264
+2024-11-24 14:10:31.830 [warning] [Decorations] CAPPING events from decorations provider vscode.git 264
+2024-11-24 14:10:36.955 [warning] [Decorations] CAPPING events from decorations provider vscode.git 264
+2024-11-24 14:10:42.056 [warning] [Decorations] CAPPING events from decorations provider vscode.git 268
+2024-11-24 14:10:47.159 [warning] [Decorations] CAPPING events from decorations provider vscode.git 268
+2024-11-24 14:10:52.260 [warning] [Decorations] CAPPING events from decorations provider vscode.git 268
+2024-11-24 14:11:00.723 [warning] [Decorations] CAPPING events from decorations provider vscode.git 268
+2024-11-24 14:11:05.829 [warning] [Decorations] CAPPING events from decorations provider vscode.git 268
+2024-11-24 14:11:21.066 [warning] [Decorations] CAPPING events from decorations provider vscode.git 268
+2024-11-24 14:11:26.201 [warning] [Decorations] CAPPING events from decorations provider vscode.git 268
+2024-11-24 14:11:31.323 [warning] [Decorations] CAPPING events from decorations provider vscode.git 268
+2024-11-24 14:11:45.709 [warning] [Decorations] CAPPING events from decorations provider vscode.git 268

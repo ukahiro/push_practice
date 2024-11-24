@@ -1,0 +1,103 @@
+2024-11-24 12:44:08.767 [info] [main] ログ レベル: Info
+2024-11-24 12:44:08.767 [info] [main] Git の検証が検出されました: "git"
+2024-11-24 12:44:08.767 [info] [main] "git" から Git "2.46.2" を使用しています
+2024-11-24 12:44:08.767 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-24 12:44:08.767 [info] > git rev-parse --show-toplevel [25ms]
+2024-11-24 12:44:08.767 [info] > git rev-parse --git-dir --git-common-dir [12ms]
+2024-11-24 12:44:08.767 [info] [Model][openRepository] Opened repository: /home/vscode
+2024-11-24 12:44:08.949 [info] > git config --get commit.template [122ms]
+2024-11-24 12:44:08.961 [info] > git rev-parse --show-toplevel [127ms]
+2024-11-24 12:44:08.987 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2024-11-24 12:44:08.997 [info] [Model][openRepository] Opened repository: /home/vscode/progate_path/self_introduction_push/self_introduction
+2024-11-24 12:44:09.002 [info] [Model][doInitialScan] Initial repository scan completed - repositories (2), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-24 12:44:09.010 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [35ms]
+2024-11-24 12:44:09.033 [info] > git config --get commit.template [23ms]
+2024-11-24 12:44:09.064 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/branch-a refs/remotes/branch-a [24ms]
+2024-11-24 12:44:09.318 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [223ms]
+2024-11-24 12:44:09.568 [info] > git check-ignore -v -z --stdin [205ms]
+2024-11-24 12:44:09.576 [info] > git status -z -uall [499ms]
+2024-11-24 12:44:12.790 [info] > git status -z -uall [3771ms]
+2024-11-24 12:44:12.790 [info] > git check-ignore -v -z --stdin [579ms]
+2024-11-24 12:44:12.791 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/branch-a refs/remotes/branch-a [2280ms]
+2024-11-24 12:44:12.801 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n163 --follow -- /home/vscode/progate_path/self_introduction_push/self_introduction/progate_path/self_introduction_push/self_introduction/src/favorite_food.md [3346ms]
+2024-11-24 12:44:12.803 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3775ms]
+2024-11-24 12:44:12.927 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [89ms]
+2024-11-24 12:44:12.941 [info] > git config --local branch.branch-a.vscode-merge-base [141ms]
+2024-11-24 12:44:12.941 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-24 12:44:12.955 [info] > git config --get commit.template [732ms]
+2024-11-24 12:44:12.985 [info] > git reflog branch-a --grep-reflog=branch: Created from *. [30ms]
+2024-11-24 12:44:12.994 [info] > git config --local branch.main.vscode-merge-base [53ms]
+2024-11-24 12:44:12.994 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-24 12:44:13.004 [info] > git config --get commit.template [80ms]
+2024-11-24 12:44:13.029 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [35ms]
+2024-11-24 12:44:13.141 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/branch-a refs/remotes/branch-a [130ms]
+2024-11-24 12:44:13.171 [info] > git reflog main --grep-reflog=branch: Created from *. [168ms]
+2024-11-24 12:44:13.243 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [72ms]
+2024-11-24 12:44:13.244 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [196ms]
+2024-11-24 12:44:13.321 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [285ms]
+2024-11-24 12:44:13.321 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-11-24 12:44:13.322 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2024-11-24 12:44:13.336 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [139ms]
+2024-11-24 12:44:13.336 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-11-24 12:44:13.336 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2024-11-24 12:44:13.345 [info] > git status -z -uall [191ms]
+2024-11-24 12:44:13.345 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [24ms]
+2024-11-24 12:44:14.979 [info] > git status -z -uall [1694ms]
+2024-11-24 12:44:22.654 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-11-24 12:44:22.655 [info] > git config --get commit.template [23ms]
+2024-11-24 12:44:22.732 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [61ms]
+2024-11-24 12:44:22.780 [info] > git status -z -uall [117ms]
+2024-11-24 12:44:28.115 [info] > git show --textconv :progate_path/self_introduction_push/self_introduction/src/favorite_food.md [24ms]
+2024-11-24 12:44:28.116 [info] > git config --get commit.template [53ms]
+2024-11-24 12:44:28.116 [info] > git config --local branch.main.github-pr-owner-number [69ms]
+2024-11-24 12:44:28.116 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-24 12:44:28.124 [info] > git config --local branch.branch-a.github-pr-owner-number [325ms]
+2024-11-24 12:44:28.124 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-24 12:44:28.140 [info] > git config --local branch.main.remote [16ms]
+2024-11-24 12:44:28.140 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-24 12:44:28.151 [info] > git ls-files --stage -- /home/vscode/progate_path/self_introduction_push/self_introduction/progate_path/self_introduction_push/self_introduction/src/favorite_food.md [49ms]
+2024-11-24 12:44:28.180 [info] > git config --local branch.main.merge [30ms]
+2024-11-24 12:44:28.180 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-24 12:44:28.181 [info] > git config --local branch.branch-a.remote [48ms]
+2024-11-24 12:44:28.181 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-24 12:44:28.190 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [23ms]
+2024-11-24 12:44:28.204 [info] > git config --get commit.template [42ms]
+2024-11-24 12:44:28.204 [info] > git cat-file -s f5033617eeed106b96d7206b522114e8323b4198 [48ms]
+2024-11-24 12:44:28.230 [info] > git config --local branch.branch-a.merge [44ms]
+2024-11-24 12:44:28.230 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-24 12:44:28.233 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [30ms]
+2024-11-24 12:44:28.285 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/branch-a refs/remotes/branch-a [58ms]
+2024-11-24 12:44:28.498 [info] > git status -z -uall [303ms]
+2024-11-24 12:44:28.498 [info] > git status -z -uall [203ms]
+2024-11-24 12:44:28.504 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [168ms]
+2024-11-24 12:44:30.199 [info] > git check-ignore -v -z --stdin [99ms]
+2024-11-24 12:44:33.517 [info] > git config --get commit.template [8ms]
+2024-11-24 12:44:33.517 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2024-11-24 12:44:33.548 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [19ms]
+2024-11-24 12:44:33.614 [info] > git status -z -uall [91ms]
+2024-11-24 12:44:35.350 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n163 --follow -- /home/vscode/progate_path/self_introduction_push/self_introduction/.gitignore [29ms]
+2024-11-24 12:44:35.570 [info] > git show --textconv :.gitignore [6ms]
+2024-11-24 12:44:35.573 [info] > git ls-files --stage -- /home/vscode/progate_path/self_introduction_push/self_introduction/.gitignore [3ms]
+2024-11-24 12:44:38.550 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n163 --follow -- /home/vscode/progate_path/self_introduction_push/self_introduction/LICENSE [3ms]
+2024-11-24 12:44:38.806 [info] > git show --textconv :LICENSE [7ms]
+2024-11-24 12:44:38.808 [info] > git ls-files --stage -- /home/vscode/progate_path/self_introduction_push/self_introduction/LICENSE [3ms]
+2024-11-24 12:44:39.909 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n163 --follow -- /home/vscode/progate_path/self_introduction_push/self_introduction/progate_path/self_introduction_push/self_introduction/src/favorite_food.md [145ms]
+2024-11-24 12:44:42.735 [info] > git check-ignore -v -z --stdin [4ms]
+2024-11-24 12:44:43.702 [info] > git check-ignore -v -z --stdin [3ms]
+2024-11-24 12:44:45.091 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n163 --follow -- /home/vscode/progate_path/self_introduction_push/self_introduction/src/favorite_food.md [48ms]
+2024-11-24 12:44:45.297 [info] > git show --textconv :src/favorite_food.md [7ms]
+2024-11-24 12:44:45.300 [info] > git ls-files --stage -- /home/vscode/progate_path/self_introduction_push/self_introduction/src/favorite_food.md [4ms]
+2024-11-24 12:44:45.308 [info] > git cat-file -s 54d6a16a5fd3cf66e6e81d166982c96d644f5b7e [2ms]
+2024-11-24 12:44:47.806 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n163 --follow -- /home/vscode/progate_path/self_introduction_push/self_introduction/progate_path/self_introduction_push/self_introduction/src/favorite_food.md [37ms]
+2024-11-24 12:45:07.738 [info] > git config --get commit.template [6ms]
+2024-11-24 12:45:07.739 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-11-24 12:45:07.766 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [17ms]
+2024-11-24 12:45:07.836 [info] > git status -z -uall [93ms]
+2024-11-24 12:45:16.351 [info] > git config --get commit.template [8ms]
+2024-11-24 12:45:16.352 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-11-24 12:45:16.407 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2024-11-24 12:45:16.524 [info] > git status -z -uall [167ms]
+2024-11-24 12:45:21.548 [info] > git config --get commit.template [9ms]
+2024-11-24 12:45:21.550 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-11-24 12:45:21.568 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2024-11-24 12:45:21.674 [info] > git status -z -uall [118ms]

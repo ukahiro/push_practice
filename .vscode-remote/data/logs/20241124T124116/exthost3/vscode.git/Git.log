@@ -1,0 +1,42 @@
+2024-11-24 12:45:26.949 [info] [main] ログ レベル: Info
+2024-11-24 12:45:26.949 [info] [main] Git の検証が検出されました: "git"
+2024-11-24 12:45:26.949 [info] [main] "git" から Git "2.46.2" を使用しています
+2024-11-24 12:45:26.949 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-24 12:45:26.949 [info] > git rev-parse --show-toplevel [333ms]
+2024-11-24 12:45:26.949 [info] > git rev-parse --git-dir --git-common-dir [16ms]
+2024-11-24 12:45:26.949 [info] [Model][openRepository] Opened repository: /home/vscode/progate_path/self_introduction_push/self_introduction
+2024-11-24 12:45:26.963 [info] > git config --get commit.template [7ms]
+2024-11-24 12:45:26.964 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-24 12:45:26.979 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/branch-a refs/remotes/branch-a [10ms]
+2024-11-24 12:45:26.996 [info] > git rev-parse --show-toplevel [22ms]
+2024-11-24 12:45:27.006 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+2024-11-24 12:45:27.011 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-24 12:45:27.023 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-24 12:45:27.042 [info] > git rev-parse --show-toplevel [9ms]
+2024-11-24 12:45:27.063 [info] > git status -z -uall [77ms]
+2024-11-24 12:45:27.063 [info] > git rev-parse --show-toplevel [15ms]
+2024-11-24 12:45:28.947 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/branch-a refs/remotes/branch-a [1314ms]
+2024-11-24 12:45:28.964 [info] > git config --local branch.branch-a.vscode-merge-base [10ms]
+2024-11-24 12:45:28.964 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-24 12:45:28.973 [info] > git config --get commit.template [457ms]
+2024-11-24 12:45:28.973 [info] > git rev-parse --show-toplevel [473ms]
+2024-11-24 12:45:29.005 [info] > git reflog branch-a --grep-reflog=branch: Created from *. [32ms]
+2024-11-24 12:45:29.044 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/branch-a refs/remotes/branch-a [50ms]
+2024-11-24 12:45:29.056 [info] > git rev-parse --show-toplevel [69ms]
+2024-11-24 12:45:29.060 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-24 12:45:29.074 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [64ms]
+2024-11-24 12:45:29.105 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [49ms]
+2024-11-24 12:45:29.106 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [25ms]
+2024-11-24 12:45:29.106 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-11-24 12:45:29.107 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2024-11-24 12:45:29.133 [info] > git status -z -uall [83ms]
+2024-11-24 12:45:30.514 [info] > git check-ignore -v -z --stdin [16ms]
+2024-11-24 12:45:35.080 [info] > git show --textconv :test/test_push.sh [71ms]
+2024-11-24 12:45:35.081 [info] > git ls-files --stage -- /home/vscode/progate_path/self_introduction_push/self_introduction/test/test_push.sh [66ms]
+2024-11-24 12:45:35.096 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n163 --follow -- /home/vscode/progate_path/self_introduction_push/self_introduction/test/test_push.sh [5ms]
+2024-11-24 12:45:48.213 [info] > git config --local branch.branch-a.github-pr-owner-number [115ms]
+2024-11-24 12:45:48.213 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-24 12:45:48.229 [info] > git config --local branch.branch-a.remote [10ms]
+2024-11-24 12:45:48.229 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-24 12:45:48.253 [info] > git config --local branch.branch-a.merge [18ms]
+2024-11-24 12:45:48.253 [warning] [Git][config] git config failed: Failed to execute git

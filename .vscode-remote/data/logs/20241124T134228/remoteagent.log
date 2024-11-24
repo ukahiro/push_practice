@@ -1,0 +1,66 @@
+2024-11-24 13:42:28.698 [trace] Remote configuration data at /home/vscode/.vscode-remote
+2024-11-24 13:42:28.698 [trace] process arguments: {"_":[],"host":"127.0.0.1","port":"0","connection-token-file":"/home/vscode/.vscode-remote/data/Machine/.connection-token-f1a4fb101478ce6ec82fe9627c43efbf9e98c813","without-connection-token":false,"disable-websocket-compression":false,"print-startup-performance":false,"print-ip-address":false,"accept-server-license-terms":true,"server-data-dir":"/home/vscode/.vscode-remote","enable-smoke-test-driver":false,"disable-telemetry":false,"disable-workspace-trust":false,"log":["trace"],"force-disable-user-env":true,"enable-sync":false,"use-test-resolver":false,"extensions-download-dir":"/home/vscode/.vscode-remote/extensionsCache","update-extensions":false,"list-extensions":false,"show-versions":false,"force":false,"do-not-sync":false,"pre-release":false,"start-server":true,"enable-remote-auto-shutdown":true,"remote-auto-shutdown-without-delay":false,"use-host-proxy":false,"without-browser-env-var":false,"help":false,"version":false,"user-data-dir":"/home/vscode/.vscode-remote/data","builtin-extensions-dir":"/vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions","extensions-dir":"/home/vscode/.vscode-remote/extensions","logsPath":"/home/vscode/.vscode-remote/data/logs/20241124T134228"}
+2024-11-24 13:42:28.698 [info] 
+
+
+
+
+2024-11-24 13:42:28.698 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/data/Machine (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-11-24 13:42:28.706 [trace] ExtensionManagementService#cleanUp
+2024-11-24 13:42:28.706 [trace] ExtensionManagementService#removeTempDeleteFolders
+2024-11-24 13:42:28.708 [info] Extension host agent started.
+2024-11-24 13:42:28.745 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-11-24 13:42:28.746 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/data/Machine'
+2024-11-24 13:42:28.748 [trace] [File Watcher (node.js)] ignoring a path for watching who's stat info failed to resolve: /home/vscode/.vscode-remote/data/Machine/settings.json (error: Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/data/Machine/settings.json')
+2024-11-24 13:42:28.749 [trace] [File Watcher (node.js)] starting fs.watchFile() on /home/vscode/.vscode-remote/data/Machine/settings.json (correlationId: undefined)
+2024-11-24 13:42:28.754 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ms-python.python-2024.21.2024112001
+2024-11-24 13:42:28.755 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/vscjava.vscode-java-dependency-0.24.1
+2024-11-24 13:42:28.755 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/vscjava.vscode-java-pack-0.29.2024091906
+2024-11-24 13:42:28.755 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ms-azuretools.vscode-docker-1.29.3
+2024-11-24 13:42:28.756 [debug] Removing uninstalled extensions: ["mechatroner.rainbow-csv-3.12.0"]
+2024-11-24 13:42:28.757 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions","external":"file:///home/vscode/.vscode-remote/extensions","path":"/home/vscode/.vscode-remote/extensions","scheme":"file"}
+2024-11-24 13:42:28.757 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions/extensions.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-11-24 13:42:28.757 [trace] [File Watcher (node.js)] Request to stop watching: /home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-11-24 13:42:28.758 [trace] [File Watcher (node.js)] stopping file watcher (/home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>))
+2024-11-24 13:42:28.760 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions'
+2024-11-24 13:42:28.761 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions","external":"file:///home/vscode/.vscode-remote/extensions","path":"/home/vscode/.vscode-remote/extensions","scheme":"file"}
+2024-11-24 13:42:29.053 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions/extensions.json'
+2024-11-24 13:42:29.786 [trace] Scanned user extensions: 22
+2024-11-24 13:42:29.788 [trace] Deleting uninstalled extension from disk mechatroner.rainbow-csv /home/vscode/.vscode-remote/extensions/mechatroner.rainbow-csv-3.12.0
+2024-11-24 13:42:29.790 [trace] [File Watcher (node.js)] [raw] ["rename"] mechatroner.rainbow-csv-3.12.0
+2024-11-24 13:42:29.790 [trace] [File Watcher (node.js)] [raw] ["rename"] mechatroner.rainbow-csv-3.12.0.-68faf6b1.vsctmp
+2024-11-24 13:42:29.791 [trace] Scanned user extensions: 21
+2024-11-24 13:42:29.890 [trace] [File Watcher (node.js)] [DELETED] /home/vscode/.vscode-remote/extensions/mechatroner.rainbow-csv-3.12.0
+2024-11-24 13:42:29.890 [trace] [File Watcher (node.js)] [ADDED] /home/vscode/.vscode-remote/extensions/mechatroner.rainbow-csv-3.12.0.-68faf6b1.vsctmp
+2024-11-24 13:42:29.930 [trace] [File Watcher (node.js)] [raw] ["rename"] mechatroner.rainbow-csv-3.12.0.-68faf6b1.vsctmp
+2024-11-24 13:42:29.930 [info] Deleted uninstalled extension from disk mechatroner.rainbow-csv /home/vscode/.vscode-remote/extensions/mechatroner.rainbow-csv-3.12.0
+2024-11-24 13:42:29.931 [trace] [File Watcher (node.js)] [raw] ["rename"] .obsolete
+2024-11-24 13:42:29.966 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/vscode/.vscode-remote/extensions/mechatroner.rainbow-csv-3.12.0
+2024-11-24 13:42:29.966 [trace] [File Watcher (node.js)]  >> normalized [ADDED] /home/vscode/.vscode-remote/extensions/mechatroner.rainbow-csv-3.12.0.-68faf6b1.vsctmp
+2024-11-24 13:42:30.003 [trace] [127.0.0.1][af412a86][ExtensionHostConnection] - startParams language: ja
+2024-11-24 13:42:30.004 [trace] [127.0.0.1][af412a86][ExtensionHostConnection] - startParams env: {}
+2024-11-24 13:42:30.004 [info] [127.0.0.1][af412a86][ExtensionHostConnection] New connection established.
+2024-11-24 13:42:30.005 [info] [127.0.0.1][c261788e][ManagementConnection] New connection established.
+2024-11-24 13:42:30.010 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-11-24 13:42:30.016 [info] [127.0.0.1][af412a86][ExtensionHostConnection] <877> Launched Extension Host Process.
+2024-11-24 13:42:30.030 [trace] [File Watcher (node.js)] [DELETED] /home/vscode/.vscode-remote/extensions/mechatroner.rainbow-csv-3.12.0.-68faf6b1.vsctmp
+2024-11-24 13:42:30.031 [trace] [File Watcher (node.js)] [DELETED] /home/vscode/.vscode-remote/extensions/.obsolete
+2024-11-24 13:42:30.052 [info] [127.0.0.1][af412a86][ExtensionHostConnection] <877><stderr> Error reading NLS messages file /home/vscode/.vscode-remote/data/clp/07dad9aebde73376c3d6313bc48d7ec6.ja/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/vscode/.vscode-remote/data/clp/07dad9aebde73376c3d6313bc48d7ec6.ja/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/nls.messages.json'
+
+2024-11-24 13:42:30.105 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/vscode/.vscode-remote/extensions/.obsolete
+2024-11-24 13:42:30.106 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/vscode/.vscode-remote/extensions/mechatroner.rainbow-csv-3.12.0.-68faf6b1.vsctmp
+2024-11-24 13:42:30.288 [trace] Started scanning system extensions
+2024-11-24 13:42:30.288 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-11-24 13:42:30.289 [trace] ExtensionManagementService.updateControlCache
+2024-11-24 13:42:30.289 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-11-24 13:42:30.291 [trace] Scanning extensions using UI language: ja
+2024-11-24 13:42:30.299 [trace] [network] #1: https://az764295.vo.msecnd.net/extensions/marketplace.json - begin GET {}
+2024-11-24 13:42:30.333 [info] Log level changed to info
+2024-11-24 13:42:30.993 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/extensions/mechatroner.rainbow-csv-3.12.0.-68faf6b1.vsctmp'
+    at hI.create (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/server-main.js:48:81778)
+    at ln (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/server-main.js:48:79103)
+    at Bl.ib (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/server-main.js:63:22686)
+    at Bl.stat (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/server-main.js:63:16017)
+    at async jc.stat (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/server-main.js:60:48457)
+    at async Oc.yb (file:///vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/server-main.js:51:18897)
+2024-11-24 13:47:28.708 [info] New EH opened, aborting shutdown

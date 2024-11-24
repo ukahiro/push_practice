@@ -1,0 +1,36 @@
+2024-11-24 13:42:45.355 [warning] /home/vscode/.ssh/config: ENOENT: no such file or directory, open '/home/vscode/.ssh/config'
+2024-11-24 13:42:45.355 [info] Activation> Extension version: 0.100.3
+2024-11-24 13:42:51.538 [info] Looking for git repository
+2024-11-24 13:42:51.538 [info] Found 0 repositories during activation
+2024-11-24 13:42:51.538 [info] Git repository found, initializing review manager and pr tree view.
+2024-11-24 13:42:51.544 [info] Registering git provider
+2024-11-24 13:42:51.544 [info] Review+0> Validate state in progress
+2024-11-24 13:42:51.544 [info] Review+0> Validating state...
+2024-11-24 13:42:51.544 [info] Review+1> Validate state in progress
+2024-11-24 13:42:51.544 [info] Review+1> Validating state...
+2024-11-24 13:42:51.737 [info] Found GitHub remote for folder /home/vscode/progate_path/self_introduction_push/self_introduction
+2024-11-24 13:42:51.738 [info] Found GitHub remote for folder /home/vscode
+2024-11-24 13:42:55.205 [info] Trying to use globalState for assignableUsers.
+2024-11-24 13:42:55.574 [info] Trying to use globalState for assignableUsers.
+2024-11-24 13:42:55.731 [info] Review+0> No matching pull request metadata found locally for current branch update-favorite-food
+2024-11-24 13:42:55.805 [info] Review+1> No matching pull request metadata found locally for current branch main
+2024-11-24 13:42:55.925 [info] Review+1> No matching pull request metadata found on GitHub for current branch main
+2024-11-24 13:42:56.035 [info] No globalState for assignableUsers.
+2024-11-24 13:42:56.101 [info] Using globalState assignableUsers for 1.
+2024-11-24 13:42:56.612 [info] Found matching pull request metadata on GitHub for current branch update-favorite-food. Repo: ukahiro/pull_request_practice PR: 1
+2024-11-24 13:42:56.613 [info] PullRequestGitHelper> associate update-favorite-food with Pull Request #1
+2024-11-24 13:42:56.674 [info] Repo state for file:///home/vscode/progate_path/self_introduction_push/self_introduction changed.
+2024-11-24 13:42:56.674 [info] Repo file:///home/vscode/progate_path/self_introduction_push/self_introduction has already been setup.
+2024-11-24 13:42:56.674 [info] Review+0> Found matching pull request metadata for current branch update-favorite-food. Repo: ukahiro/pull_request_practice PR: 1
+2024-11-24 13:42:56.674 [info] Review+0> current branch update-favorite-food is associated with pull request #1
+2024-11-24 13:42:56.674 [info] Review+0> Resolving pull request
+2024-11-24 13:42:56.675 [info] FolderRepositoryManager+0> Found GitHub repo for pr #1: yes
+2024-11-24 13:42:57.339 [info] FolderRepositoryManager+0> Found GitHub pr repo for pr #1: yes
+2024-11-24 13:42:57.340 [info] GitHubRepository+0> Fetch branch main - enter
+2024-11-24 13:42:57.892 [info] GitHubRepository+0> Fetch branch main - done: true
+2024-11-24 13:42:57.892 [info] Review+0> Resolved PR #1, state is 1
+2024-11-24 13:42:58.461 [info] Found matching pull request metadata on GitHub for current branch update-favorite-food. Repo: ukahiro/pull_request_practice PR: 1
+2024-11-24 13:42:58.461 [info] PullRequestGitHelper> associate update-favorite-food with Pull Request #1
+2024-11-24 13:42:58.508 [info] Review+0> This PR is merged
+2024-11-24 14:07:58.138 [info] Repo state for file:///home/vscode changed.
+2024-11-24 14:07:58.138 [info] Repo file:///home/vscode has already been setup.

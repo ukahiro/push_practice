@@ -1,0 +1,1 @@
+task_id:"wS78m5a3nvSb97TZOlxer"  situation_id:"0tmM2EJ8qOhNfhQxYEEJi"  check_item:{check_item_id:"F0KihU4A0Dj0L1WC6PZNF"  command:{command_id:"z4iHTlJR0nTwzGj_LnwJM"  command_line:"progate diagnose"}}  check_item:{check_item_id:"1jFVDv6e7T2NqZKRENUNS"  command:{command_id:"T-A6bJ3IOGFhMX7BcO0Qy"  command_line:"bash ./test/test_push.sh"}}

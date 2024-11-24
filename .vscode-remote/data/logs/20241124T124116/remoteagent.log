@@ -1,0 +1,156 @@
+2024-11-24 12:41:16.985 [trace] Remote configuration data at /home/vscode/.vscode-remote
+2024-11-24 12:41:16.985 [trace] process arguments: {"_":[],"host":"127.0.0.1","port":"0","connection-token-file":"/home/vscode/.vscode-remote/data/Machine/.connection-token-f1a4fb101478ce6ec82fe9627c43efbf9e98c813","without-connection-token":false,"disable-websocket-compression":false,"print-startup-performance":false,"print-ip-address":false,"accept-server-license-terms":true,"server-data-dir":"/home/vscode/.vscode-remote","enable-smoke-test-driver":false,"disable-telemetry":false,"disable-workspace-trust":false,"log":["trace"],"force-disable-user-env":true,"enable-sync":false,"use-test-resolver":false,"extensions-download-dir":"/home/vscode/.vscode-remote/extensionsCache","update-extensions":false,"list-extensions":false,"show-versions":false,"force":false,"do-not-sync":false,"pre-release":false,"start-server":true,"enable-remote-auto-shutdown":true,"remote-auto-shutdown-without-delay":false,"use-host-proxy":false,"without-browser-env-var":false,"help":false,"version":false,"user-data-dir":"/home/vscode/.vscode-remote/data","builtin-extensions-dir":"/vscode/bin/linux-x64/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions","extensions-dir":"/home/vscode/.vscode-remote/extensions","logsPath":"/home/vscode/.vscode-remote/data/logs/20241124T124116"}
+2024-11-24 12:41:16.985 [info] 
+
+
+
+
+2024-11-24 12:41:16.985 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/data/Machine (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-11-24 12:41:16.994 [trace] ExtensionManagementService#cleanUp
+2024-11-24 12:41:16.994 [trace] ExtensionManagementService#removeTempDeleteFolders
+2024-11-24 12:41:16.996 [info] Extension host agent started.
+2024-11-24 12:41:17.038 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/data/Machine'
+2024-11-24 12:41:17.039 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-11-24 12:41:17.041 [debug] No uninstalled extensions found.
+2024-11-24 12:41:17.042 [trace] [File Watcher (node.js)] ignoring a path for watching who's stat info failed to resolve: /home/vscode/.vscode-remote/data/Machine/settings.json (error: Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/data/Machine/settings.json')
+2024-11-24 12:41:17.042 [trace] [File Watcher (node.js)] starting fs.watchFile() on /home/vscode/.vscode-remote/data/Machine/settings.json (correlationId: undefined)
+2024-11-24 12:41:17.049 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/esbenp.prettier-vscode-11.0.0
+2024-11-24 12:41:17.049 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ms-azuretools.vscode-docker-1.29.3
+2024-11-24 12:41:17.049 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ms-python.python-2024.21.2024112001
+2024-11-24 12:41:17.049 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ms-toolsai.jupyter-2024.11.2024111901
+2024-11-24 12:41:17.051 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions'
+2024-11-24 12:41:17.082 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions","external":"file:///home/vscode/.vscode-remote/extensions","path":"/home/vscode/.vscode-remote/extensions","scheme":"file"}
+2024-11-24 12:41:17.087 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions/extensions.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-11-24 12:41:17.087 [trace] [File Watcher (node.js)] Request to stop watching: /home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-11-24 12:41:17.088 [trace] [File Watcher (node.js)] stopping file watcher (/home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>))
+2024-11-24 12:41:17.726 [info] [127.0.0.1][81d0a6ca][ManagementConnection] New connection established.
+2024-11-24 12:41:17.742 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions/extensions.json'
+2024-11-24 12:41:17.829 [trace] [127.0.0.1][03b63819][ExtensionHostConnection] - startParams language: ja
+2024-11-24 12:41:17.829 [trace] [127.0.0.1][03b63819][ExtensionHostConnection] - startParams env: {}
+2024-11-24 12:41:17.830 [info] [127.0.0.1][03b63819][ExtensionHostConnection] New connection established.
+2024-11-24 12:41:17.995 [trace] Started scanning system extensions
+2024-11-24 12:41:17.995 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-11-24 12:41:17.996 [trace] ExtensionManagementService.updateControlCache
+2024-11-24 12:41:17.996 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-11-24 12:41:17.998 [trace] Scanning extensions using UI language: ja
+2024-11-24 12:41:18.007 [trace] [network] #1: https://az764295.vo.msecnd.net/extensions/marketplace.json - begin GET {}
+2024-11-24 12:41:18.044 [info] Log level changed to info
+2024-11-24 12:41:18.137 [info] [127.0.0.1][03b63819][ExtensionHostConnection] <872> Launched Extension Host Process.
+2024-11-24 12:41:24.011 [info] Getting Manifest... mechatroner.rainbow-csv
+2024-11-24 12:41:24.091 [info] Installing extension: mechatroner.rainbow-csv {"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}}
+2024-11-24 12:41:26.249 [info] Extension signature verification result for mechatroner.rainbow-csv: Success. Executed: true. Duration: 1688ms.
+2024-11-24 12:41:26.335 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/mechatroner.rainbow-csv-3.13.0: mechatroner.rainbow-csv
+2024-11-24 12:41:26.340 [info] Renamed to /home/vscode/.vscode-remote/extensions/mechatroner.rainbow-csv-3.13.0
+2024-11-24 12:41:26.358 [info] Marked extension as uninstalled mechatroner.rainbow-csv-3.12.0
+2024-11-24 12:41:26.373 [info] Extension installed successfully: mechatroner.rainbow-csv file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-11-24 12:44:00.125 [info] [127.0.0.1][9622c652][ManagementConnection] New connection established.
+2024-11-24 12:44:00.126 [info] [127.0.0.1][90fd4e2d][ExtensionHostConnection] New connection established.
+2024-11-24 12:44:00.130 [info] [127.0.0.1][90fd4e2d][ExtensionHostConnection] <3271> Launched Extension Host Process.
+2024-11-24 12:44:22.774 [info] [127.0.0.1][81d0a6ca][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-11-24 12:45:18.072 [info] [127.0.0.1][81d0a6ca][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-11-24 12:45:18.073 [info] [127.0.0.1][9f59d849][ManagementConnection] New connection established.
+2024-11-24 12:45:18.075 [info] [127.0.0.1][1b906264][ExtensionHostConnection] New connection established.
+2024-11-24 12:45:18.079 [info] [127.0.0.1][1b906264][ExtensionHostConnection] <5352> Launched Extension Host Process.
+2024-11-24 12:45:53.764 [info] [127.0.0.1][2f48d6c9][ManagementConnection] New connection established.
+2024-11-24 12:45:53.773 [info] [127.0.0.1][03a690b3][ExtensionHostConnection] New connection established.
+2024-11-24 12:45:53.777 [info] [127.0.0.1][03a690b3][ExtensionHostConnection] <6786> Launched Extension Host Process.
+2024-11-24 12:45:56.305 [warning] RequestStore#acceptReply was called without receiving a matching request 326
+2024-11-24 12:45:56.305 [warning] RequestStore#acceptReply was called without receiving a matching request 327
+2024-11-24 12:45:56.305 [warning] RequestStore#acceptReply was called without receiving a matching request 328
+2024-11-24 12:45:56.305 [warning] RequestStore#acceptReply was called without receiving a matching request 329
+2024-11-24 12:45:56.306 [warning] RequestStore#acceptReply was called without receiving a matching request 330
+2024-11-24 12:45:56.306 [warning] RequestStore#acceptReply was called without receiving a matching request 331
+2024-11-24 12:45:56.307 [warning] RequestStore#acceptReply was called without receiving a matching request 332
+2024-11-24 12:45:56.307 [warning] RequestStore#acceptReply was called without receiving a matching request 333
+2024-11-24 12:45:56.307 [warning] RequestStore#acceptReply was called without receiving a matching request 334
+2024-11-24 12:45:56.307 [warning] RequestStore#acceptReply was called without receiving a matching request 335
+2024-11-24 12:45:56.307 [warning] RequestStore#acceptReply was called without receiving a matching request 336
+2024-11-24 12:45:56.307 [warning] RequestStore#acceptReply was called without receiving a matching request 337
+2024-11-24 12:45:56.307 [warning] RequestStore#acceptReply was called without receiving a matching request 338
+2024-11-24 12:45:56.308 [warning] RequestStore#acceptReply was called without receiving a matching request 339
+2024-11-24 12:45:56.308 [warning] RequestStore#acceptReply was called without receiving a matching request 340
+2024-11-24 12:45:56.308 [warning] RequestStore#acceptReply was called without receiving a matching request 341
+2024-11-24 12:45:56.308 [warning] RequestStore#acceptReply was called without receiving a matching request 342
+2024-11-24 12:45:56.309 [warning] RequestStore#acceptReply was called without receiving a matching request 343
+2024-11-24 12:45:56.309 [warning] RequestStore#acceptReply was called without receiving a matching request 344
+2024-11-24 12:45:56.309 [warning] RequestStore#acceptReply was called without receiving a matching request 345
+2024-11-24 12:45:56.309 [warning] RequestStore#acceptReply was called without receiving a matching request 346
+2024-11-24 12:45:56.309 [warning] RequestStore#acceptReply was called without receiving a matching request 347
+2024-11-24 12:45:56.309 [warning] RequestStore#acceptReply was called without receiving a matching request 348
+2024-11-24 12:45:56.309 [warning] RequestStore#acceptReply was called without receiving a matching request 349
+2024-11-24 12:45:56.309 [warning] RequestStore#acceptReply was called without receiving a matching request 350
+2024-11-24 12:45:56.309 [warning] RequestStore#acceptReply was called without receiving a matching request 351
+2024-11-24 12:45:56.309 [warning] RequestStore#acceptReply was called without receiving a matching request 352
+2024-11-24 12:45:56.309 [warning] RequestStore#acceptReply was called without receiving a matching request 353
+2024-11-24 12:45:56.309 [warning] RequestStore#acceptReply was called without receiving a matching request 354
+2024-11-24 12:45:56.310 [warning] RequestStore#acceptReply was called without receiving a matching request 355
+2024-11-24 12:45:56.310 [warning] RequestStore#acceptReply was called without receiving a matching request 356
+2024-11-24 12:45:56.310 [warning] RequestStore#acceptReply was called without receiving a matching request 357
+2024-11-24 12:45:56.310 [warning] RequestStore#acceptReply was called without receiving a matching request 358
+2024-11-24 12:45:56.310 [warning] RequestStore#acceptReply was called without receiving a matching request 359
+2024-11-24 12:45:56.310 [warning] RequestStore#acceptReply was called without receiving a matching request 360
+2024-11-24 12:45:56.310 [warning] RequestStore#acceptReply was called without receiving a matching request 361
+2024-11-24 12:45:56.310 [warning] RequestStore#acceptReply was called without receiving a matching request 362
+2024-11-24 12:45:56.310 [warning] RequestStore#acceptReply was called without receiving a matching request 363
+2024-11-24 12:45:56.310 [warning] RequestStore#acceptReply was called without receiving a matching request 364
+2024-11-24 12:45:59.060 [warning] RequestStore#acceptReply was called without receiving a matching request 365
+2024-11-24 12:45:59.060 [warning] RequestStore#acceptReply was called without receiving a matching request 366
+2024-11-24 12:45:59.060 [warning] RequestStore#acceptReply was called without receiving a matching request 367
+2024-11-24 12:45:59.060 [warning] RequestStore#acceptReply was called without receiving a matching request 368
+2024-11-24 12:45:59.060 [warning] RequestStore#acceptReply was called without receiving a matching request 369
+2024-11-24 12:45:59.060 [warning] RequestStore#acceptReply was called without receiving a matching request 370
+2024-11-24 12:45:59.060 [warning] RequestStore#acceptReply was called without receiving a matching request 371
+2024-11-24 12:45:59.060 [warning] RequestStore#acceptReply was called without receiving a matching request 372
+2024-11-24 12:45:59.060 [warning] RequestStore#acceptReply was called without receiving a matching request 373
+2024-11-24 12:45:59.060 [warning] RequestStore#acceptReply was called without receiving a matching request 374
+2024-11-24 12:45:59.061 [warning] RequestStore#acceptReply was called without receiving a matching request 375
+2024-11-24 12:45:59.061 [warning] RequestStore#acceptReply was called without receiving a matching request 376
+2024-11-24 12:45:59.061 [warning] RequestStore#acceptReply was called without receiving a matching request 377
+2024-11-24 12:46:00.641 [warning] RequestStore#acceptReply was called without receiving a matching request 378
+2024-11-24 12:46:00.641 [warning] RequestStore#acceptReply was called without receiving a matching request 379
+2024-11-24 12:46:00.641 [warning] RequestStore#acceptReply was called without receiving a matching request 380
+2024-11-24 12:46:00.641 [warning] RequestStore#acceptReply was called without receiving a matching request 381
+2024-11-24 12:46:00.642 [warning] RequestStore#acceptReply was called without receiving a matching request 382
+2024-11-24 12:46:00.642 [warning] RequestStore#acceptReply was called without receiving a matching request 383
+2024-11-24 12:46:00.642 [warning] RequestStore#acceptReply was called without receiving a matching request 384
+2024-11-24 12:46:00.642 [warning] RequestStore#acceptReply was called without receiving a matching request 385
+2024-11-24 12:46:00.643 [warning] RequestStore#acceptReply was called without receiving a matching request 386
+2024-11-24 12:46:00.643 [warning] RequestStore#acceptReply was called without receiving a matching request 387
+2024-11-24 12:46:00.643 [warning] RequestStore#acceptReply was called without receiving a matching request 388
+2024-11-24 12:46:00.643 [warning] RequestStore#acceptReply was called without receiving a matching request 389
+2024-11-24 12:46:00.643 [warning] RequestStore#acceptReply was called without receiving a matching request 390
+2024-11-24 12:46:00.645 [warning] RequestStore#acceptReply was called without receiving a matching request 391
+2024-11-24 12:46:00.645 [warning] RequestStore#acceptReply was called without receiving a matching request 392
+2024-11-24 12:46:00.646 [warning] RequestStore#acceptReply was called without receiving a matching request 393
+2024-11-24 12:46:00.646 [warning] RequestStore#acceptReply was called without receiving a matching request 394
+2024-11-24 12:46:00.646 [warning] RequestStore#acceptReply was called without receiving a matching request 395
+2024-11-24 12:46:00.646 [warning] RequestStore#acceptReply was called without receiving a matching request 396
+2024-11-24 12:46:00.647 [warning] RequestStore#acceptReply was called without receiving a matching request 397
+2024-11-24 12:46:00.648 [warning] RequestStore#acceptReply was called without receiving a matching request 398
+2024-11-24 12:46:00.649 [warning] RequestStore#acceptReply was called without receiving a matching request 399
+2024-11-24 12:46:00.650 [warning] RequestStore#acceptReply was called without receiving a matching request 400
+2024-11-24 12:46:00.650 [warning] RequestStore#acceptReply was called without receiving a matching request 401
+2024-11-24 12:46:00.651 [warning] RequestStore#acceptReply was called without receiving a matching request 402
+2024-11-24 12:46:00.651 [warning] RequestStore#acceptReply was called without receiving a matching request 403
+2024-11-24 12:46:16.997 [info] New EH opened, aborting shutdown
+2024-11-24 12:46:29.462 [warning] RequestStore#acceptReply was called without receiving a matching request 404
+2024-11-24 12:46:29.462 [warning] RequestStore#acceptReply was called without receiving a matching request 405
+2024-11-24 12:46:29.462 [warning] RequestStore#acceptReply was called without receiving a matching request 406
+2024-11-24 12:46:29.463 [warning] RequestStore#acceptReply was called without receiving a matching request 407
+2024-11-24 12:46:29.463 [warning] RequestStore#acceptReply was called without receiving a matching request 408
+2024-11-24 12:46:29.464 [warning] RequestStore#acceptReply was called without receiving a matching request 409
+2024-11-24 12:46:29.465 [warning] RequestStore#acceptReply was called without receiving a matching request 410
+2024-11-24 12:46:29.465 [warning] RequestStore#acceptReply was called without receiving a matching request 411
+2024-11-24 12:46:29.467 [warning] RequestStore#acceptReply was called without receiving a matching request 412
+2024-11-24 12:46:29.467 [warning] RequestStore#acceptReply was called without receiving a matching request 413
+2024-11-24 12:46:29.468 [warning] RequestStore#acceptReply was called without receiving a matching request 414
+2024-11-24 12:46:29.470 [warning] RequestStore#acceptReply was called without receiving a matching request 415
+2024-11-24 12:46:29.470 [warning] RequestStore#acceptReply was called without receiving a matching request 416
+2024-11-24 12:47:18.904 [info] [127.0.0.1][9622c652][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-11-24 12:47:19.581 [info] [127.0.0.1][9f59d849][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-11-24 12:48:42.569 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-11-24 12:48:42.570 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-11-24 12:48:42.570 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-11-24 12:48:42.571 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-11-24 12:49:00.485 [info] [127.0.0.1][03b63819][ExtensionHostConnection] <872> Extension Host Process exited with code: 0, signal: null.
+2024-11-24 12:50:18.142 [info] [127.0.0.1][81d0a6ca][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
